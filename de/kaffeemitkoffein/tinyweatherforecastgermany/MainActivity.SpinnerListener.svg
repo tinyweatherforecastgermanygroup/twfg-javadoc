@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="712px" height="232px" style="background:transparent;height:232px;width:712px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 712 232" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="MainActivity.SpinnerListener.html" target="_top" title="MainActivity.SpinnerListener.html" xlink:actuate="onRequest" xlink:href="MainActivity.SpinnerListener.html" xlink:show="new" xlink:title="MainActivity.SpinnerListener.html" xlink:type="simple">
+<rect id="b" x="141" y="105" width="303" height="97.156" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="169.95" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m172.92 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="211.55" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="191">MainActivity.SpinnerListener</text>
+<text x="187.05" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="142" x2="443" y1="142.94" y2="142.94" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="152" cy="153.94" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="161" y="157.1479" fill="#000000" font-family="sans-serif" font-size="11" textLength="211">onTouch(View, MotionEvent): boolean</text>
+<ellipse cx="152" cy="166.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="161" y="169.9526" fill="#000000" font-family="sans-serif" font-size="11" textLength="277">handleItemSelected(&lt;any&gt;, View, int, long): void</text>
+<ellipse cx="152" cy="179.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="161" y="182.7573" fill="#000000" font-family="sans-serif" font-size="11" textLength="253">onItemSelected(&lt;any&gt;, View, int, long): void</text>
+<ellipse cx="152" cy="192.35" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="161" y="195.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="183">onNothingSelected(&lt;any&gt;): void</text>
+</a>
+<rect id="c" x="7" y="7" width="151" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="12"/>
+<ellipse cx="22" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#A80036"/>
+<path d="m17.922 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="36" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="119">OnTouchListener</text>
+<text x="84" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="23">View</text>
+<rect id="d" x="193.5" y="7" width="198" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="13"/>
+<ellipse cx="208.5" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#A80036"/>
+<path d="m204.42 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="222.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="166">OnItemSelectedListener</text>
+<text x="274.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="62">AdapterView</text>
+<a href="MainActivity.html" target="_top" title="MainActivity.html" xlink:actuate="onRequest" xlink:href="MainActivity.html" xlink:show="new" xlink:title="MainActivity.html" xlink:type="simple">
+<rect id="e" x="426.5" y="7" width="272" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="14"/>
+<ellipse cx="441.5" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m444.47 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="536" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">MainActivity</text>
+<text x="455.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="f" d="m130.41 55.63c24.42 14.59 54.75 32.72 82.55 49.33" fill="none" stroke="#A80036" stroke-dasharray="7.0,7.0" codeLine="16"/>
+<polygon points="126.61 61.52 113.04 45.25 133.79 49.5" fill="none" stroke="#A80036"/>
+<path id="g" d="m292.5 65.52v39.44" fill="none" stroke="#A80036" stroke-dasharray="7.0,7.0" codeLine="17"/>
+<polygon points="285.5 65.25 292.5 45.25 299.5 65.25" fill="none" stroke="#A80036"/>
+<path id="h" d="m509.77 51.51c-32.64 15.17-75.65 35.16-114.79 53.35" fill="none" stroke="#A80036" codeLine="18"/>
+<ellipse cx="516.28" cy="48.485" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="509.02" x2="523.53" y1="51.86" y2="45.11" stroke="#A80036"/>
+<line x1="512.9" x2="519.65" y1="41.232" y2="55.738" stroke="#A80036"/>
+<text x="253.75" y="224.4385" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

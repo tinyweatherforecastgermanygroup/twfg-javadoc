@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="396px" height="2699px" style="background:transparent;height:2699px;width:396px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 396 2699" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="WeatherContentProvider.WeatherDatabaseHelper.html" target="_top" title="WeatherContentProvider.WeatherDatabaseHelper.html" xlink:actuate="onRequest" xlink:href="WeatherContentProvider.WeatherDatabaseHelper.html" xlink:show="new" xlink:title="WeatherContentProvider.WeatherDatabaseHelper.html" xlink:type="simple">
+<rect id="b" x="7" y="105" width="375" height="2563.7" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="22" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m24.969 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="36" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="343">WeatherContentProvider.WeatherDatabaseHelper</text>
+<text x="87.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="381" y1="142.94" y2="142.94" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="153.94" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="157.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="280">SQL_COMMAND_DROP_TABLE_FORECASTS: String</text>
+<ellipse cx="18" cy="166.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="169.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="272">SQL_COMMAND_DROP_TABLE_WARNINGS: String</text>
+<ellipse cx="18" cy="179.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="182.7573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="249">SQL_COMMAND_DROP_TABLE_TEXTS: String</text>
+<ellipse cx="18" cy="192.35" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="195.562" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="249">SQL_COMMAND_DROP_TABLE_AREAS: String</text>
+<ellipse cx="18" cy="205.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.3667" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="152">KEY_FORECASTS_id: String</text>
+<ellipse cx="18" cy="217.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="221.1714" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="188">KEY_FORECASTS_timetext: String</text>
+<ellipse cx="18" cy="230.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="233.9761" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="203">KEY_FORECASTS_timestamp: String</text>
+<ellipse cx="18" cy="243.57" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="246.7808" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_name: String</text>
+<ellipse cx="18" cy="256.38" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="259.5854" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="205">KEY_FORECASTS_description: String</text>
+<ellipse cx="18" cy="269.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="272.3901" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="194">KEY_FORECASTS_longitude: String</text>
+<ellipse cx="18" cy="281.98" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="285.1948" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="184">KEY_FORECASTS_latitude: String</text>
+<ellipse cx="18" cy="294.79" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="297.9995" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="184">KEY_FORECASTS_altitude: String</text>
+<ellipse cx="18" cy="307.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="310.8042" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="210">KEY_FORECASTS_polling_time: String</text>
+<ellipse cx="18" cy="320.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="323.6089" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="195">KEY_FORECASTS_elements: String</text>
+<ellipse cx="18" cy="333.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="336.4136" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="199">KEY_FORECASTS_timesteps: String</text>
+<ellipse cx="18" cy="346.01" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="349.2183" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="163">KEY_FORECASTS_TTT: String</text>
+<ellipse cx="18" cy="358.81" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="362.0229" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_E_TTT: String</text>
+<ellipse cx="18" cy="371.62" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="374.8276" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="173">KEY_FORECASTS_T5cm: String</text>
+<ellipse cx="18" cy="384.42" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="387.6323" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="156">KEY_FORECASTS_Td: String</text>
+<ellipse cx="18" cy="397.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="400.437" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_E_Td: String</text>
+<ellipse cx="18" cy="410.03" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="413.2417" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="155">KEY_FORECASTS_Tx: String</text>
+<ellipse cx="18" cy="422.84" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="426.0464" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="156">KEY_FORECASTS_Tn: String</text>
+<ellipse cx="18" cy="435.64" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="438.8511" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="158">KEY_FORECASTS_TM: String</text>
+<ellipse cx="18" cy="448.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="451.6558" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="158">KEY_FORECASTS_TG: String</text>
+<ellipse cx="18" cy="461.25" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="464.4604" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="158">KEY_FORECASTS_DD: String</text>
+<ellipse cx="18" cy="474.05" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="477.2651" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="171">KEY_FORECASTS_E_DD: String</text>
+<ellipse cx="18" cy="486.86" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="490.0698" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="154">KEY_FORECASTS_FF: String</text>
+<ellipse cx="18" cy="499.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="502.8745" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="167">KEY_FORECASTS_E_FF: String</text>
+<ellipse cx="18" cy="512.47" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="515.6792" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="162">KEY_FORECASTS_FX1: String</text>
+<ellipse cx="18" cy="525.27" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="528.4839" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="162">KEY_FORECASTS_FX3: String</text>
+<ellipse cx="18" cy="538.08" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="541.2886" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="162">KEY_FORECASTS_FXh: String</text>
+<ellipse cx="18" cy="550.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="554.0933" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_FXh25: String</text>
+<ellipse cx="18" cy="563.69" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="566.8979" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_FXh40: String</text>
+<ellipse cx="18" cy="576.49" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="579.7026" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_FXh55: String</text>
+<ellipse cx="18" cy="589.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="592.5073" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_FX625: String</text>
+<ellipse cx="18" cy="602.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="605.312" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_FX640: String</text>
+<ellipse cx="18" cy="614.91" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="618.1167" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_FX655: String</text>
+<ellipse cx="18" cy="627.71" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="630.9214" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_RR1c: String</text>
+<ellipse cx="18" cy="640.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="643.7261" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_FORECASTS_RRL1c: String</text>
+<ellipse cx="18" cy="653.32" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="656.5308" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="163">KEY_FORECASTS_RR3: String</text>
+<ellipse cx="18" cy="666.12" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="669.3354" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="163">KEY_FORECASTS_RR6: String</text>
+<ellipse cx="18" cy="678.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="682.1401" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_RR3c: String</text>
+<ellipse cx="18" cy="691.73" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="694.9448" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_RR6c: String</text>
+<ellipse cx="18" cy="704.54" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="707.7495" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_RRhc: String</text>
+<ellipse cx="18" cy="717.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="720.5542" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_RRdc: String</text>
+<ellipse cx="18" cy="730.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="733.3589" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="177">KEY_FORECASTS_RRS1c: String</text>
+<ellipse cx="18" cy="742.95" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="746.1636" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="177">KEY_FORECASTS_RRS3c: String</text>
+<ellipse cx="18" cy="755.76" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="758.9683" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R101: String</text>
+<ellipse cx="18" cy="768.56" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="771.7729" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R102: String</text>
+<ellipse cx="18" cy="781.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="784.5776" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R103: String</text>
+<ellipse cx="18" cy="794.17" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="797.3823" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R105: String</text>
+<ellipse cx="18" cy="806.98" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="810.187" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R107: String</text>
+<ellipse cx="18" cy="819.78" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="822.9917" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R110: String</text>
+<ellipse cx="18" cy="832.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="835.7964" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R120: String</text>
+<ellipse cx="18" cy="845.39" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="848.6011" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R130: String</text>
+<ellipse cx="18" cy="858.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="861.4058" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R150: String</text>
+<ellipse cx="18" cy="871" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="874.2104" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="177">KEY_FORECASTS_RR1o1: String</text>
+<ellipse cx="18" cy="883.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="887.0151" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="179">KEY_FORECASTS_RR1w1: String</text>
+<ellipse cx="18" cy="896.61" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="899.8198" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="177">KEY_FORECASTS_RR1u1: String</text>
+<ellipse cx="18" cy="909.41" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="912.6245" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R600: String</text>
+<ellipse cx="18" cy="922.22" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="925.4292" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rh00: String</text>
+<ellipse cx="18" cy="935.02" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="938.2339" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R602: String</text>
+<ellipse cx="18" cy="947.83" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="951.0386" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rh02: String</text>
+<ellipse cx="18" cy="960.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="963.8433" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rd02: String</text>
+<ellipse cx="18" cy="973.44" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="976.6479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R610: String</text>
+<ellipse cx="18" cy="986.24" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="989.4526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rh10: String</text>
+<ellipse cx="18" cy="999.05" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1002.2573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_R650: String</text>
+<ellipse cx="18" cy="1011.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1015.062" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rh50: String</text>
+<ellipse cx="18" cy="1024.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1027.8667" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rd00: String</text>
+<ellipse cx="18" cy="1037.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1040.6714" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rd10: String</text>
+<ellipse cx="18" cy="1050.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1053.4761" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_Rd50: String</text>
+<ellipse cx="18" cy="1063.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1066.2808" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_wwPd: String</text>
+<ellipse cx="18" cy="1075.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1079.0854" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="171">KEY_FORECASTS_DRR1: String</text>
+<ellipse cx="18" cy="1088.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1091.8901" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_wwZ: String</text>
+<ellipse cx="18" cy="1101.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1104.6948" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_wwZ6: String</text>
+<ellipse cx="18" cy="1114.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1117.4995" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_wwZh: String</text>
+<ellipse cx="18" cy="1127.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1130.3042" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="168">KEY_FORECASTS_wwD: String</text>
+<ellipse cx="18" cy="1139.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1143.1089" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_FORECASTS_wwD6: String</text>
+<ellipse cx="18" cy="1152.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1155.9136" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_FORECASTS_wwDh: String</text>
+<ellipse cx="18" cy="1165.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1168.7183" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="168">KEY_FORECASTS_wwC: String</text>
+<ellipse cx="18" cy="1178.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1181.5229" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_FORECASTS_wwC6: String</text>
+<ellipse cx="18" cy="1191.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1194.3276" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_FORECASTS_wwCh: String</text>
+<ellipse cx="18" cy="1203.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1207.1323" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="167">KEY_FORECASTS_wwT: String</text>
+<ellipse cx="18" cy="1216.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1219.937" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_wwT6: String</text>
+<ellipse cx="18" cy="1229.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1232.7417" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_wwTh: String</text>
+<ellipse cx="18" cy="1242.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1245.5464" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_wwTd: String</text>
+<ellipse cx="18" cy="1255.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1258.3511" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="166">KEY_FORECASTS_wwL: String</text>
+<ellipse cx="18" cy="1267.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1271.1558" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="173">KEY_FORECASTS_wwL6: String</text>
+<ellipse cx="18" cy="1280.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1283.9604" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="173">KEY_FORECASTS_wwLh: String</text>
+<ellipse cx="18" cy="1293.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1296.7651" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="168">KEY_FORECASTS_wwS: String</text>
+<ellipse cx="18" cy="1306.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1309.5698" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_FORECASTS_wwS6: String</text>
+<ellipse cx="18" cy="1319.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1322.3745" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_FORECASTS_wwSh: String</text>
+<ellipse cx="18" cy="1332" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1335.1792" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="166">KEY_FORECASTS_wwF: String</text>
+<ellipse cx="18" cy="1344.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1347.9839" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="173">KEY_FORECASTS_wwF6: String</text>
+<ellipse cx="18" cy="1357.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1360.7886" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="173">KEY_FORECASTS_wwFh: String</text>
+<ellipse cx="18" cy="1370.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1373.5933" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="167">KEY_FORECASTS_wwP: String</text>
+<ellipse cx="18" cy="1383.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1386.3979" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_wwP6: String</text>
+<ellipse cx="18" cy="1396" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1399.2026" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_wwPh: String</text>
+<ellipse cx="18" cy="1408.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1412.0073" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_VV10: String</text>
+<ellipse cx="18" cy="1421.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1424.812" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="160">KEY_FORECASTS_ww: String</text>
+<ellipse cx="18" cy="1434.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1437.6167" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="167">KEY_FORECASTS_ww3: String</text>
+<ellipse cx="18" cy="1447.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1450.4214" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_FORECASTS_W1W2: String</text>
+<ellipse cx="18" cy="1460" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1463.2261" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_WPc11: String</text>
+<ellipse cx="18" cy="1472.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1476.0308" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_WPc31: String</text>
+<ellipse cx="18" cy="1485.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1488.8354" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_WPc61: String</text>
+<ellipse cx="18" cy="1498.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1501.6401" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_WPch1: String</text>
+<ellipse cx="18" cy="1511.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1514.4448" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_WPcd1: String</text>
+<ellipse cx="18" cy="1524" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1527.2495" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="150">KEY_FORECASTS_N: String</text>
+<ellipse cx="18" cy="1536.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1540.0542" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="164">KEY_FORECASTS_N05: String</text>
+<ellipse cx="18" cy="1549.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1552.8589" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="153">KEY_FORECASTS_Nl: String</text>
+<ellipse cx="18" cy="1562.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1565.6636" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="161">KEY_FORECASTS_Nm: String</text>
+<ellipse cx="18" cy="1575.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1578.4683" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="157">KEY_FORECASTS_Nh: String</text>
+<ellipse cx="18" cy="1588.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1591.2729" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="164">KEY_FORECASTS_Nlm: String</text>
+<ellipse cx="18" cy="1600.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1604.0776" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="179">KEY_FORECASTS_H_BsC: String</text>
+<ellipse cx="18" cy="1613.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1616.8823" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_FORECASTS_PPPP: String</text>
+<ellipse cx="18" cy="1626.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1629.687" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_E_PPP: String</text>
+<ellipse cx="18" cy="1639.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1642.4917" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_RadS3: String</text>
+<ellipse cx="18" cy="1652.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1655.2964" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="177">KEY_FORECASTS_RRad1: String</text>
+<ellipse cx="18" cy="1664.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1668.1011" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="177">KEY_FORECASTS_Rad1h: String</text>
+<ellipse cx="18" cy="1677.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1680.9058" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_RadL3: String</text>
+<ellipse cx="18" cy="1690.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1693.7104" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="156">KEY_FORECASTS_VV: String</text>
+<ellipse cx="18" cy="1703.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1706.5151" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="157">KEY_FORECASTS_D1: String</text>
+<ellipse cx="18" cy="1716.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1719.3198" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="172">KEY_FORECASTS_SunD: String</text>
+<ellipse cx="18" cy="1728.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1732.1245" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="179">KEY_FORECASTS_SunD3: String</text>
+<ellipse cx="18" cy="1741.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1744.9292" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="179">KEY_FORECASTS_RSunD: String</text>
+<ellipse cx="18" cy="1754.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1757.7339" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_PSd00: String</text>
+<ellipse cx="18" cy="1767.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1770.5386" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_PSd30: String</text>
+<ellipse cx="18" cy="1780.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1783.3433" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="178">KEY_FORECASTS_PSd60: String</text>
+<ellipse cx="18" cy="1792.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1796.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="169">KEY_FORECASTS_wwM: String</text>
+<ellipse cx="18" cy="1805.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1808.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_wwM6: String</text>
+<ellipse cx="18" cy="1818.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1821.7573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_wwMh: String</text>
+<ellipse cx="18" cy="1831.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1834.562" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_wwMd: String</text>
+<ellipse cx="18" cy="1844.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1847.3667" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_FORECASTS_PEvap: String</text>
+<ellipse cx="18" cy="1857" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1860.1714" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="292">SQL_COMMAND_CREATE_TABLE_FORECASTS: String</text>
+<ellipse cx="18" cy="1869.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1872.9761" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="144">KEY_WARNINGS_id: String</text>
+<ellipse cx="18" cy="1882.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1885.7808" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="202">KEY_WARNINGS_polling_time: String</text>
+<ellipse cx="18" cy="1895.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1898.5854" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="184">KEY_WARNINGS_identifier: String</text>
+<ellipse cx="18" cy="1908.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1911.3901" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_WARNINGS_sender: String</text>
+<ellipse cx="18" cy="1921" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1924.1948" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="159">KEY_WARNINGS_sent: String</text>
+<ellipse cx="18" cy="1933.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1936.9995" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="170">KEY_WARNINGS_status: String</text>
+<ellipse cx="18" cy="1946.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1949.8042" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="186">KEY_WARNINGS_msgType: String</text>
+<ellipse cx="18" cy="1959.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1962.6089" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="173">KEY_WARNINGS_source: String</text>
+<ellipse cx="18" cy="1972.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1975.4136" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="168">KEY_WARNINGS_scope: String</text>
+<ellipse cx="18" cy="1985" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="1988.2183" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="168">KEY_WARNINGS_codes: String</text>
+<ellipse cx="18" cy="1997.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2001.0229" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="196">KEY_WARNINGS_references: String</text>
+<ellipse cx="18" cy="2010.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2013.8276" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="186">KEY_WARNINGS_language: String</text>
+<ellipse cx="18" cy="2023.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2026.6323" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="183">KEY_WARNINGS_category: String</text>
+<ellipse cx="18" cy="2036.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2039.437" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="165">KEY_WARNINGS_event: String</text>
+<ellipse cx="18" cy="2049" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2052.2417" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="215">KEY_WARNINGS_responseType: String</text>
+<ellipse cx="18" cy="2061.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2065.0464" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="179">KEY_WARNINGS_urgency: String</text>
+<ellipse cx="18" cy="2074.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2077.8511" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="179">KEY_WARNINGS_severity: String</text>
+<ellipse cx="18" cy="2087.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2090.6558" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="183">KEY_WARNINGS_certainty: String</text>
+<ellipse cx="18" cy="2100.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2103.4604" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="182">KEY_WARNINGS_effective: String</text>
+<ellipse cx="18" cy="2113.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2116.2651" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="166">KEY_WARNINGS_onset: String</text>
+<ellipse cx="18" cy="2125.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2129.0698" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_WARNINGS_expires: String</text>
+<ellipse cx="18" cy="2138.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2141.8745" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="207">KEY_WARNINGS_senderName: String</text>
+<ellipse cx="18" cy="2151.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2154.6792" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="182">KEY_WARNINGS_headline: String</text>
+<ellipse cx="18" cy="2164.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2167.4839" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="197">KEY_WARNINGS_description: String</text>
+<ellipse cx="18" cy="2177.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2180.2886" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="194">KEY_WARNINGS_instruction: String</text>
+<ellipse cx="18" cy="2189.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2193.0933" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="157">KEY_WARNINGS_web: String</text>
+<ellipse cx="18" cy="2202.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2205.8979" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_WARNINGS_contact: String</text>
+<ellipse cx="18" cy="2215.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2218.7026" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="218">KEY_WARNINGS_profile_version: String</text>
+<ellipse cx="18" cy="2228.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2231.5073" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_WARNINGS_license: String</text>
+<ellipse cx="18" cy="2241.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2244.312" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="140">KEY_WARNINGS_ii: String</text>
+<ellipse cx="18" cy="2253.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2257.1167" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="174">KEY_WARNINGS_groups: String</text>
+<ellipse cx="18" cy="2266.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2269.9214" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="194">KEY_WARNINGS_area_color: String</text>
+<ellipse cx="18" cy="2279.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2282.7261" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="239">KEY_WARNINGS_parameter_names: String</text>
+<ellipse cx="18" cy="2292.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2295.5308" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="237">KEY_WARNINGS_parameter_values: String</text>
+<ellipse cx="18" cy="2305.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2308.3354" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="185">KEY_WARNINGS_polygons: String</text>
+<ellipse cx="18" cy="2317.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2321.1401" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="241">KEY_WARNINGS_excluded_polygons: String</text>
+<ellipse cx="18" cy="2330.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2333.9448" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="205">KEY_WARNINGS_area_names: String</text>
+<ellipse cx="18" cy="2343.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2346.7495" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="231">KEY_WARNINGS_area_warncellIDs: String</text>
+<ellipse cx="18" cy="2356.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2359.5542" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="284">SQL_COMMAND_CREATE_TABLE_WARNINGS: String</text>
+<ellipse cx="18" cy="2369.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2372.3589" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="121">KEY_TEXTS_id: String</text>
+<ellipse cx="18" cy="2382" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2385.1636" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="161">KEY_TEXTS_identifier: String</text>
+<ellipse cx="18" cy="2394.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2397.9683" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="149">KEY_TEXTS_weburl: String</text>
+<ellipse cx="18" cy="2407.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2410.7729" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="153">KEY_TEXTS_content: String</text>
+<ellipse cx="18" cy="2420.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2423.5776" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="132">KEY_TEXTS_title: String</text>
+<ellipse cx="18" cy="2433.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2436.3823" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="153">KEY_TEXTS_subtitle: String</text>
+<ellipse cx="18" cy="2446" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2449.187" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">KEY_TEXTS_issued_text: String</text>
+<ellipse cx="18" cy="2458.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2461.9917" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="135">KEY_TEXTS_type: String</text>
+<ellipse cx="18" cy="2471.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2474.7964" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="149">KEY_TEXTS_issued: String</text>
+<ellipse cx="18" cy="2484.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2487.6011" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="145">KEY_TEXTS_polled: String</text>
+<ellipse cx="18" cy="2497.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2500.4058" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="161">KEY_TEXTS_outdated: String</text>
+<ellipse cx="18" cy="2510" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2513.2104" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="261">SQL_COMMAND_CREATE_TABLE_TEXTS: String</text>
+<ellipse cx="18" cy="2522.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2526.0151" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="121">KEY_AREAS_id: String</text>
+<ellipse cx="18" cy="2535.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2538.8198" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="168">KEY_AREAS_warncellid: String</text>
+<ellipse cx="18" cy="2548.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2551.6245" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="175">KEY_AREAS_warncenter: String</text>
+<ellipse cx="18" cy="2561.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2564.4292" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="135">KEY_AREAS_type: String</text>
+<ellipse cx="18" cy="2574" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2577.2339" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="143">KEY_AREAS_name: String</text>
+<ellipse cx="18" cy="2586.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2590.0386" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="188">KEY_AREAS_polygonstring: String</text>
+<ellipse cx="18" cy="2599.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="2602.8433" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="261">SQL_COMMAND_CREATE_TABLE_AREAS: String</text>
+<line x1="8" x2="381" y1="2609.4" y2="2609.4" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="2620.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2623.6479" fill="#000000" font-family="sans-serif" font-size="11" textLength="188">WeatherDatabaseHelper(Context)</text>
+<ellipse cx="18" cy="2633.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2636.4526" fill="#000000" font-family="sans-serif" font-size="11" textLength="182">onCreate(SQLiteDatabase): void</text>
+<ellipse cx="18" cy="2646" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2649.2573" fill="#000000" font-family="sans-serif" font-size="11" textLength="199">onConfigure(SQLiteDatabase): void</text>
+<ellipse cx="18" cy="2658.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2662.062" fill="#000000" font-family="sans-serif" font-size="11" textLength="236">onUpgrade(SQLiteDatabase, int, int): void</text>
+</a>
+<a href="WeatherContentProvider.html" target="_top" title="WeatherContentProvider.html" xlink:actuate="onRequest" xlink:href="WeatherContentProvider.html" xlink:show="new" xlink:title="WeatherContentProvider.html" xlink:type="simple">
+<rect id="c" x="58.5" y="7" width="272" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="204"/>
+<ellipse cx="73.5" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m76.469 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="122.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="170">WeatherContentProvider</text>
+<text x="87.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="d" d="m194.5 60.48v44.19" fill="none" stroke="#A80036" codeLine="206"/>
+<ellipse cx="194.5" cy="53.18" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="194.5" x2="194.5" y1="61.18" y2="45.18" stroke="#A80036"/>
+<line x1="186.5" x2="202.5" y1="53.18" y2="53.18" stroke="#A80036"/>
+<text x="95.5" y="2690.9385" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

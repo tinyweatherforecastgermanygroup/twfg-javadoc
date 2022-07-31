@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="761px" height="392px" style="background:transparent;height:392px;width:761px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 761 392" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="Weather.WeatherLocation.html" target="_top" title="Weather.WeatherLocation.html" xlink:actuate="onRequest" xlink:href="Weather.WeatherLocation.html" xlink:show="new" xlink:title="Weather.WeatherLocation.html" xlink:type="simple">
+<rect id="b" x="194" y="129" width="394" height="233.2" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="266.75" cy="147.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m269.72 153.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="318.25" y="146.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="178">Weather.WeatherLocation</text>
+<text x="287.25" y="159.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="195" x2="587" y1="166.94" y2="166.94" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="205" cy="177.94" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="214" y="181.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="122">EXTRAS_NAME: String</text>
+<ellipse cx="205" cy="190.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="214" y="193.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="187">EXTRAS_ITEMS_TO_SHOW: String</text>
+<ellipse cx="205" cy="203.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="214" y="206.7573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="149">PARCELABLE_NAME: String</text>
+<ellipse cx="205" cy="216.35" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="214" y="219.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="105">description: String</text>
+<ellipse cx="205" cy="229.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="214" y="232.3667" fill="#000000" font-family="sans-serif" font-size="11" textLength="74">name: String</text>
+<ellipse cx="205" cy="241.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="214" y="245.1714" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="98">CREATOR: &lt;any&gt;</text>
+<line x1="195" x2="587" y1="251.77" y2="251.77" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="205" cy="262.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="214" y="265.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="101">WeatherLocation()</text>
+<ellipse cx="205" cy="275.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="214" y="278.7808" fill="#000000" font-family="sans-serif" font-size="11" textLength="273">WeatherLocation(String, String, long, long, long)</text>
+<polygon points="205 283.38 209 287.38 205 291.38 201 287.38" fill="#ff4" stroke="#B38D22"/>
+<text x="214" y="291.5854" fill="#000000" font-family="sans-serif" font-size="11" textLength="136">WeatherLocation(Parcel)</text>
+<ellipse cx="205" cy="301.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="214" y="304.3901" fill="#000000" font-family="sans-serif" font-size="11" textLength="274">compare(WeatherLocation, WeatherLocation): int</text>
+<ellipse cx="205" cy="313.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="214" y="317.1948" fill="#000000" font-family="sans-serif" font-size="11" textLength="130">describeContents(): int</text>
+<ellipse cx="205" cy="326.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="214" y="329.9995" fill="#000000" font-family="sans-serif" font-size="11" textLength="173">writeToParcel(Parcel, int): void</text>
+<ellipse cx="205" cy="339.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="214" y="342.8042" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="368">getDescriptions(ArrayList&lt;WeatherLocation&gt;): ArrayList&lt;String&gt;</text>
+<ellipse cx="205" cy="352.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="214" y="355.6089" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="337">getNames(ArrayList&lt;WeatherLocation&gt;): ArrayList&lt;String&gt;</text>
+</a>
+<rect id="c" x="7" y="10" width="300" height="58.742" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="22"/>
+<ellipse cx="57.25" cy="28.969" rx="11" ry="11" fill="#B4A7E5" stroke="#A80036"/>
+<path d="m53.172 24.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="77.75" y="27.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="81">Comparator</text>
+<text x="99.75" y="40.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="37">java.util</text>
+<rect x="202" y="7" width="108" height="15.969" fill="#fff" stroke="#000" stroke-dasharray="2.0,2.0"/>
+<text x="203" y="19.1387" fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" textLength="106">WeatherLocation</text>
+<line x1="8" x2="306" y1="47.938" y2="47.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="58.938" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="62.1479" fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" textLength="274">compare(WeatherLocation, WeatherLocation): int</text>
+<rect id="d" x="342" y="23.5" width="98" height="32" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="25"/>
+<ellipse cx="357" cy="39.5" rx="11" ry="11" fill="#B4A7E5" stroke="#A80036"/>
+<path d="m352.92 35.266v-2.1562h7.3906v2.1562h-2.4687v8.0782h2.4687v2.1562h-7.3906v-2.1562h2.4687v-8.0782h-2.4687z"/>
+<text x="371" y="43.6543" fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" textLength="66">Parcelable</text>
+<a href="Weather.html" target="_top" title="Weather.html" xlink:actuate="onRequest" xlink:href="Weather.html" xlink:show="new" xlink:title="Weather.html" xlink:type="simple">
+<rect id="e" x="475" y="20.5" width="272" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="26"/>
+<ellipse cx="490" cy="39.469" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m492.97 45.109q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="595" y="38.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="58">Weather</text>
+<text x="504" y="51.0791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="f" d="m205.45 82.74c15.77 13.75 34.11 29.74 53 46.2" fill="none" stroke="#A80036" stroke-dasharray="7.0,7.0" codeLine="28"/>
+<polygon points="200.51 87.71 190.03 69.3 209.71 77.16" fill="none" stroke="#A80036"/>
+<path id="g" d="m391 75.65v52.91" fill="none" stroke="#A80036" stroke-dasharray="7.0,7.0" codeLine="29"/>
+<polygon points="384 75.5 391 55.5 398 75.5" fill="none" stroke="#A80036"/>
+<path id="h" d="m580.36 68.91c-17.45 16.18-40.6 37.65-64.7 60" fill="none" stroke="#A80036" codeLine="30"/>
+<ellipse cx="585.61" cy="64.04" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="579.75" x2="591.48" y1="69.479" y2="58.6" stroke="#A80036"/>
+<line x1="580.17" x2="591.05" y1="58.173" y2="69.906" stroke="#A80036"/>
+<text x="278" y="384.4854" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

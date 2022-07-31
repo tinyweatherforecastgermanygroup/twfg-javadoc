@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="255px" height="296px" style="background:transparent;height:296px;width:255px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 255 296" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="Astronomy.Riseset.html" target="_top" title="Astronomy.Riseset.html" xlink:actuate="onRequest" xlink:href="Astronomy.Riseset.html" xlink:show="new" xlink:title="Astronomy.Riseset.html" xlink:type="simple">
+<rect id="b" x="7" y="105" width="234" height="161.18" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="54.75" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m57.719 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="75.25" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="130">Astronomy.Riseset</text>
+<text x="92.75" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="95">org.astronomie.info</text>
+<line x1="8" x2="240" y1="142.94" y2="142.94" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="153.94" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="157.1479" fill="#000000" font-family="sans-serif" font-size="11" textLength="83">transit: double</text>
+<ellipse cx="18" cy="166.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="169.9526" fill="#000000" font-family="sans-serif" font-size="11" textLength="68">rise: double</text>
+<ellipse cx="18" cy="179.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="182.7573" fill="#000000" font-family="sans-serif" font-size="11" textLength="64">set: double</text>
+<ellipse cx="18" cy="192.35" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="195.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="155">cicilTwilightMorning: double</text>
+<ellipse cx="18" cy="205.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.3667" fill="#000000" font-family="sans-serif" font-size="11" textLength="154">cicilTwilightEvening: double</text>
+<ellipse cx="18" cy="217.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="221.1714" fill="#000000" font-family="sans-serif" font-size="11" textLength="178">nauticalTwilightMorning: double</text>
+<ellipse cx="18" cy="230.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="233.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="177">nauticalTwilightEvening: double</text>
+<ellipse cx="18" cy="243.57" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="246.7808" fill="#000000" font-family="sans-serif" font-size="11" textLength="208">astronomicalTwilightMorning: double</text>
+<ellipse cx="18" cy="256.38" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="259.5854" fill="#000000" font-family="sans-serif" font-size="11" textLength="207">astronomicalTwilightEvening: double</text>
+</a>
+<a href="Astronomy.html" target="_top" title="Astronomy.html" xlink:actuate="onRequest" xlink:href="Astronomy.html" xlink:show="new" xlink:title="Astronomy.html" xlink:type="simple">
+<rect id="c" x="60.5" y="7" width="127" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="17"/>
+<ellipse cx="75.5" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m78.469 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="100" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="74">Astronomy</text>
+<text x="89.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="95">org.astronomie.info</text>
+</a>
+<path id="d" d="m124 60.15v44.67" fill="none" stroke="#A80036" codeLine="19"/>
+<ellipse cx="124" cy="53.07" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="124" x2="124" y1="61.07" y2="45.07" stroke="#A80036"/>
+<line x1="116" x2="132" y1="53.07" y2="53.07" stroke="#A80036"/>
+<text x="25" y="288.4619" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

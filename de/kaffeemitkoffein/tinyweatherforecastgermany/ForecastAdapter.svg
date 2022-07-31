@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="586px" height="282px" style="background:transparent;height:282px;width:586px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 586 282" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="ForecastAdapter.html" target="_top" title="ForecastAdapter.html" xlink:actuate="onRequest" xlink:href="ForecastAdapter.html" xlink:show="new" xlink:title="ForecastAdapter.html" xlink:type="simple">
+<rect id="b" x="7" y="7" width="565" height="250.81" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="165.25" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m168.22 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="248.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="114">ForecastAdapter</text>
+<text x="185.75" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="571" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="55.938" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" textLength="531">ForecastAdapter(Context, ArrayList&lt;WeatherInfo&gt;, ArrayList&lt;WeatherInfo&gt;, WeatherLocation)</text>
+<ellipse cx="18" cy="68.742" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="71.9526" fill="#000000" font-family="sans-serif" font-size="11" textLength="268">setWarnings(ArrayList&lt;WeatherWarning&gt;): void</text>
+<ellipse cx="18" cy="81.547" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="84.7573" fill="#000000" font-family="sans-serif" font-size="11" textLength="245">getWarnings(): ArrayList&lt;WeatherWarning&gt;</text>
+<ellipse cx="18" cy="94.352" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="97.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="142">clearBitmapCache(): void</text>
+<ellipse cx="18" cy="107.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="110.3667" fill="#000000" font-family="sans-serif" font-size="11" textLength="81">getCount(): int</text>
+<ellipse cx="18" cy="119.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="123.1714" fill="#000000" font-family="sans-serif" font-size="11" textLength="109">getItem(int): Object</text>
+<ellipse cx="18" cy="132.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="135.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="107">getItemId(int): long</text>
+<ellipse cx="18" cy="145.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="148.7808" fill="#000000" font-family="sans-serif" font-size="11" textLength="203">getView(int, View, ViewGroup): View</text>
+<ellipse cx="18" cy="158.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="161.5854" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="268">formatDistanceNumberToString(double): String</text>
+<ellipse cx="18" cy="171.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="174.3901" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="335">getVisibilityCharSequence(WeatherInfo, int): CharSequence</text>
+<ellipse cx="18" cy="183.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="187.1948" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="371">getVisibilityBelow1kmCharSequence(WeatherInfo): CharSequence</text>
+<ellipse cx="18" cy="196.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="199.9995" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="286">getVisibilityString(WeatherInfo, int): CharSequence</text>
+<ellipse cx="18" cy="209.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="212.8042" fill="#000000" font-family="sans-serif" font-size="11" textLength="185">DPtoPX(int, DisplayMetrics): float</text>
+<ellipse cx="18" cy="222.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="225.6089" fill="#000000" font-family="sans-serif" font-size="11" textLength="539">determineExpectedPixelHeightOfForecastElement(TextView, TextView, ImageView, boolean): int</text>
+<ellipse cx="18" cy="235.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="238.4136" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="244">calculateInSampleSize(Options, int, int): int</text>
+<ellipse cx="18" cy="248.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="251.2183" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="269">calculateInSampleSize(Options, ImageView): int</text>
+</a>
+<text x="193.5" y="274.0947" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="116px" style="background:transparent;height:116px;width:355px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 355 116" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="WeatherIcons.html" target="_top" title="WeatherIcons.html" xlink:actuate="onRequest" xlink:href="WeatherIcons.html" xlink:show="new" xlink:title="WeatherIcons.html" xlink:type="simple">
+<rect id="b" x="7" y="7" width="334" height="84.352" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="49.9" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m52.869 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="142.6" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="95">WeatherIcons</text>
+<text x="70.1" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="340" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="55.938" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="189">getIconResource(Context, int): int</text>
+<ellipse cx="18" cy="68.742" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="71.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="255">getIconBitmap(Context, int, boolean): Bitmap</text>
+<ellipse cx="18" cy="81.547" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="84.7573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="308">getIconBitmap(Context, int, boolean, boolean): Bitmap</text>
+</a>
+<text x="78" y="107.6338" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

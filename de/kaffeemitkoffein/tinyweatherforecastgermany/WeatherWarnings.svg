@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1417px" height="471px" style="background:transparent;height:471px;width:1417px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 1417 471" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="WeatherWarnings.html" target="_top" title="WeatherWarnings.html" xlink:actuate="onRequest" xlink:href="WeatherWarnings.html" xlink:show="new" xlink:title="WeatherWarnings.html" xlink:type="simple">
+<rect id="b" x="422" y="7" width="651" height="335.64" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="623.25" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m626.22 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="702.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="122">WeatherWarnings</text>
+<text x="643.75" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="423" x2="1072" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="433" cy="55.938" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="442" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">COMMUNEUNION_DWD_DIFF: int</text>
+<ellipse cx="433" cy="68.742" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="442" y="71.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="182">COMMUNEUNION_DWD_STAT: int</text>
+<ellipse cx="433" cy="81.547" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="442" y="84.7573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="217">simpleDateFormat: SimpleDateFormat</text>
+<ellipse cx="433" cy="94.352" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="442" y="97.562" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="224">simpleDateFormat2: SimpleDateFormat</text>
+<line x1="423" x2="1072" y1="104.16" y2="104.16" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="433" cy="115.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="118.3667" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="397">writeWarningsToDatabase(Context, ArrayList&lt;WeatherWarning&gt;): void</text>
+<ellipse cx="433" cy="127.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="131.1714" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="384">getCurrentWarnings(Context, boolean): ArrayList&lt;WeatherWarning&gt;</text>
+<ellipse cx="433" cy="140.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="143.9761" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="264">cleanWeatherWarningsDatabase(Context): void</text>
+<ellipse cx="433" cy="153.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="156.7808" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="621">getWarningsForLocation(Context, ArrayList&lt;WeatherWarning&gt;, WeatherLocation): ArrayList&lt;WeatherWarning&gt;</text>
+<ellipse cx="433" cy="166.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="169.5854" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="201">isMoreThan24hAway(long): boolean</text>
+<ellipse cx="433" cy="179.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="182.3901" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="176">getTimeMiniString(long): String</text>
+<ellipse cx="433" cy="191.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="195.1948" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="300">getOnsetMiniString(Context, WeatherWarning): String</text>
+<ellipse cx="433" cy="204.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="207.9995" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="308">getExpiresMiniString(Context, WeatherWarning): String</text>
+<ellipse cx="433" cy="217.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="220.8042" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="625">getMiniWarningsString(Context, ArrayList&lt;WeatherWarning&gt;, long, long, boolean, int): SpannableStringBuilder</text>
+<ellipse cx="433" cy="230.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="233.6089" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="277">addToNotified(Context, WarningNotification): long</text>
+<ellipse cx="433" cy="243.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="246.4136" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="282">addToNotified(Context, WeatherWarning, int): long</text>
+<ellipse cx="433" cy="256.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="259.2183" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="369">getNotificationElements(Context): ArrayList&lt;WarningNotification&gt;</text>
+<ellipse cx="433" cy="268.81" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="272.0229" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="542">getNotificationIdFromWeatherWarning(ArrayList&lt;WarningNotification&gt;, WeatherWarning): Integer</text>
+<ellipse cx="433" cy="281.62" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="284.8276" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="289">getExpiredWarningIds(Context): ArrayList&lt;Integer&gt;</text>
+<ellipse cx="433" cy="294.42" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="297.6323" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="288">alreadyNotified(Context, WeatherWarning): boolean</text>
+<ellipse cx="433" cy="307.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="310.437" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="144">clearNotified(Context): int</text>
+<ellipse cx="433" cy="320.03" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="323.2417" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="157">clearAllNotified(Context): int</text>
+<ellipse cx="433" cy="332.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="442" y="336.0464" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="293">getFirstNotificationCancelTimeInMillis(Context): long</text>
+</a>
+<a href="WeatherWarnings.getWarningsForLocationRunnable.html" target="_top" title="WeatherWarnings.getWarningsForLocationRunnable.html" xlink:actuate="onRequest" xlink:href="WeatherWarnings.getWarningsForLocationRunnable.html" xlink:show="new" xlink:title="WeatherWarnings.getWarningsForLocationRunnable.html" xlink:type="simple">
+<rect id="c" x="7" y="403" width="391" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="29"/>
+<ellipse cx="22" cy="421.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m24.969 427.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="36" y="420.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="359">WeatherWarnings.getWarningsForLocationRunnable</text>
+<text x="95.5" y="433.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<a href="WeatherWarnings.WarningStringType.html" target="_top" title="WeatherWarnings.WarningStringType.html" xlink:actuate="onRequest" xlink:href="WeatherWarnings.WarningStringType.html" xlink:show="new" xlink:title="WeatherWarnings.WarningStringType.html" xlink:type="simple">
+<rect id="d" x="433.5" y="403" width="288" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="30"/>
+<ellipse cx="448.5" cy="421.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m451.47 427.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="462.5" y="420.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="256">WeatherWarnings.WarningStringType</text>
+<text x="470.5" y="433.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<a href="WeatherWarnings.NotificationListDbHelper.html" target="_top" title="WeatherWarnings.NotificationListDbHelper.html" xlink:actuate="onRequest" xlink:href="WeatherWarnings.NotificationListDbHelper.html" xlink:show="new" xlink:title="WeatherWarnings.NotificationListDbHelper.html" xlink:type="simple">
+<rect id="e" x="756.5" y="403" width="322" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="31"/>
+<ellipse cx="771.5" cy="421.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m774.47 427.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="785.5" y="420.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="290">WeatherWarnings.NotificationListDbHelper</text>
+<text x="810.5" y="433.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<a href="WeatherWarnings.WarningNotification.html" target="_top" title="WeatherWarnings.WarningNotification.html" xlink:actuate="onRequest" xlink:href="WeatherWarnings.WarningNotification.html" xlink:show="new" xlink:title="WeatherWarnings.WarningNotification.html" xlink:type="simple">
+<rect id="f" x="1113.5" y="403" width="290" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="32"/>
+<ellipse cx="1128.5" cy="421.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m1131.5 427.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1142.5" y="420.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="258">WeatherWarnings.WarningNotification</text>
+<text x="1151.5" y="433.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="g" d="m408 328.62c-66.51 29.9-127.34 57.24-165.27 74.29" fill="none" stroke="#A80036" codeLine="34"/>
+<ellipse cx="414.52" cy="325.69" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="407.23" x2="421.82" y1="328.97" y2="322.41" stroke="#A80036"/>
+<line x1="411.24" x2="417.81" y1="318.4" y2="332.99" stroke="#A80036"/>
+<path id="h" d="m622.88 355.6c-13.19 19.01-24.74 35.66-32.89 47.4" fill="none" stroke="#A80036" codeLine="35"/>
+<ellipse cx="626.95" cy="349.71" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="622.39" x2="631.52" y1="356.28" y2="343.14" stroke="#A80036"/>
+<line x1="620.39" x2="633.52" y1="345.14" y2="354.27" stroke="#A80036"/>
+<path id="i" d="m872.12 355.6c13.19 19.01 24.74 35.66 32.89 47.4" fill="none" stroke="#A80036" codeLine="36"/>
+<ellipse cx="868.05" cy="349.71" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="872.61" x2="863.48" y1="356.28" y2="343.14" stroke="#A80036"/>
+<line x1="861.48" x2="874.61" y1="354.27" y2="345.14" stroke="#A80036"/>
+<path id="j" d="m1087.1 338.83c53.94 25.86 102.24 49.02 133.71 64.11" fill="none" stroke="#A80036" codeLine="37"/>
+<ellipse cx="1080.5" cy="335.66" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="1087.7" x2="1073.3" y1="339.12" y2="332.2" stroke="#A80036"/>
+<line x1="1077" x2="1084" y1="342.87" y2="328.44" stroke="#A80036"/>
+<text x="606.25" y="463.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

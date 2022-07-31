@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="560px" style="background:transparent;height:560px;width:366px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 366 560" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="MainActivity.html" target="_top" title="MainActivity.html" xlink:actuate="onRequest" xlink:href="MainActivity.html" xlink:show="new" xlink:title="MainActivity.html" xlink:type="simple">
+<rect id="b" x="9" y="7" width="343" height="425.27" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="56.25" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m59.219 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="157.25" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">MainActivity</text>
+<text x="76.75" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="10" x2="351" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="20" cy="55.938" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="249">MAINAPP_CUSTOM_REFRESH_ACTION: String</text>
+<ellipse cx="20" cy="68.742" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="71.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="161">MAINAPP_SSL_ERROR: String</text>
+<ellipse cx="20" cy="81.547" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="84.7573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="198">MAINAPP_SHOW_PROGRESS: String</text>
+<ellipse cx="20" cy="94.352" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="97.562" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="190">MAINAPP_HIDE_PROGRESS: String</text>
+<ellipse cx="20" cy="107.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="110.3667" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="182">API_TESTING_ENABLED: boolean</text>
+<line x1="10" x2="351" y1="116.96" y2="116.96" stroke="#A80036" stroke-width="1.5"/>
+<polygon points="20 122.96 24 126.96 20 130.96 16 126.96" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="131.1714" fill="#000000" font-family="sans-serif" font-size="11" textLength="88">onPause(): void</text>
+<ellipse cx="20" cy="140.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="143.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="198">onSaveInstanceState(Bundle): void</text>
+<ellipse cx="20" cy="153.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="156.7808" fill="#000000" font-family="sans-serif" font-size="11" textLength="214">onRestoreInstanceState(Bundle): void</text>
+<polygon points="20 161.38 24 165.38 20 169.38 16 165.38" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="169.5854" fill="#000000" font-family="sans-serif" font-size="11" textLength="99">onResume(): void</text>
+<polygon points="20 174.18 24 178.18 20 182.18 16 178.18" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="182.3901" fill="#000000" font-family="sans-serif" font-size="11" textLength="97">onDestroy(): void</text>
+<polygon points="20 186.98 24 190.98 20 194.98 16 190.98" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="195.1948" fill="#000000" font-family="sans-serif" font-size="11" textLength="130">onCreate(Bundle): void</text>
+<ellipse cx="20" cy="204.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="207.9995" fill="#000000" font-family="sans-serif" font-size="11" textLength="136">loadStationsData(): void</text>
+<ellipse cx="20" cy="217.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="220.8042" fill="#000000" font-family="sans-serif" font-size="11" textLength="257">displayUpdateTime(CurrentWeatherInfo): void</text>
+<ellipse cx="20" cy="230.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="233.6089" fill="#000000" font-family="sans-serif" font-size="11" textLength="284">displayWeatherForecast(CurrentWeatherInfo): void</text>
+<ellipse cx="20" cy="243.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="246.4136" fill="#000000" font-family="sans-serif" font-size="11" textLength="174">displayWeatherForecast(): void</text>
+<ellipse cx="20" cy="256.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="259.2183" fill="#000000" font-family="sans-serif" font-size="11" textLength="152">getWeatherForecast(): void</text>
+<ellipse cx="20" cy="268.81" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="272.0229" fill="#000000" font-family="sans-serif" font-size="11" textLength="161">forcedWeatherUpdate(): void</text>
+<ellipse cx="20" cy="281.62" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="284.8276" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="225">getColorFromResource(Context, int): int</text>
+<ellipse cx="20" cy="294.42" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="297.6323" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="317">setOverflowMenuItemColor(Context, Menu, int, int): void</text>
+<ellipse cx="20" cy="307.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="310.437" fill="#000000" font-family="sans-serif" font-size="11" textLength="217">onCreateOptionsMenu(Menu): boolean</text>
+<ellipse cx="20" cy="320.03" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="323.2417" fill="#000000" font-family="sans-serif" font-size="11" textLength="201">onMenuOpened(int, Menu): boolean</text>
+<ellipse cx="20" cy="332.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="336.0464" fill="#000000" font-family="sans-serif" font-size="11" textLength="196">onOptionsMenuClosed(Menu): void</text>
+<ellipse cx="20" cy="345.64" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="348.8511" fill="#000000" font-family="sans-serif" font-size="11" textLength="248">onOptionsItemSelected(MenuItem): boolean</text>
+<ellipse cx="20" cy="358.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="361.6558" fill="#000000" font-family="sans-serif" font-size="11" textLength="136">showAboutDialog(): void</text>
+<ellipse cx="20" cy="371.25" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="374.4604" fill="#000000" font-family="sans-serif" font-size="11" textLength="162">showWhatsNewDialog(): void</text>
+<ellipse cx="20" cy="384.05" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="387.2651" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="197">deleteAreaDatabase(Context): void</text>
+<ellipse cx="20" cy="396.86" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="400.0698" fill="#000000" font-family="sans-serif" font-size="11" textLength="299">onRequestPermissionsResult(int, String[], int[]): void</text>
+<ellipse cx="20" cy="409.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="412.8745" fill="#000000" font-family="sans-serif" font-size="11" textLength="138">onTrimMemory(int): void</text>
+<ellipse cx="20" cy="422.47" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="425.6792" fill="#000000" font-family="sans-serif" font-size="11" textLength="173">standardizeGeo(String): String</text>
+</a>
+<a href="MainActivity.SpinnerListener.html" target="_top" title="MainActivity.SpinnerListener.html" xlink:actuate="onRequest" xlink:href="MainActivity.SpinnerListener.html" xlink:show="new" xlink:title="MainActivity.SpinnerListener.html" xlink:type="simple">
+<rect id="c" x="44.5" y="492" width="272" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="36"/>
+<ellipse cx="59.5" cy="510.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m62.469 516.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="98" y="509.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="191">MainActivity.SpinnerListener</text>
+<text x="73.5" y="522.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="d" d="m180.5 447.29v44.43" fill="none" stroke="#A80036" codeLine="38"/>
+<ellipse cx="180.5" cy="440.04" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="180.5" x2="180.5" y1="448.04" y2="432.04" stroke="#A80036"/>
+<line x1="172.5" x2="188.5" y1="440.04" y2="440.04" stroke="#A80036"/>
+<text x="80.5" y="552.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

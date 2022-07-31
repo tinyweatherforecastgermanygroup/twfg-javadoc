@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="396px" height="343px" style="background:transparent;height:343px;width:396px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 396 343" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="WeatherContentProvider.html" target="_top" title="WeatherContentProvider.html" xlink:actuate="onRequest" xlink:href="WeatherContentProvider.html" xlink:show="new" xlink:title="WeatherContentProvider.html" xlink:type="simple">
+<rect id="b" x="38" y="7" width="313" height="207.59" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="71.45" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m74.419 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="124.55" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="170">WeatherContentProvider</text>
+<text x="89.55" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="39" x2="350" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="49" cy="55.938" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="58" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="136">DATABASE_VERSION: int</text>
+<ellipse cx="49" cy="68.742" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="58" y="71.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="138">DATABASE_NAME: String</text>
+<ellipse cx="49" cy="81.547" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="58" y="84.7573" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="187">TABLE_NAME_FORECASTS: String</text>
+<ellipse cx="49" cy="94.352" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="58" y="97.562" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="179">TABLE_NAME_WARNINGS: String</text>
+<ellipse cx="49" cy="107.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="58" y="110.3667" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="156">TABLE_NAME_TEXTS: String</text>
+<ellipse cx="49" cy="119.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="58" y="123.1714" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="156">TABLE_NAME_AREAS: String</text>
+<line x1="39" x2="350" y1="129.77" y2="129.77" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="49" cy="140.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="58" y="143.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="113">onCreate(): boolean</text>
+<ellipse cx="49" cy="153.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="58" y="156.7808" fill="#000000" font-family="sans-serif" font-size="11" textLength="287">query(Uri, String[], String, String[], String): Cursor</text>
+<ellipse cx="49" cy="166.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="58" y="169.5854" fill="#000000" font-family="sans-serif" font-size="11" textLength="111">getType(Uri): String</text>
+<ellipse cx="49" cy="179.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="58" y="182.3901" fill="#000000" font-family="sans-serif" font-size="11" textLength="171">insert(Uri, ContentValues): Uri</text>
+<ellipse cx="49" cy="191.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="58" y="195.1948" fill="#000000" font-family="sans-serif" font-size="11" textLength="173">delete(Uri, String, String[]): int</text>
+<ellipse cx="49" cy="204.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="58" y="207.9995" fill="#000000" font-family="sans-serif" font-size="11" textLength="267">update(Uri, ContentValues, String, String[]): int</text>
+</a>
+<a href="WeatherContentProvider.WeatherDatabaseHelper.html" target="_top" title="WeatherContentProvider.WeatherDatabaseHelper.html" xlink:actuate="onRequest" xlink:href="WeatherContentProvider.WeatherDatabaseHelper.html" xlink:show="new" xlink:title="WeatherContentProvider.WeatherDatabaseHelper.html" xlink:type="simple">
+<rect id="c" x="7" y="275" width="375" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="19"/>
+<ellipse cx="22" cy="293.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m24.969 299.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="36" y="292.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="343">WeatherContentProvider.WeatherDatabaseHelper</text>
+<text x="87.5" y="305.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="d" d="m194.5 230.33v44.45" fill="none" stroke="#A80036" codeLine="21"/>
+<ellipse cx="194.5" cy="223.19" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="194.5" x2="194.5" y1="231.19" y2="215.19" stroke="#A80036"/>
+<line x1="186.5" x2="202.5" y1="223.19" y2="223.19" stroke="#A80036"/>
+<text x="95.5" y="335.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1817px" height="229px" style="background:transparent;height:229px;width:1817px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 1817 229" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" target="_top" title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:actuate="onRequest" xlink:href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:show="new" xlink:title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:type="simple">
+<rect id="b" x="7" y="91" width="300" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="22"/>
+<text x="10" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="294">nodomain.freeyourgadget.gadgetbridge.model</text>
+</a>
+<rect id="c" x="225.5" y="175" width="65" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="228.5" y="191.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="59">unnamed</text>
+<a href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" target="_top" title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:actuate="onRequest" xlink:href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:show="new" xlink:title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:type="simple">
+<rect id="d" x="811.5" y="7" width="309" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="24"/>
+<text x="814.5" y="23.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="303">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<rect id="e" x="413" y="91" width="84" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="416" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="78">AdapterView</text>
+<rect id="f" x="532" y="91" width="34" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="535" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="28">View</text>
+<rect id="g" x="601.5" y="91" width="95" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="604.5" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="89">BitmapFactory</text>
+<rect id="h" x="731.5" y="91" width="127" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="734.5" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="121">SharedPreferences</text>
+<rect id="i" x="893.5" y="91" width="145" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="896.5" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="139">ScaleGestureDetector</text>
+<rect id="j" x="1073.5" y="91" width="111" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="1076.5" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="105">GestureDetector</text>
+<rect id="k" x="1219.5" y="91" width="77" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="1222.5" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="71">Notification</text>
+<a href="org/astronomie/info/package-summary.html" target="_top" title="org/astronomie/info/package-summary.html" xlink:actuate="onRequest" xlink:href="org/astronomie/info/package-summary.html" xlink:show="new" xlink:title="org/astronomie/info/package-summary.html" xlink:type="simple">
+<rect id="l" x="1331.5" y="91" width="129" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="26"/>
+<text x="1334.5" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="123">org.astronomie.info</text>
+</a>
+<rect id="m" x="1496" y="91" width="86" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="1499" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="80">org.w3c.dom</text>
+<rect id="n" x="1617" y="91" width="76" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="1620" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="70">org.xml.sax</text>
+<rect id="o" x="1728.5" y="91" width="75" height="23.969" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5"/>
+<text x="1731.5" y="107.1387" fill="#000000" font-family="sans-serif" font-size="12" textLength="69">Application</text>
+<path id="p" d="m170.62 115.06c18 14.61 49.73 40.38 69.6 56.51" fill="none" stroke="#A80036" codeLine="6"/>
+<polygon points="244.27 174.85 239.79 166.08 240.38 171.71 234.76 172.3" fill="#A80036" stroke="#A80036"/>
+<path id="q" d="m811.44 30.86c-142.49 11.53-342.72 31.97-416.44 60.14-49.07 18.75-97.43 58.67-121.41 80.31" fill="none" stroke="#A80036" codeLine="7"/>
+<polygon points="269.67 174.88 279.02 171.77 273.37 171.51 273.63 165.86" fill="#A80036" stroke="#A80036"/>
+<path id="r" d="m891.51 31.04c-89.68 13.43-244.81 37.17-377.51 59.96-3.83 0.66-7.79 1.36-11.77 2.07" fill="none" stroke="#A80036" codeLine="8"/>
+<polygon points="497.19 93.98 506.76 96.293 502.11 93.079 505.32 88.424" fill="#A80036" stroke="#A80036"/>
+<path id="s" d="m892.2 31c-77.36 12.17-202.16 33.59-308.2 60-4.18 1.04-8.59 2.3-12.81 3.58" fill="none" stroke="#A80036" codeLine="9"/>
+<polygon points="566.33 96.1 576.11 97.244 571.1 94.614 573.73 89.605" fill="#A80036" stroke="#A80036"/>
+<path id="t" d="m923.25 31.06c-59.01 15.26-165.09 42.7-226.59 58.61" fill="none" stroke="#A80036" codeLine="10"/>
+<polygon points="691.58 90.99 701.3 92.6 696.42 89.734 699.29 84.857" fill="#A80036" stroke="#A80036"/>
+<path id="u" d="m942.94 31.06c-31.2 14.96-86.77 41.61-120.2 57.64" fill="none" stroke="#A80036" codeLine="11"/>
+<polygon points="817.97 90.99 827.81 90.707 822.48 88.829 824.36 83.493" fill="#A80036" stroke="#A80036"/>
+<path id="v" d="m966 31.06v54.64" fill="none" stroke="#A80036" codeLine="12"/>
+<polygon points="966 90.85 970 81.85 966 85.85 962 81.85" fill="#A80036" stroke="#A80036"/>
+<path id="w" d="m987.98 31.06c29.74 14.96 82.71 41.61 114.58 57.64" fill="none" stroke="#A80036" codeLine="13"/>
+<polygon points="1107.1 90.99 1100.9 83.355 1102.6 88.731 1097.3 90.492" fill="#A80036" stroke="#A80036"/>
+<path id="x" d="m1005.4 31.06c54.4 15.28 152.22 42.75 208.85 58.65" fill="none" stroke="#A80036" codeLine="14"/>
+<polygon points="1219.2 91.12 1211.6 84.849 1214.4 89.777 1209.5 92.555" fill="#A80036" stroke="#A80036"/>
+<path id="y" d="m1024 31.06c80.53 15.36 225.68 43.03 308.86 58.9" fill="none" stroke="#A80036" codeLine="15"/>
+<polygon points="1338.2 90.99 1330.2 85.366 1333.3 90.048 1328.6 93.222" fill="#A80036" stroke="#A80036"/>
+<path id="z" d="m857.31 31.02c-153.04 15.51-430.71 43.65-586.49 59.44" fill="none" stroke="#A80036" codeLine="16"/>
+<polygon points="265.79 90.97 275.15 94.049 270.76 90.47 274.34 86.089" fill="#A80036" stroke="#A80036"/>
+<path id="aa" d="m1053.6 31.05c102.08 13.12 275.76 36.25 424.42 59.95 4.12 0.66 8.4 1.37 12.69 2.1" fill="none" stroke="#A80036" codeLine="17"/>
+<polygon points="1495.7 93.97 1487.5 88.487 1490.8 93.113 1486.2 96.369" fill="#A80036" stroke="#A80036"/>
+<path id="ab" d="m1093.3 31.02c128.32 11.86 331.84 32.76 506.67 59.98 3.86 0.6 7.85 1.28 11.85 2.01" fill="none" stroke="#A80036" codeLine="18"/>
+<polygon points="1616.9 93.94 1608.8 88.361 1612 93.026 1607.3 96.226" fill="#A80036" stroke="#A80036"/>
+<path id="ac" d="m1120.6 30.1c151.07 10.96 387.26 30.99 590.35 60.9 3.93 0.58 8 1.25 12.07 1.98" fill="none" stroke="#A80036" codeLine="19"/>
+<polygon points="1728.2 93.91 1720.1 88.358 1723.3 93.012 1718.6 96.228" fill="#A80036" stroke="#A80036"/>
+<text x="806.25" y="221.251" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

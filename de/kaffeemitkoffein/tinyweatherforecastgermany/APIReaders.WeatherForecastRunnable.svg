@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="463px" height="300px" style="background:transparent;height:300px;width:463px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 463 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="APIReaders.WeatherForecastRunnable.html" target="_top" title="APIReaders.WeatherForecastRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.WeatherForecastRunnable.html" xlink:show="new" xlink:title="APIReaders.WeatherForecastRunnable.html" xlink:type="simple">
+<rect id="b" x="7" y="126" width="393" height="143.57" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="65.75" cy="144.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m68.719 150.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="86.25" y="143.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="267">APIReaders.WeatherForecastRunnable</text>
+<text x="99.75" y="156.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="399" y1="163.94" y2="163.94" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="174.94" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="178.1479" fill="#000000" font-family="sans-serif" font-size="11" textLength="130">ssl_exception: boolean</text>
+<line x1="8" x2="399" y1="184.74" y2="184.74" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="195.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="198.9526" fill="#000000" font-family="sans-serif" font-size="11" textLength="367">WeatherForecastRunnable(Context, ArrayList&lt;WeatherLocation&gt;)</text>
+<ellipse cx="18" cy="208.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="211.7573" fill="#000000" font-family="sans-serif" font-size="11" textLength="81">onStart(): void</text>
+<ellipse cx="18" cy="221.35" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="224.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="137">onNegativeResult(): void</text>
+<ellipse cx="18" cy="234.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="237.3667" fill="#000000" font-family="sans-serif" font-size="11" textLength="132">onPositiveResult(): void</text>
+<ellipse cx="18" cy="246.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="250.1714" fill="#000000" font-family="sans-serif" font-size="11" textLength="290">onPositiveResult(ArrayList&lt;RawWeatherInfo&gt;): void</text>
+<ellipse cx="18" cy="259.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="262.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="58">run(): void</text>
+</a>
+<rect id="c" x="44.5" y="7" width="98" height="58.742" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="15"/>
+<ellipse cx="59.5" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#A80036"/>
+<path d="m55.422 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="73.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="66">Runnable</text>
+<text x="85" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="43">java.lang</text>
+<line x1="45.5" x2="141.5" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="55.5" cy="55.938" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="64.5" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" textLength="58">run(): void</text>
+<a href="APIReaders.html" target="_top" title="APIReaders.html" xlink:actuate="onRequest" xlink:href="APIReaders.html" xlink:show="new" xlink:title="APIReaders.html" xlink:type="simple">
+<rect id="d" x="177.5" y="17.5" width="272" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="18"/>
+<ellipse cx="192.5" cy="36.469" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m195.47 42.109q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="287" y="35.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">APIReaders</text>
+<text x="206.5" y="48.0791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="e" d="m124.62 82.62c9.29 13.47 19.71 28.59 29.86 43.31" fill="none" stroke="#A80036" stroke-dasharray="7.0,7.0" codeLine="20"/>
+<polygon points="118.76 86.45 113.17 66.02 130.28 78.51" fill="none" stroke="#A80036"/>
+<path id="f" d="m292.18 68.41c-11.32 16.41-25.73 37.31-39.63 57.47" fill="none" stroke="#A80036" codeLine="21"/>
+<ellipse cx="296.34" cy="62.384" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="291.79" x2="300.88" y1="68.968" y2="55.8" stroke="#A80036"/>
+<line x1="289.75" x2="302.92" y1="57.84" y2="66.928" stroke="#A80036"/>
+<text x="129.25" y="291.8525" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

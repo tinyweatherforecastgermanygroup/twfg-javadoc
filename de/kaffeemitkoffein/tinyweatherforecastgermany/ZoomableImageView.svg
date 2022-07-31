@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="454px" height="522px" style="background:transparent;height:522px;width:454px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 454 522" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="ZoomableImageView.html" target="_top" title="ZoomableImageView.html" xlink:actuate="onRequest" xlink:href="ZoomableImageView.html" xlink:show="new" xlink:title="ZoomableImageView.html" xlink:type="simple">
+<rect id="b" x="7" y="7" width="433" height="386.86" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="99.25" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m102.22 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="167.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="144">ZoomableImageView</text>
+<text x="119.75" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="439" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="55.938" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" textLength="98">scaleFactor: float</text>
+<ellipse cx="18" cy="68.742" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="71.9526" fill="#000000" font-family="sans-serif" font-size="11" textLength="72">xFocus: float</text>
+<ellipse cx="18" cy="81.547" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="84.7573" fill="#000000" font-family="sans-serif" font-size="11" textLength="72">yFocus: float</text>
+<ellipse cx="18" cy="94.352" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="97.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="120">minScaleRange: float</text>
+<ellipse cx="18" cy="107.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="110.3667" fill="#000000" font-family="sans-serif" font-size="11" textLength="123">maxScaleRange: float</text>
+<ellipse cx="18" cy="119.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="123.1714" fill="#000000" font-family="sans-serif" font-size="11" textLength="160">temporaryVisibleArea: RectF</text>
+<ellipse cx="18" cy="132.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="135.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="94">lastPressX: float</text>
+<ellipse cx="18" cy="145.57" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="148.7808" fill="#000000" font-family="sans-serif" font-size="11" textLength="94">lastPressY: float</text>
+<ellipse cx="18" cy="158.38" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="161.5854" fill="#000000" font-family="sans-serif" font-size="11" textLength="256">zoomGestureListener: ZoomGestureListener</text>
+<ellipse cx="18" cy="171.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="174.3901" fill="#000000" font-family="sans-serif" font-size="11" textLength="257">scaleGestureDetector: ScaleGestureDetector</text>
+<ellipse cx="18" cy="183.98" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="187.1948" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="164">STATE_SCALEFACTOR: String</text>
+<ellipse cx="18" cy="196.79" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="199.9995" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="130">STATE_XFOCUS: String</text>
+<ellipse cx="18" cy="209.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="212.8042" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="130">STATE_YFOCUS: String</text>
+<line x1="8" x2="439" y1="219.4" y2="219.4" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="230.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="233.6089" fill="#000000" font-family="sans-serif" font-size="11" textLength="287">ZoomableImageView(Context, ImageView, Bitmap)</text>
+<ellipse cx="18" cy="243.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="246.4136" fill="#000000" font-family="sans-serif" font-size="11" textLength="181">setScaleRange(float, float): void</text>
+<ellipse cx="18" cy="256.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="259.2183" fill="#000000" font-family="sans-serif" font-size="11" textLength="158">updateBitmap(Bitmap): void</text>
+<ellipse cx="18" cy="268.81" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="272.0229" fill="#000000" font-family="sans-serif" font-size="11" textLength="208">addSpite(Bitmap, float, float, int): int</text>
+<ellipse cx="18" cy="281.62" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="284.8276" fill="#000000" font-family="sans-serif" font-size="11" textLength="407">onGestureFinished(float, float, float, float, float, float, float, RectF): void</text>
+<ellipse cx="18" cy="294.42" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="297.6323" fill="#000000" font-family="sans-serif" font-size="11" textLength="143">getRelativeXFocus(): float</text>
+<ellipse cx="18" cy="307.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="310.437" fill="#000000" font-family="sans-serif" font-size="11" textLength="143">getRelativeYFocus(): float</text>
+<ellipse cx="18" cy="320.03" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="323.2417" fill="#000000" font-family="sans-serif" font-size="11" textLength="99">getXFocus(): float</text>
+<ellipse cx="18" cy="332.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="336.0464" fill="#000000" font-family="sans-serif" font-size="11" textLength="99">getYFocus(): float</text>
+<ellipse cx="18" cy="345.64" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="348.8511" fill="#000000" font-family="sans-serif" font-size="11" textLength="208">onTouchEvent(MotionEvent): boolean</text>
+<ellipse cx="18" cy="358.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="361.6558" fill="#000000" font-family="sans-serif" font-size="11" textLength="119">redrawBitmap(): void</text>
+<ellipse cx="18" cy="371.25" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="374.4604" fill="#000000" font-family="sans-serif" font-size="11" textLength="172">saveZoomViewState(): Bundle</text>
+<ellipse cx="18" cy="384.05" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="387.2651" fill="#000000" font-family="sans-serif" font-size="11" textLength="210">restoreZoomViewState(Bundle): void</text>
+</a>
+<a href="ZoomableImageView.SPRITEFIXPOINT.html" target="_top" title="ZoomableImageView.SPRITEFIXPOINT.html" xlink:actuate="onRequest" xlink:href="ZoomableImageView.SPRITEFIXPOINT.html" xlink:show="new" xlink:title="ZoomableImageView.SPRITEFIXPOINT.html" xlink:type="simple">
+<rect id="c" x="78" y="454" width="291" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="33"/>
+<ellipse cx="93" cy="472.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m95.969 478.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="107" y="471.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="259">ZoomableImageView.SPRITEFIXPOINT</text>
+<text x="116.5" y="484.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="d" d="m223.5 409.35v44.56" fill="none" stroke="#A80036" codeLine="35"/>
+<ellipse cx="223.5" cy="402.12" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="223.5" x2="223.5" y1="410.12" y2="394.12" stroke="#A80036"/>
+<line x1="215.5" x2="231.5" y1="402.12" y2="402.12" stroke="#A80036"/>
+<text x="124.5" y="514.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

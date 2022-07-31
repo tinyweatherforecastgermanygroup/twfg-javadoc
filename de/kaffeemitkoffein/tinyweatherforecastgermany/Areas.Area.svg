@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="293px" height="258px" style="background:transparent;height:258px;width:293px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 293 258" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="Areas.Area.html" target="_top" title="Areas.Area.html" xlink:actuate="onRequest" xlink:href="Areas.Area.html" xlink:show="new" xlink:title="Areas.Area.html" xlink:type="simple">
+<rect id="b" x="7" y="105" width="272" height="122.77" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="22" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m24.969 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="119" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="74">Areas.Area</text>
+<text x="36" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="278" y1="142.94" y2="142.94" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="153.94" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="157.1479" fill="#000000" font-family="sans-serif" font-size="11" textLength="100">warncellID: String</text>
+<ellipse cx="18" cy="166.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="169.9526" fill="#000000" font-family="sans-serif" font-size="11" textLength="106">warncenter: String</text>
+<ellipse cx="18" cy="179.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="182.7573" fill="#000000" font-family="sans-serif" font-size="11" textLength="46">type: int</text>
+<ellipse cx="18" cy="192.35" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="195.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="74">name: String</text>
+<ellipse cx="18" cy="205.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.3667" fill="#000000" font-family="sans-serif" font-size="11" textLength="171">polygons: ArrayList&lt;Polygon&gt;</text>
+<ellipse cx="18" cy="217.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="221.1714" fill="#000000" font-family="sans-serif" font-size="11" textLength="120">polygonString: String</text>
+</a>
+<a href="Areas.html" target="_top" title="Areas.html" xlink:actuate="onRequest" xlink:href="Areas.html" xlink:show="new" xlink:title="Areas.html" xlink:type="simple">
+<rect id="c" x="7" y="7" width="272" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="14"/>
+<ellipse cx="22" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m24.969 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="136.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="39">Areas</text>
+<text x="36" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="d" d="m143 60.44v44.26" fill="none" stroke="#A80036" codeLine="16"/>
+<ellipse cx="143" cy="53.11" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="143" x2="143" y1="61.11" y2="45.11" stroke="#A80036"/>
+<line x1="135" x2="151" y1="53.11" y2="53.11" stroke="#A80036"/>
+<text x="44" y="250.0479" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>

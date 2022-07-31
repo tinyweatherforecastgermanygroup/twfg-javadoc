@@ -1,0 +1,9 @@
+2022-07-31 20:16:33,549 DEBUG [root]: removing '<link href="stylesheet.css" rel="stylesheet" title="Style" type="text/css"/>'  (../public/stylesheet.css) -> failed to open file! 
+2022-07-31 20:16:33,615 DEBUG [root]: Overview, Code documentation for <a href=
+2022-07-31 20:16:33,686 DEBUG [root]: Overview, Code documentation for <a href=,
+2022-07-31 20:16:53,150 DEBUG [root]: ignored "../public/jquery/jquery-ui.min.js" -> already minified 
+2022-07-31 20:16:53,173 DEBUG [root]: ignored "../public/jquery/jszip-utils/dist/jszip-utils-ie.min.js" -> already minified 
+2022-07-31 20:16:53,202 DEBUG [root]: ignored "../public/jquery/jszip-utils/dist/jszip-utils.min.js" -> already minified 
+2022-07-31 20:16:53,252 DEBUG [root]: ignored "../public/jquery/jszip/dist/jszip.min.js" -> already minified 
+2022-07-31 20:16:53,637 DEBUG [root]: ignored "../public/jquery/jquery-ui.structure.min.css" -> already minified 
+2022-07-31 20:16:53,637 DEBUG [root]: ignored "../public/jquery/jquery-ui.min.css" -> already minified 

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="613px" height="509px" style="background:transparent;height:509px;width:613px" contentScriptType="application/ecmascript" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 613 509" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<defs>
+<filter id="a" x="-1" y="-1" width="300%" height="300%">
+<feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+<feColorMatrix in="blurOut" result="blurOut2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+<feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+<feBlend in="SourceGraphic" in2="blurOut3"/>
+</filter>
+</defs>
+<a href="ClassicWidget.html" target="_top" title="ClassicWidget.html" xlink:actuate="onRequest" xlink:href="ClassicWidget.html" xlink:show="new" xlink:title="ClassicWidget.html" xlink:type="simple">
+<rect id="b" x="7" y="7" width="592" height="374.05" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="5"/>
+<ellipse cx="178.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m181.72 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="271.25" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="96">ClassicWidget</text>
+<text x="199.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="598" y1="44.938" y2="44.938" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="55.938" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="59.1479" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="244">WIDGET_CUSTOM_REFRESH_ACTION: String</text>
+<ellipse cx="18" cy="68.742" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="71.9526" fill="#000000" font-family="sans-serif" font-size="11" text-decoration="underline" textLength="130">NOT_AVAILABLE: String</text>
+<line x1="8" x2="598" y1="78.547" y2="78.547" stroke="#A80036" stroke-width="1.5"/>
+<ellipse cx="18" cy="89.547" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="92.7573" fill="#000000" font-family="sans-serif" font-size="11" textLength="141">onEnabled(Context): void</text>
+<ellipse cx="18" cy="102.35" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="105.562" fill="#000000" font-family="sans-serif" font-size="11" textLength="145">onDisabled(Context): void</text>
+<ellipse cx="18" cy="115.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="118.3667" fill="#000000" font-family="sans-serif" font-size="11" textLength="169">onDeleted(Context, int[]): void</text>
+<ellipse cx="18" cy="127.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="131.1714" fill="#000000" font-family="sans-serif" font-size="11" textLength="432">onAppWidgetOptionsChanged(Context, AppWidgetManager, int, Bundle): void</text>
+<ellipse cx="18" cy="140.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="143.9761" fill="#000000" font-family="sans-serif" font-size="11" textLength="281">onUpdate(Context, AppWidgetManager, int[]): void</text>
+<ellipse cx="18" cy="153.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="156.7808" fill="#000000" font-family="sans-serif" font-size="11" textLength="179">onReceive(Context, Intent): void</text>
+<ellipse cx="18" cy="166.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="169.5854" fill="#000000" font-family="sans-serif" font-size="11" textLength="354">setPressure(Context, RemoteViews, CurrentWeatherInfo): void</text>
+<ellipse cx="18" cy="179.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="182.3901" fill="#000000" font-family="sans-serif" font-size="11" textLength="372">setPrecipitation(Context, RemoteViews, CurrentWeatherInfo): void</text>
+<ellipse cx="18" cy="191.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="195.1948" fill="#000000" font-family="sans-serif" font-size="11" textLength="370">setVisibility(Context, RemoteViews, CurrentWeatherInfo, int): void</text>
+<ellipse cx="18" cy="204.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="207.9995" fill="#000000" font-family="sans-serif" font-size="11" textLength="341">setClouds(Context, RemoteViews, CurrentWeatherInfo): void</text>
+<ellipse cx="18" cy="217.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="220.8042" fill="#000000" font-family="sans-serif" font-size="11" textLength="400">setTemperature5cm(Context, RemoteViews, CurrentWeatherInfo): void</text>
+<ellipse cx="18" cy="230.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="233.6089" fill="#000000" font-family="sans-serif" font-size="11" textLength="351">setHumidity(Context, RemoteViews, CurrentWeatherInfo): void</text>
+<ellipse cx="18" cy="243.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="246.4136" fill="#000000" font-family="sans-serif" font-size="11" textLength="234">setDateText(Context, RemoteViews): void</text>
+<ellipse cx="18" cy="256.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="259.2183" fill="#000000" font-family="sans-serif" font-size="11" textLength="241">setAlarmText(Context, RemoteViews): void</text>
+<ellipse cx="18" cy="268.81" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="272.0229" fill="#000000" font-family="sans-serif" font-size="11" textLength="379">setConditionText(Context, RemoteViews, CurrentWeatherInfo): void</text>
+<ellipse cx="18" cy="281.62" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="284.8276" fill="#000000" font-family="sans-serif" font-size="11" textLength="378">setConditionIcon(Context, RemoteViews, CurrentWeatherInfo): void</text>
+<ellipse cx="18" cy="294.42" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="297.6323" fill="#000000" font-family="sans-serif" font-size="11" textLength="426">setLocationText(Context, RemoteViews, CurrentWeatherInfo, boolean): void</text>
+<ellipse cx="18" cy="307.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="310.437" fill="#000000" font-family="sans-serif" font-size="11" textLength="385">setWarningTextAndIcon(Context, RemoteViews, int, int, int, int): void</text>
+<ellipse cx="18" cy="320.03" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="323.2417" fill="#000000" font-family="sans-serif" font-size="11" textLength="274">setWarningIcon(Context, RemoteViews, int): void</text>
+<ellipse cx="18" cy="332.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="336.0464" fill="#000000" font-family="sans-serif" font-size="11" textLength="566">setClassicWidgetItems(RemoteViews, WeatherSettings, CurrentWeatherInfo, Context, boolean): void</text>
+<ellipse cx="18" cy="345.64" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="348.8511" fill="#000000" font-family="sans-serif" font-size="11" textLength="513">setClassicWidgetItems(RemoteViews, WeatherSettings, CurrentWeatherInfo, Context): void</text>
+<ellipse cx="18" cy="358.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="361.6558" fill="#000000" font-family="sans-serif" font-size="11" textLength="344">updateWidgetDisplay(Context, AppWidgetManager, int[]): void</text>
+<ellipse cx="18" cy="371.25" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="374.4604" fill="#000000" font-family="sans-serif" font-size="11" textLength="237">widgetRefreshAction(Context, Intent): void</text>
+</a>
+<a href="ClassicWidget.WidgetDimensionManager.html" target="_top" title="ClassicWidget.WidgetDimensionManager.html" xlink:actuate="onRequest" xlink:href="ClassicWidget.WidgetDimensionManager.html" xlink:show="new" xlink:title="ClassicWidget.WidgetDimensionManager.html" xlink:type="simple">
+<rect id="c" x="146" y="441" width="314" height="37.938" fill="#FEFECE" filter="url(#a)" stroke="#A80036" stroke-width="1.5" codeLine="32"/>
+<ellipse cx="161" cy="459.97" rx="11" ry="11" fill="#ADD1B2" stroke="#A80036"/>
+<path d="m163.97 465.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="175" y="458.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="282">ClassicWidget.WidgetDimensionManager</text>
+<text x="196" y="471.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+<path id="d" d="m303 396.39v44.49" fill="none" stroke="#A80036" codeLine="34"/>
+<ellipse cx="303" cy="389.22" rx="8" ry="8" fill="#fff" stroke="#A80036"/>
+<line x1="303" x2="303" y1="397.22" y2="381.22" stroke="#A80036"/>
+<line x1="295" x2="311" y1="389.22" y2="389.22" stroke="#A80036"/>
+<text x="204" y="501.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="192">UMLDoclet 2.0.15, PlantUML 1.2021.13</text>
+</svg>
