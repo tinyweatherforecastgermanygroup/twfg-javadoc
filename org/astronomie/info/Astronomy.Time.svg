@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="331px" style="background:transparent;height:331px;width:215px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 215 331" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="Astronomy.Time.html" target="_top" title="Astronomy.Time.html" xlink:actuate="onRequest" xlink:href="Astronomy.Time.html" xlink:show="new" xlink:title="Astronomy.Time.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="201" height="200.61" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="47.65" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m50.619 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="67.35" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="112">Astronomy.Time</text>
+<text x="75.85" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="95">org.astronomie.info</text>
+<line x1="8" x2="207" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="44">hh: int</text>
+<ellipse cx="18" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="52">mm: int</text>
+<ellipse cx="18" cy="189.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="192.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="42">ss: int</text>
+<ellipse cx="18" cy="205.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="133">hhmmString: String</text>
+<ellipse cx="18" cy="221.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="225.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="159">hhmmStringdec: String</text>
+<ellipse cx="18" cy="238.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="241.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="149">hhmmssString: String</text>
+<ellipse cx="18" cy="254.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="257.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="175">hhmmssStringdec: String</text>
+<line x1="8" x2="207" y1="265.02" y2="265.02" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="278.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="282.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="44">Time()</text>
+<ellipse cx="18" cy="294.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="298.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="92">Time(double)</text>
+</g>
+</a>
+<a href="Astronomy.html" target="_top" title="Astronomy.html" xlink:actuate="onRequest" xlink:href="Astronomy.html" xlink:show="new" xlink:title="Astronomy.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="44" y="7" width="127" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="17"/>
+<ellipse cx="59" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m61.969 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="83.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="74">Astronomy</text>
+<text x="73" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="95">org.astronomie.info</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m107.5 61.33v43.49" fill="none" codeLine="19"/>
+<ellipse cx="107.5" cy="53.33" rx="8" ry="8" fill="#fff"/>
+<line x1="107.5" x2="107.5" y1="61.33" y2="45.33"/>
+<line x1="99.5" x2="115.5" y1="53.33" y2="53.33"/>
+</g>
+<text x="10.5" y="320.8916" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

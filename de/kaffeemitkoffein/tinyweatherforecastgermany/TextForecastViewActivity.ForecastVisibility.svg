@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="411px" height="363px" style="background:transparent;height:363px;width:411px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 411 363" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="TextForecastViewActivity.ForecastVisibility.html" target="_top" title="TextForecastViewActivity.ForecastVisibility.html" xlink:actuate="onRequest" xlink:href="TextForecastViewActivity.ForecastVisibility.html" xlink:show="new" xlink:title="TextForecastViewActivity.ForecastVisibility.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="397" height="233.2" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="58.25" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m61.219 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="78.75" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="286">TextForecastViewActivity.ForecastVisibility</text>
+<text x="101.75" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="403" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="134">titleVisible: boolean</text>
+<ellipse cx="18" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="140">dateVisible: boolean</text>
+<ellipse cx="18" cy="189.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="192.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">subtitleVisible: boolean</text>
+<ellipse cx="18" cy="205.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="143">bodyVisible: boolean</text>
+<line x1="8" x2="403" y1="216.12" y2="216.12" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="229.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="233.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="123">ForecastVisibility()</text>
+<ellipse cx="18" cy="246.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="249.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="371">ForecastVisibility(boolean, boolean, boolean, boolean)</text>
+<ellipse cx="18" cy="262.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="265.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="213">ForecastVisibility(TextForecast)</text>
+<ellipse cx="18" cy="278.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="282.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="159">isTitleVisible(): boolean</text>
+<ellipse cx="18" cy="294.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="298.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="163">isDateVisible(): boolean</text>
+<ellipse cx="18" cy="311.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="314.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="182">isSubtitleVisible(): boolean</text>
+<ellipse cx="18" cy="327.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="330.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="165">isBodyVisible(): boolean</text>
+</g>
+</a>
+<a href="TextForecastViewActivity.html" target="_top" title="TextForecastViewActivity.html" xlink:actuate="onRequest" xlink:href="TextForecastViewActivity.html" xlink:show="new" xlink:title="TextForecastViewActivity.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="69.5" y="7" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="19"/>
+<ellipse cx="84.5" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m87.469 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="134" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="169">TextForecastViewActivity</text>
+<text x="98.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m205.5 61.2v43.74" fill="none" codeLine="21"/>
+<ellipse cx="205.5" cy="53.2" rx="8" ry="8" fill="#fff"/>
+<line x1="205.5" x2="205.5" y1="61.2" y2="45.2"/>
+<line x1="197.5" x2="213.5" y1="53.2" y2="53.2"/>
+</g>
+<text x="108.5" y="353.4854" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

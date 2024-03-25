@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448px" height="583px" style="background:transparent;height:583px;width:448px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 448 583" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="APIReaders.RadarMNSetGeoserverRunnable.html" target="_top" title="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:show="new" xlink:title="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="129" width="377" height="428.77" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="39.55" cy="147.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m42.519 153.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="57.45" y="146.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="306">APIReaders.RadarMNSetGeoserverRunnable</text>
+<text x="90.45" y="159.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="383" y1="166.94" y2="166.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="180.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="183.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="282">RADAR_CACHE_FILENAME_PREFIX: String</text>
+<ellipse cx="18" cy="196.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="200.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="281">RADAR_CACHE_FILENAME_SUFFIX: String</text>
+<ellipse cx="18" cy="213.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="216.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="173">TIMESTEP_5MINUTES: int</text>
+<ellipse cx="18" cy="229.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="232.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="129">DATASET_SIZE: int</text>
+<ellipse cx="18" cy="245.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="249.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="159">ssl_exception: boolean</text>
+<line x1="8" x2="383" y1="256.42" y2="256.42" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="270.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="273.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="287">RadarMNSetGeoserverRunnable(Context)</text>
+<ellipse cx="18" cy="286.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="289.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="351">RadarMNSetGeoserverRunnable(Context, boolean)</text>
+<ellipse cx="18" cy="302.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="306.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="214">setForceUpdate(boolean): void</text>
+<ellipse cx="18" cy="318.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="322.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="299">roundUTCUpToNextFiveMinutes(long): long</text>
+<ellipse cx="18" cy="335.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="338.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="277">getUrlStringForTime(long, boolean): URL</text>
+<ellipse cx="18" cy="351.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="354.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="229">getRadarMNFile(Context, int): File</text>
+<ellipse cx="18" cy="367.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="371.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="296">radarCacheFileExists(Context, int): boolean</text>
+<ellipse cx="18" cy="384.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="387.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288">radarCacheFileValid(Context, int): boolean</text>
+<ellipse cx="18" cy="400.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="403.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="243">fullRadarDataSet(Context): boolean</text>
+<ellipse cx="18" cy="416.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="420.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="265">deleteCacheFile(Context, int): boolean</text>
+<ellipse cx="18" cy="433.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="436.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="220">deleteCacheFiles(Context): void</text>
+<ellipse cx="18" cy="449.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="452.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="187">fetchRadarSet(int, int): void</text>
+<ellipse cx="18" cy="465.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="468.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="179">incrementProgress(): void</text>
+<ellipse cx="18" cy="481.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="485.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="158">incrementErrors(): void</text>
+<ellipse cx="18" cy="498.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="501.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="97">onStart(): void</text>
+<ellipse cx="18" cy="514.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="517.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="217">onFinished(long, boolean): void</text>
+<ellipse cx="18" cy="530.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="534.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="182">onProgress(long, int): void</text>
+<ellipse cx="18" cy="547.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="550.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="70">run(): void</text>
+</g>
+</a>
+<g id="c">
+<rect id="d" x="36.5" y="7" width="98" height="62.234" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="31"/>
+<ellipse cx="51.5" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m47.422 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="65.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="66">Runnable</text>
+<text x="77" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="43">java.lang</text>
+<line x1="37.5" x2="133.5" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="47.5" cy="58.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="56.5" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="70">run(): void</text>
+</g>
+<a href="APIReaders.html" target="_top" title="APIReaders.html" xlink:actuate="onRequest" xlink:href="APIReaders.html" xlink:show="new" xlink:title="APIReaders.html" xlink:type="simple">
+<g id="e">
+<rect id="f" x="169.5" y="19" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="34"/>
+<ellipse cx="184.5" cy="37.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m187.47 43.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="279" y="36.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">APIReaders</text>
+<text x="198.5" y="49.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="g" fill="none" stroke="#181818">
+<path id="h" d="m102.59 86.131c5.71 15.74 7.1016 19.599 15.462 42.689" stroke-dasharray="7.0,7.0" codeLine="36"/>
+<polygon points="96.45 69.21 96.948 88.177 108.23 84.085"/>
+</g>
+<g id="i" stroke="#181818">
+<path id="j" d="m293.5 72.122c-5.9 16.27-9.8155 27.088-20.576 56.768" fill="none" codeLine="37"/>
+<ellipse cx="296.22" cy="64.601" rx="8" ry="8" fill="#fff"/>
+<line x1="293.5" x2="298.95" y1="72.122" y2="57.08"/>
+<line x1="288.7" x2="303.74" y1="61.874" y2="67.328"/>
+</g>
+<text x="127.25" y="573.0479" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

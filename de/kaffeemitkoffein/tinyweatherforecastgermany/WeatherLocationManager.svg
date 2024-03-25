@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="441px" height="559px" style="background:transparent;height:559px;width:441px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 441 559" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="WeatherLocationManager.html" target="_top" title="WeatherLocationManager.html" xlink:actuate="onRequest" xlink:href="WeatherLocationManager.html" xlink:show="new" xlink:title="WeatherLocationManager.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="427" height="428.77" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="96.25" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m99.219 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="148.75" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="176">WeatherLocationManager</text>
+<text x="116.75" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="433" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="141">GPSFIXINTERVAL: int</text>
+<ellipse cx="18" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="266">PERMISSION_CALLBACK_LOCATION: int</text>
+<line x1="8" x2="433" y1="183.53" y2="183.53" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="197.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="200.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="240">WeatherLocationManager(Context)</text>
+<ellipse cx="18" cy="213.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="216.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="200">setView(RelativeLayout): void</text>
+<ellipse cx="18" cy="229.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="233.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="241">registerCancelButton(Button): void</text>
+<ellipse cx="18" cy="246.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="249.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="271">onActivityCreated(Activity, Bundle): void</text>
+<ellipse cx="18" cy="262.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="265.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="209">onActivityStarted(Activity): void</text>
+<ellipse cx="18" cy="278.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="282.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="226">onActivityResumed(Activity): void</text>
+<ellipse cx="18" cy="294.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="298.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="211">onActivityPaused(Activity): void</text>
+<ellipse cx="18" cy="311.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="314.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="218">onActivityStopped(Activity): void</text>
+<ellipse cx="18" cy="327.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="330.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="344">onActivitySaveInstanceState(Activity, Bundle): void</text>
+<ellipse cx="18" cy="343.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="347.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="231">onActivityDestroyed(Activity): void</text>
+<ellipse cx="18" cy="360.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="363.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288">hasLocationPermission(Context): boolean</text>
+<ellipse cx="18" cy="376.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="379.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="372">hasBackgroundLocationPermission(Context): boolean</text>
+<ellipse cx="18" cy="392.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="396.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="287">getLastKnownLocation(Context): Location</text>
+<ellipse cx="18" cy="409.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="412.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="335">checkForBackgroundLocation(Context): boolean</text>
+<ellipse cx="18" cy="425.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="428.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="380">findClosestStation(Context, Location): WeatherLocation</text>
+<ellipse cx="18" cy="441.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="444.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="306">getDescriptionGeo(WeatherLocation): String</text>
+<ellipse cx="18" cy="457.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="461.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="401">getDescriptionAlternate(Context, WeatherLocation): String</text>
+<ellipse cx="18" cy="474.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="477.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="213">startGPSLocationSearch(): void</text>
+<ellipse cx="18" cy="490.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="493.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="213">stopGPSLocationSearch(): void</text>
+<ellipse cx="18" cy="506.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="510.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="147">checkLocation(): void</text>
+<ellipse cx="18" cy="523.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="526.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="192">newLocation(Location): void</text>
+</g>
+</a>
+<g id="c">
+<rect id="d" x="119.5" y="7" width="202" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="31"/>
+<ellipse cx="134.5" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m130.42 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="148.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="170">ActivityLifecycleCallbacks</text>
+<text x="207.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="52">Application</text>
+</g>
+<g id="e" fill="none" stroke="#181818">
+<path id="f" d="m220.5 63.23v41.72" stroke-dasharray="7.0,7.0" codeLine="33"/>
+<polygon points="220.5 45.23 214.5 63.23 226.5 63.23"/>
+</g>
+<text x="123.5" y="549.0479" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3175px" height="167px" style="background:transparent;height:167px;width:3175px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 3175 167" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="APIReaders.html" target="_top" title="APIReaders.html" xlink:actuate="onRequest" xlink:href="APIReaders.html" xlink:show="new" xlink:title="APIReaders.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="1496.5" y="7" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="1511.5" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1514.5 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1606" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">APIReaders</text>
+<text x="1525.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.WeatherWarningsRunnable.html" target="_top" title="APIReaders.WeatherWarningsRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.WeatherWarningsRunnable.html" xlink:show="new" xlink:title="APIReaders.WeatherWarningsRunnable.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="7" y="105" width="303" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="6"/>
+<ellipse cx="22" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m24.969 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="36" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="271">APIReaders.WeatherWarningsRunnable</text>
+<text x="51.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.WeatherForecastRunnable.html" target="_top" title="APIReaders.WeatherForecastRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.WeatherForecastRunnable.html" xlink:show="new" xlink:title="APIReaders.WeatherForecastRunnable.html" xlink:type="simple">
+<g id="e">
+<rect id="f" x="345" y="105" width="299" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="7"/>
+<ellipse cx="360" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m362.97 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="374" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="267">APIReaders.WeatherForecastRunnable</text>
+<text x="387.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.TextForecastRunnable.html" target="_top" title="APIReaders.TextForecastRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.TextForecastRunnable.html" xlink:show="new" xlink:title="APIReaders.TextForecastRunnable.html" xlink:type="simple">
+<g id="g">
+<rect id="h" x="679.5" y="105" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="8"/>
+<ellipse cx="694.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m697.47 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="709" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="239">APIReaders.TextForecastRunnable</text>
+<text x="708.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.RadarmapRunnable.html" target="_top" title="APIReaders.RadarmapRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.RadarmapRunnable.html" xlink:show="new" xlink:title="APIReaders.RadarmapRunnable.html" xlink:type="simple">
+<g id="i">
+<rect id="j" x="986.5" y="105" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="9"/>
+<ellipse cx="1001.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1004.5 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1026" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="219">APIReaders.RadarmapRunnable</text>
+<text x="1015.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.RadarMNSetGeoserverRunnable.html" target="_top" title="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:show="new" xlink:title="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:type="simple">
+<g id="k">
+<rect id="l" x="1293.5" y="105" width="338" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="10"/>
+<ellipse cx="1308.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1311.5 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1322.5" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="306">APIReaders.RadarMNSetGeoserverRunnable</text>
+<text x="1355.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.getLayerImages.html" target="_top" title="APIReaders.getLayerImages.html" xlink:actuate="onRequest" xlink:href="APIReaders.getLayerImages.html" xlink:show="new" xlink:title="APIReaders.getLayerImages.html" xlink:type="simple">
+<g id="m">
+<rect id="n" x="1666.5" y="105" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="11"/>
+<ellipse cx="1681.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1684.5 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1719.5" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="192">APIReaders.getLayerImages</text>
+<text x="1695.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.PollenReader.html" target="_top" title="APIReaders.PollenReader.html" xlink:actuate="onRequest" xlink:href="APIReaders.PollenReader.html" xlink:show="new" xlink:title="APIReaders.PollenReader.html" xlink:type="simple">
+<g id="o">
+<rect id="p" x="1973.5" y="105" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="12"/>
+<ellipse cx="1988.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1991.5 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2035" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="175">APIReaders.PollenReader</text>
+<text x="2002.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.PollenAreaReader.html" target="_top" title="APIReaders.PollenAreaReader.html" xlink:actuate="onRequest" xlink:href="APIReaders.PollenAreaReader.html" xlink:show="new" xlink:title="APIReaders.PollenAreaReader.html" xlink:type="simple">
+<g id="q">
+<rect id="r" x="2280.5" y="105" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="13"/>
+<ellipse cx="2295.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2298.5 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2326.5" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="206">APIReaders.PollenAreaReader</text>
+<text x="2309.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.WarnAreasReader.html" target="_top" title="APIReaders.WarnAreasReader.html" xlink:actuate="onRequest" xlink:href="APIReaders.WarnAreasReader.html" xlink:show="new" xlink:title="APIReaders.WarnAreasReader.html" xlink:type="simple">
+<g id="s">
+<rect id="t" x="2587.5" y="105" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="14"/>
+<ellipse cx="2602.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2605.5 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2633" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="207">APIReaders.WarnAreasReader</text>
+<text x="2616.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="APIReaders.GetUvIndexForLocation.html" target="_top" title="APIReaders.GetUvIndexForLocation.html" xlink:actuate="onRequest" xlink:href="APIReaders.GetUvIndexForLocation.html" xlink:show="new" xlink:title="APIReaders.GetUvIndexForLocation.html" xlink:type="simple">
+<g id="u">
+<rect id="v" x="2894.5" y="105" width="274" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="15"/>
+<ellipse cx="2909.5" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2912.5 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2923.5" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="242">APIReaders.GetUvIndexForLocation</text>
+<text x="2924.5" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="w" stroke="#181818">
+<path id="x" d="m1480.2 33.802c-237.6 11.03-726.86 35.818-1152.7 71.198-5.73 0.48-11.57 0.98-17.47 1.52" fill="none" codeLine="17"/>
+<ellipse cx="1488.1" cy="33.431" rx="8" ry="8" fill="#fff"/>
+<line x1="1480.2" x2="1496.1" y1="33.802" y2="33.06"/>
+<line x1="1487.8" x2="1488.5" y1="25.44" y2="41.422"/>
+</g>
+<g id="y" stroke="#181818">
+<path id="z" d="m1480.2 37.947c-187.98 13.75-521.25 39.083-818.65 67.053-5.66 0.53-11.43 1.09-17.25 1.66" fill="none" codeLine="18"/>
+<ellipse cx="1488.1" cy="37.364" rx="8" ry="8" fill="#fff"/>
+<line x1="1480.2" x2="1496.1" y1="37.947" y2="36.78"/>
+<line x1="1487.5" x2="1488.7" y1="29.385" y2="45.342"/>
+</g>
+<g id="aa" stroke="#181818">
+<path id="ab" d="m1480.5 44.846c-134.22 15.76-329.33 38.674-512.04 60.154-5.45 0.64-11 1.29-16.61 1.95" fill="none" codeLine="19"/>
+<ellipse cx="1488.5" cy="43.913" rx="8" ry="8" fill="#fff"/>
+<line x1="1480.5" x2="1496.4" y1="44.846" y2="42.98"/>
+<line x1="1487.6" x2="1489.4" y1="35.968" y2="51.858"/>
+</g>
+<g id="ac" stroke="#181818">
+<path id="ad" d="m1521.1 47.96c-91 17.13-211.47 39.81-302.61 56.96" fill="none" codeLine="20"/>
+<ellipse cx="1529" cy="46.48" rx="8" ry="8" fill="#fff"/>
+<line x1="1521.1" x2="1536.9" y1="47.96" y2="45"/>
+<line x1="1527.5" x2="1530.5" y1="38.618" y2="54.342"/>
+</g>
+<g id="ae" stroke="#181818">
+<path id="af" d="m1586.6 52.929c-30.29 17.11-61.619 34.801-91.969 51.931" fill="none" codeLine="21"/>
+<ellipse cx="1593.6" cy="48.995" rx="8" ry="8" fill="#fff"/>
+<line x1="1586.6" x2="1600.5" y1="52.929" y2="45.06"/>
+<line x1="1589.6" x2="1597.5" y1="42.029" y2="55.96"/>
+</g>
+<g id="ag" stroke="#181818">
+<path id="ah" d="m1678.4 52.929c30.29 17.11 61.619 34.801 91.969 51.931" fill="none" codeLine="22"/>
+<ellipse cx="1671.4" cy="48.995" rx="8" ry="8" fill="#fff"/>
+<line x1="1678.4" x2="1664.5" y1="52.929" y2="45.06"/>
+<line x1="1667.5" x2="1675.4" y1="55.96" y2="42.029"/>
+</g>
+<g id="ai" stroke="#181818">
+<path id="aj" d="m1737.6 48.157c85.11 17.13 196.8 39.613 282.04 56.763" fill="none" codeLine="23"/>
+<ellipse cx="1729.8" cy="46.578" rx="8" ry="8" fill="#fff"/>
+<line x1="1737.6" x2="1721.9" y1="48.157" y2="45"/>
+<line x1="1728.2" x2="1731.4" y1="54.421" y2="38.736"/>
+</g>
+<g id="ak" stroke="#181818">
+<path id="al" d="m1784.5 45.614c143.5 17.57 352.36 43.146 495.87 60.716" fill="none" codeLine="24"/>
+<ellipse cx="1776.6" cy="44.642" rx="8" ry="8" fill="#fff"/>
+<line x1="1784.5" x2="1768.6" y1="45.614" y2="43.67"/>
+<line x1="1775.6" x2="1777.5" y1="52.583" y2="36.702"/>
+</g>
+<g id="am" stroke="#181818">
+<path id="an" d="m1784.5 38.034c182.61 13.55 501.05 38.366 785.99 66.966 5.46 0.55 11.02 1.12 16.64 1.72" fill="none" codeLine="25"/>
+<ellipse cx="1776.5" cy="37.442" rx="8" ry="8" fill="#fff"/>
+<line x1="1784.5" x2="1768.6" y1="38.034" y2="36.85"/>
+<line x1="1775.9" x2="1777.1" y1="45.42" y2="29.464"/>
+</g>
+<g id="ao" stroke="#181818">
+<path id="ap" d="m1784.5 33.878c229.12 10.86 690.41 35.012 1093 71.122 5.5 0.49 11.1 1.02 16.76 1.58" fill="none" codeLine="26"/>
+<ellipse cx="1776.5" cy="33.499" rx="8" ry="8" fill="#fff"/>
+<line x1="1784.5" x2="1768.6" y1="33.878" y2="33.12"/>
+<line x1="1776.2" x2="1776.9" y1="41.49" y2="25.508"/>
+</g>
+<text x="1490.75" y="157.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

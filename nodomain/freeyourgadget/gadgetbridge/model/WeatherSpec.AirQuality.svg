@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="555px" height="477px" style="background:transparent;height:477px;width:555px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 555 477" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="WeatherSpec.AirQuality.html" target="_top" title="WeatherSpec.AirQuality.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.AirQuality.html" xlink:show="new" xlink:title="WeatherSpec.AirQuality.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="70" y="105" width="259" height="347.28" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="85" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m87.969 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="132.5" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">WeatherSpec.AirQuality</text>
+<text x="99" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="227">nodomain.freeyourgadget.gadgetbridge.model</text>
+<line x1="71" x2="328" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="81" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="87">VERSION: int</text>
+<ellipse cx="81" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="125">CREATOR: &lt;any&gt;</text>
+<ellipse cx="81" cy="189.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="192.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="46">aqi: int</text>
+<ellipse cx="81" cy="205.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="208.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="55">co: float</text>
+<ellipse cx="81" cy="221.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="225.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="65">no2: float</text>
+<ellipse cx="81" cy="238.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="241.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="56">o3: float</text>
+<ellipse cx="81" cy="254.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="257.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="78">pm10: float</text>
+<ellipse cx="81" cy="270.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="274.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="78">pm25: float</text>
+<ellipse cx="81" cy="286.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="290.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="64">so2: float</text>
+<ellipse cx="81" cy="303.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="306.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="64">coAqi: int</text>
+<ellipse cx="81" cy="319.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="322.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="74">no2Aqi: int</text>
+<ellipse cx="81" cy="335.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="339.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="65">o3Aqi: int</text>
+<ellipse cx="81" cy="352.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="355.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="87">pm10Aqi: int</text>
+<ellipse cx="81" cy="368.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="371.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="87">pm25Aqi: int</text>
+<ellipse cx="81" cy="384.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="90" y="388.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="73">so2Aqi: int</text>
+<line x1="71" x2="328" y1="395.39" y2="395.39" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="81" cy="409.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="90" y="412.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="73">AirQuality()</text>
+<ellipse cx="81" cy="425.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="90" y="428.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">describeContents(): int</text>
+<ellipse cx="81" cy="441.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="90" y="444.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="207">writeToParcel(Parcel, int): void</text>
+</g>
+</a>
+<g id="c">
+<rect id="d" x="7" y="10" width="103" height="32" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="26"/>
+<ellipse cx="22" cy="26" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m17.922 21.766v-2.1562h7.3906v2.1562h-2.4687v8.0782h2.4687v2.1562h-7.3906v-2.1562h2.4687v-8.0782h-2.4687z"/>
+<text x="36" y="30.8467" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="71">Parcelable</text>
+</g>
+<g id="e">
+<rect id="f" x="145" y="7" width="109" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="27"/>
+<ellipse cx="160" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m155.92 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="174" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="77">Serializable</text>
+<text x="197" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="31">java.io</text>
+</g>
+<a href="WeatherSpec.html" target="_top" title="WeatherSpec.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.html" xlink:show="new" xlink:title="WeatherSpec.html" xlink:type="simple">
+<g id="g">
+<rect id="h" x="289" y="7" width="259" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="28"/>
+<ellipse cx="304" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m306.97 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="385" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="93">WeatherSpec</text>
+<text x="318" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="227">nodomain.freeyourgadget.gadgetbridge.model</text>
+</g>
+</a>
+<g id="i" fill="none" stroke="#181818">
+<path id="j" d="m75.936 57.978c7.95 14.13 11.874 21.102 26.404 46.912" stroke-dasharray="7.0,7.0" codeLine="30"/>
+<polygon points="67.11 42.29 70.707 60.92 81.165 55.035"/>
+</g>
+<g id="k" fill="none" stroke="#181818">
+<path id="l" d="m199.5 63.02v41.98" stroke-dasharray="7.0,7.0" codeLine="31"/>
+<polygon points="199.5 45.02 193.5 63.02 205.5 63.02"/>
+</g>
+<g id="m" stroke="#181818">
+<path id="n" d="m392.22 57.063c-16.48 18.84-33.486 38.307-63.066 72.137" fill="none" codeLine="32"/>
+<ellipse cx="397.48" cy="51.041" rx="8" ry="8" fill="#fff"/>
+<line x1="392.22" x2="402.75" y1="57.063" y2="45.02"/>
+<line x1="391.46" x2="403.5" y1="45.774" y2="56.308"/>
+</g>
+<text x="180.5" y="467.5635" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

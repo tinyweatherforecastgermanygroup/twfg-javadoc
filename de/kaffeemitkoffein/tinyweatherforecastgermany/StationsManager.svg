@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="509px" style="background:transparent;height:509px;width:680px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 680 509" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="StationsManager.html" target="_top" title="StationsManager.html" xlink:actuate="onRequest" xlink:href="StationsManager.html" xlink:show="new" xlink:title="StationsManager.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="7" width="666" height="379.88" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="215.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m218.72 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="298.25" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="116">StationsManager</text>
+<text x="236.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="672" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="261">stations: ArrayList&lt;WeatherLocation&gt;</text>
+<ellipse cx="18" cy="74.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="112">loaded: boolean</text>
+<line x1="8" x2="672" y1="85.531" y2="85.531" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="99.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="102.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="180">StationsManager(Context)</text>
+<ellipse cx="18" cy="115.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="118.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="385">StationsManager(Context, ArrayList&lt;WeatherLocation&gt;)</text>
+<ellipse cx="18" cy="131.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="135.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="357">readStations(Context): ArrayList&lt;WeatherLocation&gt;</text>
+<ellipse cx="18" cy="148.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="151.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="134">readStations(): void</text>
+<ellipse cx="18" cy="164.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="167.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="295">getStations(): ArrayList&lt;WeatherLocation&gt;</text>
+<ellipse cx="18" cy="180.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="184.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="139">getName(int): String</text>
+<ellipse cx="18" cy="196.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="200.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="178">getDescription(int): String</text>
+<ellipse cx="18" cy="213.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="216.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="176">getLongitude(int): double</text>
+<ellipse cx="18" cy="229.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="232.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="162">getLatitude(int): double</text>
+<ellipse cx="18" cy="245.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="249.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="159">getAltitude(int): double</text>
+<ellipse cx="18" cy="262.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="265.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="149">getStationCount(): int</text>
+<ellipse cx="18" cy="278.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="281.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="300">getPositionFromDescription(String): Integer</text>
+<ellipse cx="18" cy="294.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="298.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="364">getPositionFromDescription(String, boolean): Integer</text>
+<ellipse cx="18" cy="311.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="314.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="261">getPositionFromName(String): Integer</text>
+<ellipse cx="18" cy="327.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="330.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="273">getFromName(String): WeatherLocation</text>
+<ellipse cx="18" cy="343.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="346.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="370">getLocationFromDescription(String): WeatherLocation</text>
+<ellipse cx="18" cy="359.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="363.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="417">getStationsInPolygon(Polygon): ArrayList&lt;WeatherLocation&gt;</text>
+<ellipse cx="18" cy="376.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="379.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="640">sortStationsByDistance(ArrayList&lt;WeatherLocation&gt;, Location): ArrayList&lt;WeatherLocation&gt;</text>
+</g>
+</a>
+<a href="StationsManager.StationsReader.html" target="_top" title="StationsManager.StationsReader.html" xlink:actuate="onRequest" xlink:href="StationsManager.StationsReader.html" xlink:show="new" xlink:title="StationsManager.StationsReader.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="204" y="447" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="27"/>
+<ellipse cx="219" cy="465.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m221.97 471.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="240" y="464.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="226">StationsManager.StationsReader</text>
+<text x="233" y="477.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m340 403.05v43.81" fill="none" codeLine="29"/>
+<ellipse cx="340" cy="395.05" rx="8" ry="8" fill="#fff"/>
+<line x1="340" x2="340" y1="403.05" y2="387.05"/>
+<line x1="332" x2="348" y1="395.05" y2="395.05"/>
+</g>
+<text x="243" y="499.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

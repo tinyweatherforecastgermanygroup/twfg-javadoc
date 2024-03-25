@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="821px" height="1150px" style="background:transparent;height:1150px;width:821px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 821 1150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a">
+<path d="m8.5 6h157a3.75 3.75 0 0 1 2.5 2.5l7 19.797h636.5a2.5 2.5 0 0 1 2.5 2.5v1091.7a2.5 2.5 0 0 1-2.5 2.5h-803a2.5 2.5 0 0 1-2.5-2.5v-1114a2.5 2.5 0 0 1 2.5-2.5" fill="none" stroke="#000" stroke-width="1.5"/>
+<line x1="6" x2="175" y1="28.297" y2="28.297" stroke="#000" stroke-width="1.5"/>
+<text x="10" y="20.9951" fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" textLength="156">org.astronomie.info</text>
+</g>
+<a href="Astronomy.html" target="_top" title="Astronomy.html" xlink:actuate="onRequest" xlink:href="Astronomy.html" xlink:show="new" xlink:title="Astronomy.html" xlink:type="simple">
+<g id="b">
+<rect id="c" x="170.5" y="41" width="503" height="569.5" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="380.75" cy="57" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m383.72 62.641q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1563-1.3437 0.1563-2.5 0-3.8282-1.6406-1.3125-1.6563-1.3125-4.7813t1.3125-4.7812q1.3282-1.6563 3.8282-1.6563 0.7031 0 1.3437 0.1563 0.6563 0.1562 1.2188 0.4531v2.7187q-0.625-0.5781-1.2188-0.8437-0.5937-0.2813-1.2187-0.2813-1.3438 0-2.0313 1.0782-0.6875 1.0625-0.6875 3.1562 0 2.0938 0.6875 3.1719 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2813 1.2188-0.8594v2.7187z"/>
+<text x="401.25" y="61.8467" fill="#000000" font-family="sans-serif" font-size="14" textLength="74">Astronomy</text>
+<line x1="171.5" x2="672.5" y1="73" y2="73" stroke="#181818" stroke-width=".5"/>
+<line x1="171.5" x2="672.5" y1="81" y2="81" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="181.5" cy="94.648" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="97.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="101">Int(double): int</text>
+<ellipse cx="181.5" cy="110.95" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="114.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="137">sqr(double): double</text>
+<ellipse cx="181.5" cy="127.24" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="130.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="140">frac(double): double</text>
+<ellipse cx="181.5" cy="143.54" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="146.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="202">mod(double, double): double</text>
+<ellipse cx="181.5" cy="159.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="163.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="167">mod2Pi(double): double</text>
+<ellipse cx="181.5" cy="176.13" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="179.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219">round1000000(double): double</text>
+<ellipse cx="181.5" cy="192.43" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="195.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="210">round100000(double): double</text>
+<ellipse cx="181.5" cy="208.73" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="212.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="201">round10000(double): double</text>
+<ellipse cx="181.5" cy="225.02" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="228.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="192">round1000(double): double</text>
+<ellipse cx="181.5" cy="241.32" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="244.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="183">round100(double): double</text>
+<ellipse cx="181.5" cy="257.62" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="260.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="174">round10(double): double</text>
+<ellipse cx="181.5" cy="273.91" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="277.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="199">timeHHMMSS(double): String</text>
+<ellipse cx="181.5" cy="290.21" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="293.5576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="225">timeHHMMSSdec(double): String</text>
+<ellipse cx="181.5" cy="306.51" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="309.8545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="207">timeHHMMdec(double): String</text>
+<ellipse cx="181.5" cy="322.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="326.1514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="181">timeHHMM(double): String</text>
+<ellipse cx="181.5" cy="339.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="342.4482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="136">sign(double): String</text>
+<ellipse cx="181.5" cy="355.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="358.7451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="175">calcJD(int, int, int): double</text>
+<ellipse cx="181.5" cy="371.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="375.042" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="154">gMST(double): double</text>
+<ellipse cx="181.5" cy="387.99" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="391.3389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238">gMST2UT(double, double): double</text>
+<ellipse cx="181.5" cy="404.29" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="407.6357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="256">gMST2LMST(double, double): double</text>
+<ellipse cx="181.5" cy="420.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="423.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="197">ecl2Equ(Coor, double): Coor</text>
+<ellipse cx="181.5" cy="436.88" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="440.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="322">equ2Altaz(Coor, double, double, double): Coor</text>
+<ellipse cx="181.5" cy="453.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="456.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="308">geoEqu2TopoEqu(Coor, Coor, double): Coor</text>
+<ellipse cx="181.5" cy="469.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="472.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="310">equPolar2Cart(double, double, double): Coor</text>
+<ellipse cx="181.5" cy="485.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="489.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="393">observer2EquCart(double, double, double, double): Coor</text>
+<ellipse cx="181.5" cy="502.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="505.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="181">sunPosition(double): Coor</text>
+<ellipse cx="181.5" cy="518.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="521.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="293">sunPosition(double, double, double): Coor</text>
+<ellipse cx="181.5" cy="534.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="538.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="236">moonPosition(Coor, double): Coor</text>
+<ellipse cx="181.5" cy="550.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="554.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="333">moonPosition(Coor, double, Coor, double): Coor</text>
+<ellipse cx="181.5" cy="567.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="570.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="180">refraction(double): double</text>
+<ellipse cx="181.5" cy="583.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="586.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="463">sunRise(double, double, double, double, double, boolean): Riseset</text>
+<ellipse cx="181.5" cy="599.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="190.5" y="603.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="477">moonRise(double, double, double, double, double, boolean): Riseset</text>
+</g>
+</a>
+<a href="Astronomy.Coor.html" target="_top" title="Astronomy.Coor.html" xlink:actuate="onRequest" xlink:href="Astronomy.Coor.html" xlink:show="new" xlink:title="Astronomy.Coor.html" xlink:type="simple">
+<g id="d">
+<rect id="e" x="22.5" y="670" width="225" height="439.12" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="40"/>
+<ellipse cx="75.25" cy="686" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m78.219 691.64q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1563-1.3437 0.1563-2.5 0-3.8282-1.6406-1.3125-1.6563-1.3125-4.7813t1.3125-4.7812q1.3282-1.6563 3.8282-1.6563 0.7031 0 1.3437 0.1563 0.6563 0.1562 1.2188 0.4531v2.7187q-0.625-0.5781-1.2188-0.8437-0.5937-0.2813-1.2187-0.2813-1.3438 0-2.0313 1.0782-0.6875 1.0625-0.6875 3.1562 0 2.0938 0.6875 3.1719 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2813 1.2188-0.8594v2.7187z"/>
+<text x="95.75" y="690.8467" fill="#000000" font-family="sans-serif" font-size="14" textLength="111">Astronomy.Coor</text>
+<line x1="23.5" x2="246.5" y1="702" y2="702" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="33.5" cy="715.65" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="718.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="78">lon: double</text>
+<ellipse cx="33.5" cy="731.95" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="735.292" fill="#000000" font-family="sans-serif" font-size="14" textLength="73">lat: double</text>
+<ellipse cx="33.5" cy="748.24" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="751.5889" fill="#000000" font-family="sans-serif" font-size="14" textLength="70">ra: double</text>
+<ellipse cx="33.5" cy="764.54" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="767.8857" fill="#000000" font-family="sans-serif" font-size="14" textLength="83">dec: double</text>
+<ellipse cx="33.5" cy="780.84" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="784.1826" fill="#000000" font-family="sans-serif" font-size="14" textLength="146">raGeocentric: double</text>
+<ellipse cx="33.5" cy="797.13" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="800.4795" fill="#000000" font-family="sans-serif" font-size="14" textLength="159">decGeocentric: double</text>
+<ellipse cx="33.5" cy="813.43" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="816.7764" fill="#000000" font-family="sans-serif" font-size="14" textLength="73">az: double</text>
+<ellipse cx="33.5" cy="829.73" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="833.0732" fill="#000000" font-family="sans-serif" font-size="14" textLength="73">alt: double</text>
+<ellipse cx="33.5" cy="846.02" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="849.3701" fill="#000000" font-family="sans-serif" font-size="14" textLength="64">x: double</text>
+<ellipse cx="33.5" cy="862.32" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="865.667" fill="#000000" font-family="sans-serif" font-size="14" textLength="64">y: double</text>
+<ellipse cx="33.5" cy="878.62" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="881.9639" fill="#000000" font-family="sans-serif" font-size="14" textLength="65">z: double</text>
+<ellipse cx="33.5" cy="894.91" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="898.2607" fill="#000000" font-family="sans-serif" font-size="14" textLength="99">radius: double</text>
+<ellipse cx="33.5" cy="911.21" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="914.5576" fill="#000000" font-family="sans-serif" font-size="14" textLength="118">diameter: double</text>
+<ellipse cx="33.5" cy="927.51" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="930.8545" fill="#000000" font-family="sans-serif" font-size="14" textLength="116">distance: double</text>
+<ellipse cx="33.5" cy="943.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="947.1514" fill="#000000" font-family="sans-serif" font-size="14" textLength="199">distanceTopocentric: double</text>
+<ellipse cx="33.5" cy="960.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="963.4482" fill="#000000" font-family="sans-serif" font-size="14" textLength="166">decTopocentric: double</text>
+<ellipse cx="33.5" cy="976.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="979.7451" fill="#000000" font-family="sans-serif" font-size="14" textLength="153">raTopocentric: double</text>
+<ellipse cx="33.5" cy="992.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="996.042" fill="#000000" font-family="sans-serif" font-size="14" textLength="152">anomalyMean: double</text>
+<ellipse cx="33.5" cy="1009" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="1012.3389" fill="#000000" font-family="sans-serif" font-size="14" textLength="108">parallax: double</text>
+<ellipse cx="33.5" cy="1025.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="1028.6357" fill="#000000" font-family="sans-serif" font-size="14" textLength="113">orbitLon: double</text>
+<ellipse cx="33.5" cy="1041.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="1044.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="124">moonAge: double</text>
+<ellipse cx="33.5" cy="1057.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="1061.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="100">phase: double</text>
+<ellipse cx="33.5" cy="1074.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="1077.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="132">moonPhase: String</text>
+<ellipse cx="33.5" cy="1090.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="42.5" y="1093.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="78">sign: String</text>
+<line x1="23.5" x2="246.5" y1="1101.1" y2="1101.1" stroke="#181818" stroke-width=".5"/>
+</g>
+</a>
+<a href="Astronomy.Riseset.html" target="_top" title="Astronomy.Riseset.html" xlink:actuate="onRequest" xlink:href="Astronomy.Riseset.html" xlink:show="new" xlink:title="Astronomy.Riseset.html" xlink:type="simple">
+<g id="f">
+<rect id="g" x="282.5" y="792" width="279" height="194.67" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="67"/>
+<ellipse cx="352.75" cy="808" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m355.72 813.64q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1563-1.3437 0.1563-2.5 0-3.8282-1.6406-1.3125-1.6563-1.3125-4.7813t1.3125-4.7812q1.3282-1.6563 3.8282-1.6563 0.7031 0 1.3437 0.1563 0.6563 0.1562 1.2188 0.4531v2.7187q-0.625-0.5781-1.2188-0.8437-0.5937-0.2813-1.2187-0.2813-1.3438 0-2.0313 1.0782-0.6875 1.0625-0.6875 3.1562 0 2.0938 0.6875 3.1719 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2813 1.2188-0.8594v2.7187z"/>
+<text x="373.25" y="812.8467" fill="#000000" font-family="sans-serif" font-size="14" textLength="130">Astronomy.Riseset</text>
+<line x1="283.5" x2="560.5" y1="824" y2="824" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="293.5" cy="837.65" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="840.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="100">transit: double</text>
+<ellipse cx="293.5" cy="853.95" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="857.292" fill="#000000" font-family="sans-serif" font-size="14" textLength="82">rise: double</text>
+<ellipse cx="293.5" cy="870.24" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="873.5889" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">set: double</text>
+<ellipse cx="293.5" cy="886.54" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="889.8857" fill="#000000" font-family="sans-serif" font-size="14" textLength="190">cicilTwilightMorning: double</text>
+<ellipse cx="293.5" cy="902.84" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="906.1826" fill="#000000" font-family="sans-serif" font-size="14" textLength="189">cicilTwilightEvening: double</text>
+<ellipse cx="293.5" cy="919.13" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="922.4795" fill="#000000" font-family="sans-serif" font-size="14" textLength="218">nauticalTwilightMorning: double</text>
+<ellipse cx="293.5" cy="935.43" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="938.7764" fill="#000000" font-family="sans-serif" font-size="14" textLength="217">nauticalTwilightEvening: double</text>
+<ellipse cx="293.5" cy="951.73" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="955.0732" fill="#000000" font-family="sans-serif" font-size="14" textLength="253">astronomicalTwilightMorning: double</text>
+<ellipse cx="293.5" cy="968.02" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="302.5" y="971.3701" fill="#000000" font-family="sans-serif" font-size="14" textLength="252">astronomicalTwilightEvening: double</text>
+<line x1="283.5" x2="560.5" y1="978.67" y2="978.67" stroke="#181818" stroke-width=".5"/>
+</g>
+</a>
+<a href="Astronomy.Time.html" target="_top" title="Astronomy.Time.html" xlink:actuate="onRequest" xlink:href="Astronomy.Time.html" xlink:show="new" xlink:title="Astronomy.Time.html" xlink:type="simple">
+<g id="h">
+<rect id="i" x="596.5" y="792" width="201" height="194.67" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="79"/>
+<ellipse cx="637.15" cy="808" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m640.12 813.64q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1563-1.3437 0.1563-2.5 0-3.8282-1.6406-1.3125-1.6563-1.3125-4.7813t1.3125-4.7812q1.3282-1.6563 3.8282-1.6563 0.7031 0 1.3437 0.1563 0.6563 0.1562 1.2188 0.4531v2.7187q-0.625-0.5781-1.2188-0.8437-0.5937-0.2813-1.2187-0.2813-1.3438 0-2.0313 1.0782-0.6875 1.0625-0.6875 3.1562 0 2.0938 0.6875 3.1719 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2813 1.2188-0.8594v2.7187z"/>
+<text x="656.85" y="812.8467" fill="#000000" font-family="sans-serif" font-size="14" textLength="112">Astronomy.Time</text>
+<line x1="597.5" x2="796.5" y1="824" y2="824" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="607.5" cy="837.65" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="616.5" y="840.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="44">hh: int</text>
+<ellipse cx="607.5" cy="853.95" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="616.5" y="857.292" fill="#000000" font-family="sans-serif" font-size="14" textLength="52">mm: int</text>
+<ellipse cx="607.5" cy="870.24" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="616.5" y="873.5889" fill="#000000" font-family="sans-serif" font-size="14" textLength="42">ss: int</text>
+<ellipse cx="607.5" cy="886.54" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="616.5" y="889.8857" fill="#000000" font-family="sans-serif" font-size="14" textLength="133">hhmmString: String</text>
+<ellipse cx="607.5" cy="902.84" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="616.5" y="906.1826" fill="#000000" font-family="sans-serif" font-size="14" textLength="159">hhmmStringdec: String</text>
+<ellipse cx="607.5" cy="919.13" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="616.5" y="922.4795" fill="#000000" font-family="sans-serif" font-size="14" textLength="149">hhmmssString: String</text>
+<ellipse cx="607.5" cy="935.43" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="616.5" y="938.7764" fill="#000000" font-family="sans-serif" font-size="14" textLength="175">hhmmssStringdec: String</text>
+<line x1="597.5" x2="796.5" y1="946.08" y2="946.08" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="607.5" cy="959.73" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="616.5" y="963.0732" fill="#000000" font-family="sans-serif" font-size="14" textLength="44">Time()</text>
+<ellipse cx="607.5" cy="976.02" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="616.5" y="979.3701" fill="#000000" font-family="sans-serif" font-size="14" textLength="92">Time(double)</text>
+</g>
+</a>
+<g id="j" stroke="#181818">
+<path id="k" d="m269.75 624.63c-10.16 19.9-13.034 25.52-22.974 44.98" fill="none" codeLine="93"/>
+<ellipse cx="273.39" cy="617.51" rx="8" ry="8" fill="#fff"/>
+<line x1="269.75" x2="277.03" y1="624.63" y2="610.38"/>
+<line x1="266.27" x2="280.52" y1="613.87" y2="621.14"/>
+</g>
+<g id="l" stroke="#181818">
+<path id="m" d="m422 626.38v165.42" fill="none" codeLine="94"/>
+<ellipse cx="422" cy="618.38" rx="8" ry="8" fill="#fff"/>
+<line x1="422" x2="422" y1="626.38" y2="610.38"/>
+<line x1="414" x2="430" y1="618.38" y2="618.38"/>
+</g>
+<g id="n" stroke="#181818">
+<path id="o" d="m567.94 624.75c32 65.41 56.879 116.24 81.739 167.05" fill="none" codeLine="95"/>
+<ellipse cx="564.43" cy="617.57" rx="8" ry="8" fill="#fff"/>
+<line x1="567.94" x2="560.91" y1="624.75" y2="610.38"/>
+<line x1="557.24" x2="571.61" y1="621.08" y2="614.05"/>
+</g>
+<text x="313.5" y="1140.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="415px" height="656px" style="background:transparent;height:656px;width:415px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 415 656" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="WeatherWarningActivity.html" target="_top" title="WeatherWarningActivity.html" xlink:actuate="onRequest" xlink:href="WeatherWarningActivity.html" xlink:show="new" xlink:title="WeatherWarningActivity.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="9" y="7" width="399" height="526.55" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="84.25" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m87.219 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="144.25" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="161">WeatherWarningActivity</text>
+<text x="104.75" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="10" x2="407" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="20" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="264">WEATHER_WARNINGS_UPDATE: String</text>
+<ellipse cx="20" cy="74.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="325">WEATHER_WARNINGS_UPDATE_RESULT: String</text>
+<ellipse cx="20" cy="91.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="253">ACTION_RAINRADAR_UPDATE: String</text>
+<ellipse cx="20" cy="107.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="253">SIS_ZOOMMAPSTATEBUNDLE: String</text>
+<ellipse cx="20" cy="123.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="142">SIS_HIDERAIN: String</text>
+<ellipse cx="20" cy="140.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="155">SIS_HIDEADMIN: String</text>
+<ellipse cx="20" cy="156.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="159.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="142">RAINSLIDEDELAY: int</text>
+<ellipse cx="20" cy="172.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="176.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="193">MAP_PIXEL_FIXEDWIDTH: int</text>
+<ellipse cx="20" cy="188.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="192.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="199">MAP_PIXEL_FIXEDHEIGHT: int</text>
+<ellipse cx="20" cy="205.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="208.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="142">MAP_GEO_TOP: float</text>
+<ellipse cx="20" cy="221.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="224.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="175">MAP_GEO_BOTTOM: float</text>
+<ellipse cx="20" cy="237.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="241.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="165">MAP_GEO_HEIGHT: float</text>
+<ellipse cx="20" cy="254.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="257.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="212">MAP_GEO_OFFSETX_TOP: float</text>
+<ellipse cx="20" cy="270.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="273.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="188">MAP_GEO_ENDX_TOP: float</text>
+<ellipse cx="20" cy="286.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="290.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="245">MAP_GEO_OFFSETX_BOTTOM: float</text>
+<ellipse cx="20" cy="303.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="306.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="221">MAP_GEO_ENDX_BOTTOM: float</text>
+<line x1="10" x2="407" y1="313.69" y2="313.69" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="20" cy="327.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="330.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="242">onSaveInstanceState(Bundle): void</text>
+<polygon points="20 338.63 24 342.63 20 346.63 16 342.63" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="346.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="264">onRestoreInstanceState(Bundle): void</text>
+<polygon points="20 354.93 24 358.93 20 362.93 16 358.93" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="363.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="123">onResume(): void</text>
+<polygon points="20 371.23 24 375.23 20 379.23 16 375.23" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="379.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="108">onPause(): void</text>
+<polygon points="20 387.52 24 391.52 20 395.52 16 391.52" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="395.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="119">onDestroy(): void</text>
+<polygon points="20 403.82 24 407.82 20 411.82 16 407.82" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="412.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">onCreate(Bundle): void</text>
+<ellipse cx="20" cy="425.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="428.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="271">onCreateOptionsMenu(Menu): boolean</text>
+<ellipse cx="20" cy="441.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="444.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="307">onOptionsItemSelected(MenuItem): boolean</text>
+<ellipse cx="20" cy="457.71" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="461.0576" fill="#000000" font-family="sans-serif" font-size="14" textLength="206">updateActionBarLabels(): void</text>
+<ellipse cx="20" cy="474.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="477.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="230">getPlotPoint(float, float): PlotPoint</text>
+<ellipse cx="20" cy="490.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="493.6514" fill="#000000" font-family="sans-serif" font-size="14" textLength="362">onRequestPermissionsResult(int, String[], int[]): void</text>
+<ellipse cx="20" cy="506.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="509.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="373">getAdministrativeBitmap(Context, int, int, int[]): Bitmap</text>
+<ellipse cx="20" cy="522.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="526.2451" fill="#000000" font-family="sans-serif" font-size="14" textLength="119">popupHint(): void</text>
+</g>
+</a>
+<a href="WeatherWarningActivity.PlotPoint.html" target="_top" title="WeatherWarningActivity.PlotPoint.html" xlink:actuate="onRequest" xlink:href="WeatherWarningActivity.PlotPoint.html" xlink:show="new" xlink:title="WeatherWarningActivity.PlotPoint.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="72.5" y="594" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="36"/>
+<ellipse cx="87.5" cy="612.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m90.469 618.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="108.5" y="611.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="226">WeatherWarningActivity.PlotPoint</text>
+<text x="101.5" y="624.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m208.5 550.31v43.47" fill="none" codeLine="38"/>
+<ellipse cx="208.5" cy="542.31" rx="8" ry="8" fill="#fff"/>
+<line x1="208.5" x2="208.5" y1="550.31" y2="534.31"/>
+<line x1="200.5" x2="216.5" y1="542.31" y2="542.31"/>
+</g>
+<text x="110.5" y="646.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

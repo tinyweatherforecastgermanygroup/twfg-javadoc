@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="901px" height="444px" style="background:transparent;height:444px;width:901px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 901 444" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="TextForecasts.html" target="_top" title="TextForecasts.html" xlink:actuate="onRequest" xlink:href="TextForecasts.html" xlink:show="new" xlink:title="TextForecasts.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="137.5" y="7" width="625" height="314.69" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="325.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m328.72 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="417.25" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="98">TextForecasts</text>
+<text x="346.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="138.5" x2="761.5" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="148.5" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="161">TEXT_WEBPATH: String</text>
+<ellipse cx="148.5" cy="74.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="223">TEXT_WEBPATH_LEGACY: String</text>
+<ellipse cx="148.5" cy="91.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219">MARITIME_WEBPATH_DE: String</text>
+<ellipse cx="148.5" cy="107.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="281">MARITIME_WEBPATH_LEGACY_DE: String</text>
+<ellipse cx="148.5" cy="123.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="218">MARITIME_WEBPATH_EN: String</text>
+<ellipse cx="148.5" cy="140.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="280">MARITIME_WEBPATH_LEGACY_EN: String</text>
+<line x1="138.5" x2="761.5" y1="150.72" y2="150.72" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="148.5" cy="164.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="167.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="599">writeTextForecastsToDatabaseUnconditionally(Context, ArrayList&lt;TextForecast&gt;): void</text>
+<ellipse cx="148.5" cy="180.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="184.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="574">getNewTextForecasts(Context, ArrayList&lt;TextForecast&gt;): ArrayList&lt;TextForecast&gt;</text>
+<ellipse cx="148.5" cy="196.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="200.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="365">getTextForecasts(Context): ArrayList&lt;TextForecast&gt;</text>
+<ellipse cx="148.5" cy="213.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="216.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="437">getLatestTextForecastsOnly(Context): ArrayList&lt;TextForecast&gt;</text>
+<ellipse cx="148.5" cy="229.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="232.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="296">eraseTextForecastDatabase(Context): void</text>
+<ellipse cx="148.5" cy="245.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="249.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="294">cleanTextForecastDatabase(Context): void</text>
+<ellipse cx="148.5" cy="262.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="265.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="204">getLanguage(Context): String</text>
+<ellipse cx="148.5" cy="278.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="281.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="339">getTextForecastDrawable(Context, int): Drawable</text>
+<ellipse cx="148.5" cy="294.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="298.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="308">getTypeString(Context, TextForecast): String</text>
+<ellipse cx="148.5" cy="311.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="314.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="463">getTextForecastSources(Context): ArrayList&lt;TextForecastSource&gt;</text>
+</g>
+</a>
+<a href="TextForecasts.Type.html" target="_top" title="TextForecasts.Type.html" xlink:actuate="onRequest" xlink:href="TextForecasts.Type.html" xlink:show="new" xlink:title="TextForecasts.Type.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="7" y="382" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="23"/>
+<ellipse cx="22" cy="400.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m24.969 406.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="88" y="399.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="136">TextForecasts.Type</text>
+<text x="36" y="412.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="TextForecasts.TextForecastFile.html" target="_top" title="TextForecasts.TextForecastFile.html" xlink:actuate="onRequest" xlink:href="TextForecasts.TextForecastFile.html" xlink:show="new" xlink:title="TextForecasts.TextForecastFile.html" xlink:type="simple">
+<g id="e">
+<rect id="f" x="314" y="382" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="24"/>
+<ellipse cx="329" cy="400.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m331.97 406.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="355.5" y="399.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="215">TextForecasts.TextForecastFile</text>
+<text x="343" y="412.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="TextForecasts.TextForecastSource.html" target="_top" title="TextForecasts.TextForecastSource.html" xlink:actuate="onRequest" xlink:href="TextForecasts.TextForecastSource.html" xlink:show="new" xlink:title="TextForecasts.TextForecastSource.html" xlink:type="simple">
+<g id="g">
+<rect id="h" x="621.5" y="382" width="273" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="25"/>
+<ellipse cx="636.5" cy="400.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m639.47 406.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="650.5" y="399.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="241">TextForecasts.TextForecastSource</text>
+<text x="651" y="412.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="i" stroke="#181818">
+<path id="j" d="m232.09 331.95c-31.35 23.95-46.726 35.687-65.416 49.967" fill="none" codeLine="27"/>
+<ellipse cx="238.44" cy="327.1" rx="8" ry="8" fill="#fff"/>
+<line x1="232.09" x2="244.8" y1="331.95" y2="322.24"/>
+<line x1="233.59" x2="243.3" y1="320.74" y2="333.45"/>
+</g>
+<g id="k" stroke="#181818">
+<path id="l" d="m450 338.24v43.68" fill="none" codeLine="28"/>
+<ellipse cx="450" cy="330.24" rx="8" ry="8" fill="#fff"/>
+<line x1="450" x2="450" y1="338.24" y2="322.24"/>
+<line x1="442" x2="458" y1="330.24" y2="330.24"/>
+</g>
+<g id="m" stroke="#181818">
+<path id="n" d="m668.6 331.93c31.45 23.95 46.901 35.706 65.651 49.986" fill="none" codeLine="29"/>
+<ellipse cx="662.23" cy="327.09" rx="8" ry="8" fill="#fff"/>
+<line x1="668.6" x2="655.87" y1="331.93" y2="322.24"/>
+<line x1="657.39" x2="667.08" y1="333.45" y2="320.72"/>
+</g>
+<text x="353.75" y="434.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

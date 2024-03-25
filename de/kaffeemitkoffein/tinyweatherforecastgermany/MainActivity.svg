@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="488px" height="1128px" style="background:transparent;height:1128px;width:488px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 488 1128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="MainActivity.html" target="_top" title="MainActivity.html" xlink:actuate="onRequest" xlink:href="MainActivity.html" xlink:show="new" xlink:title="MainActivity.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="9" y="7" width="472" height="999.16" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="120.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m123.72 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="221.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">MainActivity</text>
+<text x="141.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="10" x2="480" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="20" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="309">MAINAPP_CUSTOM_REFRESH_ACTION: String</text>
+<ellipse cx="20" cy="74.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="199">MAINAPP_SSL_ERROR: String</text>
+<ellipse cx="20" cy="91.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="245">MAINAPP_SHOW_PROGRESS: String</text>
+<ellipse cx="20" cy="107.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="235">MAINAPP_HIDE_PROGRESS: String</text>
+<ellipse cx="20" cy="123.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="260">MAINAPP_AREADB_PROGRESS: String</text>
+<ellipse cx="20" cy="140.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="230">MAINAPP_AREADB_READY: String</text>
+<ellipse cx="20" cy="156.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="159.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="296">EXTRA_AREADB_PROGRESS_VALUE: String</text>
+<ellipse cx="20" cy="172.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="176.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288">EXTRA_AREADB_PROGRESS_TEXT: String</text>
+<ellipse cx="20" cy="188.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="192.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="236">EXTRA_ISFIRSTAPPLAUNCH: String</text>
+<ellipse cx="20" cy="205.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="208.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219">PERMISSION_CALLBACK_ALL: int</text>
+<ellipse cx="20" cy="221.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="224.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="266">PERMISSION_CALLBACK_LOCATION: int</text>
+<ellipse cx="20" cy="237.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="241.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="438">PERMISSION_CALLBACK_LOCATION_BEFORE_BACKGROUND: int</text>
+<ellipse cx="20" cy="254.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="257.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="374">PERMISSION_CALLBACK_BACKGROUND_LOCATION: int</text>
+<ellipse cx="20" cy="270.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="273.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="346">PERMISSION_CALLBACK_POST_NOTIFICATIONS: int</text>
+<ellipse cx="20" cy="286.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="290.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="179">LOCATION_DENIED: String</text>
+<ellipse cx="20" cy="303.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="306.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="226">DUMMY_ACCOUNT_NAME: String</text>
+<ellipse cx="20" cy="319.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="322.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="222">DUMMY_ACCOUNT_PASS: String</text>
+<line x1="10" x2="480" y1="329.98" y2="329.98" stroke="#181818" stroke-width=".5"/>
+<polygon points="20 338.63 24 342.63 20 346.63 16 342.63" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="346.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="108">onPause(): void</text>
+<ellipse cx="20" cy="359.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="363.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="242">onSaveInstanceState(Bundle): void</text>
+<ellipse cx="20" cy="376.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="379.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="264">onRestoreInstanceState(Bundle): void</text>
+<polygon points="20 387.52 24 391.52 20 395.52 16 391.52" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="395.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="97">onStart(): void</text>
+<polygon points="20 403.82 24 407.82 20 411.82 16 407.82" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="412.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="123">onResume(): void</text>
+<polygon points="20 420.12 24 424.12 20 428.12 16 424.12" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="428.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="97">onStop(): void</text>
+<polygon points="20 436.41 24 440.41 20 444.41 16 440.41" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="444.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="119">onDestroy(): void</text>
+<polygon points="20 452.71 24 456.71 20 460.71 16 456.71" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="461.0576" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">onCreate(Bundle): void</text>
+<ellipse cx="20" cy="474.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="477.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="372">getEstimatedAdapterLayoutTimeInMillis(Context): long</text>
+<ellipse cx="20" cy="490.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="493.6514" fill="#000000" font-family="sans-serif" font-size="14" textLength="164">loadStationsData(): void</text>
+<ellipse cx="20" cy="506.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="509.9482" fill="#000000" font-family="sans-serif" font-size="14" textLength="313">displayUpdateTime(CurrentWeatherInfo): void</text>
+<ellipse cx="20" cy="522.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="526.2451" fill="#000000" font-family="sans-serif" font-size="14" textLength="212">displayWeatherForecast(): void</text>
+<ellipse cx="20" cy="539.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="542.542" fill="#000000" font-family="sans-serif" font-size="14" textLength="187">forcedOverallUpdate(): void</text>
+<ellipse cx="20" cy="555.49" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="558.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="276">getColorFromResource(Context, int): int</text>
+<ellipse cx="20" cy="571.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="575.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="384">setOverflowMenuItemColor(Context, Menu, int, int): void</text>
+<ellipse cx="20" cy="588.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="591.4326" fill="#000000" font-family="sans-serif" font-size="14" textLength="271">onCreateOptionsMenu(Menu): boolean</text>
+<ellipse cx="20" cy="604.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="607.7295" fill="#000000" font-family="sans-serif" font-size="14" textLength="252">onMenuOpened(int, Menu): boolean</text>
+<ellipse cx="20" cy="620.68" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="624.0264" fill="#000000" font-family="sans-serif" font-size="14" textLength="245">onOptionsMenuClosed(Menu): void</text>
+<ellipse cx="20" cy="636.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="640.3232" fill="#000000" font-family="sans-serif" font-size="14" textLength="307">onOptionsItemSelected(MenuItem): boolean</text>
+<ellipse cx="20" cy="653.27" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="656.6201" fill="#000000" font-family="sans-serif" font-size="14" textLength="168">showAboutDialog(): void</text>
+<ellipse cx="20" cy="669.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="672.917" fill="#000000" font-family="sans-serif" font-size="14" textLength="200">showWhatsNewDialog(): void</text>
+<ellipse cx="20" cy="685.87" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="689.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242">deleteAreaDatabase(Context): void</text>
+<ellipse cx="20" cy="702.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="705.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="280">prepareAreaDatabase(Context): boolean</text>
+<ellipse cx="20" cy="718.46" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="721.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="446">askDialog(Context, Integer, String, String[], OnClickListener): void</text>
+<ellipse cx="20" cy="734.76" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="738.1045" fill="#000000" font-family="sans-serif" font-size="14" textLength="119">popupHint(): void</text>
+<ellipse cx="20" cy="751.05" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="754.4014" fill="#000000" font-family="sans-serif" font-size="14" textLength="285">requestPermissionsAndShowHints(): void</text>
+<ellipse cx="20" cy="767.35" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="770.6982" fill="#000000" font-family="sans-serif" font-size="14" textLength="362">onRequestPermissionsResult(int, String[], int[]): void</text>
+<ellipse cx="20" cy="783.65" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="786.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="167">onTrimMemory(int): void</text>
+<ellipse cx="20" cy="799.95" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="803.292" fill="#000000" font-family="sans-serif" font-size="14" textLength="209">standardizeGeo(String): String</text>
+<ellipse cx="20" cy="816.24" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="819.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="339">isIgnoringBatteryOptimizations(Context): boolean</text>
+<ellipse cx="20" cy="832.54" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="835.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251">isDataSaverActive(Context): boolean</text>
+<ellipse cx="20" cy="848.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="852.1826" fill="#000000" font-family="sans-serif" font-size="14" textLength="408">checkForBatteryOptimizationForLocation(Context): boolean</text>
+<ellipse cx="20" cy="865.13" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="868.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="360">updateAppViews(Context, CurrentWeatherInfo): void</text>
+<ellipse cx="20" cy="881.43" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="884.7764" fill="#000000" font-family="sans-serif" font-size="14" textLength="298">updateAppViews(CurrentWeatherInfo): void</text>
+<ellipse cx="20" cy="897.73" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="901.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="268">getWeatherAccount(Context): Account</text>
+<ellipse cx="20" cy="914.02" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="917.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="286">isSyncAccountEnabled(Context): boolean</text>
+<ellipse cx="20" cy="930.32" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="933.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="398">setSyncAccountEnabled(Context, Account, boolean): void</text>
+<ellipse cx="20" cy="946.62" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="949.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="241">registerSyncAdapter(Context): void</text>
+<ellipse cx="20" cy="962.91" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="966.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="354">getManualSyncRequest(Context, int): SyncRequest</text>
+<ellipse cx="20" cy="979.21" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="982.5576" fill="#000000" font-family="sans-serif" font-size="14" textLength="204">showMainappProgress(): void</text>
+<ellipse cx="20" cy="995.51" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="998.8545" fill="#000000" font-family="sans-serif" font-size="14" textLength="197">hideMainappProgress(): void</text>
+</g>
+</a>
+<a href="MainActivity.SpinnerListener.html" target="_top" title="MainActivity.SpinnerListener.html" xlink:actuate="onRequest" xlink:href="MainActivity.SpinnerListener.html" xlink:show="new" xlink:title="MainActivity.SpinnerListener.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="109" y="1066" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="65"/>
+<ellipse cx="124" cy="1085" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m126.97 1090.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="162.5" y="1083.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="191">MainActivity.SpinnerListener</text>
+<text x="138" y="1096.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m245 1022.2v43.61" fill="none" codeLine="67"/>
+<ellipse cx="245" cy="1014.2" rx="8" ry="8" fill="#fff"/>
+<line x1="245" x2="245" y1="1022.2" y2="1006.2"/>
+<line x1="237" x2="253" y1="1014.2" y2="1014.2"/>
+</g>
+<text x="147" y="1118.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

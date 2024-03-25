@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1966px" height="229px" style="height:229px;width:1966px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 1966 229" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" target="_top" title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:actuate="onRequest" xlink:href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:show="new" xlink:title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="93" width="329" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="23"/>
+<text x="10" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="323">nodomain.freeyourgadget.gadgetbridge.model</text>
+</g>
+</a>
+<g id="c">
+<rect id="d" x="243.5" y="179" width="72" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="246.5" y="196.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="66">unnamed</text>
+</g>
+<a href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" target="_top" title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:actuate="onRequest" xlink:href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:show="new" xlink:title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:type="simple">
+<g id="e">
+<rect id="f" x="837" y="7" width="337" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="25"/>
+<text x="840" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="331">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="g">
+<rect id="h" x="441.5" y="93" width="92" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="444.5" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="86">AdapterView</text>
+</g>
+<g id="i">
+<rect id="j" x="568.5" y="93" width="38" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="571.5" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="32">View</text>
+</g>
+<g id="k">
+<rect id="l" x="641.5" y="93" width="104" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="644.5" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="98">BitmapFactory</text>
+</g>
+<g id="m">
+<rect id="n" x="781" y="93" width="109" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="784" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="103">DialogInterface</text>
+</g>
+<g id="o">
+<rect id="p" x="925.5" y="93" width="160" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="928.5" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="154">ScaleGestureDetector</text>
+</g>
+<g id="q">
+<rect id="r" x="1121" y="93" width="123" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1124" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="117">GestureDetector</text>
+</g>
+<g id="s">
+<rect id="t" x="1279" y="93" width="139" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1282" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="133">SharedPreferences</text>
+</g>
+<a href="org/astronomie/info/package-summary.html" target="_top" title="org/astronomie/info/package-summary.html" xlink:actuate="onRequest" xlink:href="org/astronomie/info/package-summary.html" xlink:show="new" xlink:title="org/astronomie/info/package-summary.html" xlink:type="simple">
+<g id="u">
+<rect id="v" x="1453.5" y="93" width="140" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="27"/>
+<text x="1456.5" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="134">org.astronomie.info</text>
+</g>
+</a>
+<g id="w">
+<rect id="x" x="1628.5" y="93" width="96" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1631.5" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="90">org.w3c.dom</text>
+</g>
+<g id="y">
+<rect id="z" x="1760" y="93" width="83" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1763" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="77">org.xml.sax</text>
+</g>
+<g id="aa">
+<rect id="ab" x="1878" y="93" width="81" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1881" y="110.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="75">Application</text>
+</g>
+<g id="ac" stroke="#181818">
+<path id="ad" d="m186.97 119.04c20.53 15.96 51.835 40.305 72.345 56.265" fill="none" codeLine="7"/>
+<polygon points="264.05 178.99 259.4 170.31 260.1 175.92 254.49 176.62" fill="#181818"/>
+</g>
+<g id="ae" stroke="#181818">
+<path id="af" d="m836.88 33.02c-144.31 11.9-340.02 32.34-413.38 59.98-53.77 20.26-102.57 60.424-126.47 81.854" fill="none" codeLine="8"/>
+<polygon points="292.56 178.86 301.93 175.83 296.28 175.52 296.59 169.87" fill="#181818"/>
+</g>
+<g id="ag" stroke="#181818">
+<path id="ah" d="m924.42 33.05c-91.1 13.72-243.33 37.19-373.92 59.95-5.48 0.96-5.3296 0.9112-11.02 1.9612" fill="none" codeLine="9"/>
+<polygon points="533.58 96.05 543.16 98.35 538.5 95.143 541.7 90.483" fill="#181818"/>
+</g>
+<g id="ai" stroke="#181818">
+<path id="aj" d="m924.31 33.03c-77.81 12.3-198.26 33.34-300.81 59.97-5.48 1.42-5.659 1.3494-11.019 3.1394" fill="none" codeLine="10"/>
+<polygon points="606.79 98.04 616.59 98.983 611.53 96.456 614.06 91.395" fill="#181818"/>
+</g>
+<g id="ak" stroke="#181818">
+<path id="al" d="m960.8 33.04c-59.31 15.96-157.62 42.43-216.89 58.39" fill="none" codeLine="11"/>
+<polygon points="738.12 92.99 747.85 94.512 742.95 91.69 745.77 86.788" fill="#181818"/>
+</g>
+<g id="am" stroke="#181818">
+<path id="an" d="m981.14 33.04c-32.31 15.96-83.651 41.332-115.95 57.292" fill="none" codeLine="12"/>
+<polygon points="859.81 92.99 869.65 92.589 864.29 90.775 866.11 85.417" fill="#181818"/>
+</g>
+<g id="ao" stroke="#181818">
+<path id="ap" d="m1005.5 33.04v53.95" fill="none" codeLine="13"/>
+<polygon points="1005.5 92.99 1009.5 83.99 1005.5 87.99 1001.5 83.99" fill="#181818"/>
+</g>
+<g id="aq" stroke="#181818">
+<path id="ar" d="m1030.9 33.04c33.65 15.96 87.279 41.418 120.91 57.378" fill="none" codeLine="14"/>
+<polygon points="1157.2 92.99 1150.8 85.518 1152.7 90.846 1147.3 92.745" fill="#181818"/>
+</g>
+<g id="as" stroke="#181818">
+<path id="at" d="m1054.6 33.04c65.21 15.96 173.82 42.563 238.98 58.523" fill="none" codeLine="15"/>
+<polygon points="1299.4 92.99 1291.7 86.964 1294.6 91.8 1289.8 94.734" fill="#181818"/>
+</g>
+<g id="au" stroke="#181818">
+<path id="av" d="m1079.7 33.04c99.73 16.17 269.81 43.75 367.52 59.59" fill="none" codeLine="16"/>
+<polygon points="1453.2 93.59 1444.9 88.201 1448.2 92.79 1443.6 96.098" fill="#181818"/>
+</g>
+<g id="aw" stroke="#181818">
+<path id="ax" d="m886.01 33.04c-158.55 15.96-430.84 43.389-589.27 59.349" fill="none" codeLine="17"/>
+<polygon points="290.77 92.99 300.13 96.068 295.74 92.489 299.32 88.108" fill="#181818"/>
+</g>
+<g id="ay" stroke="#181818">
+<path id="az" d="m1126 33.01c122.51 12.75 317.67 34.55 485.54 59.99 5.45 0.83 5.2183 0.7346 10.868 1.7146" fill="none" codeLine="18"/>
+<polygon points="1628.3 95.74 1620.1 90.261 1623.4 94.886 1618.7 98.143" fill="#181818"/>
+</g>
+<g id="ba" stroke="#181818">
+<path id="bb" d="m1174 32.49c149.78 11.39 374.41 31.38 568.45 60.51 5.58 0.84 5.5328 0.7543 11.293 1.8343" fill="none" codeLine="19"/>
+<polygon points="1759.7 95.94 1751.6 90.35 1754.8 95.019 1750.1 98.213" fill="#181818"/>
+</g>
+<g id="bc" stroke="#181818">
+<path id="bd" d="m1174.1 29.21c172.94 9.83 449.43 29.42 686.41 63.79 5.6 0.81 5.5746 0.7144 11.335 1.8044" fill="none" codeLine="20"/>
+<polygon points="1877.7 95.92 1869.6 90.316 1872.8 94.99 1868.1 98.177" fill="#181818"/>
+</g>
+<text x="886" y="219.5791" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

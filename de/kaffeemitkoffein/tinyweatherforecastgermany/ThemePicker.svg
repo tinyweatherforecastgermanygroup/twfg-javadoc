@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="485px" style="background:transparent;height:485px;width:512px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 512 485" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="ThemePicker.html" target="_top" title="ThemePicker.html" xlink:actuate="onRequest" xlink:href="ThemePicker.html" xlink:show="new" xlink:title="ThemePicker.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="7" width="498" height="355.58" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="131.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m134.72 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="226.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="91">ThemePicker</text>
+<text x="152.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="504" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="58.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="221">isDarkTheme(Context): boolean</text>
+<ellipse cx="18" cy="74.883" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="164">GetTheme(Context): int</text>
+<ellipse cx="18" cy="91.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="173">SetTheme(Context): void</text>
+<ellipse cx="18" cy="107.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="227">getWidgetTextColor(Context): int</text>
+<ellipse cx="18" cy="123.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="212">getColorTextLight(Context): int</text>
+<ellipse cx="18" cy="140.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="199">getColorPrimary(Context): int</text>
+<ellipse cx="18" cy="156.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="159.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="174">getColor(Context, int): int</text>
+<ellipse cx="18" cy="172.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="176.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="384">getWidgetBackgroundDrawableRessource(Context): int</text>
+<ellipse cx="18" cy="188.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="192.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="308">getRaingridDrawableRessource(Context): int</text>
+<ellipse cx="18" cy="205.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="208.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="356">getWidgetBackgroundDrawable(Context): Drawable</text>
+<ellipse cx="18" cy="221.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="224.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257">adaptColorToTheme(Context, int): int</text>
+<ellipse cx="18" cy="237.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="241.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="192">applyColor(Bitmap, int): void</text>
+<ellipse cx="18" cy="254.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="257.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="293">applyColor(Context, Bitmap, boolean): void</text>
+<ellipse cx="18" cy="270.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="273.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="378">getTemperatureAccentColor(Context, WeatherInfo): int</text>
+<ellipse cx="18" cy="286.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="290.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="472">applyTemperatureAccentColor(Context, WeatherInfo, TextView): void</text>
+<ellipse cx="18" cy="303.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="306.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="282">getPrecipitationAccentColor(Context): int</text>
+<ellipse cx="18" cy="319.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="322.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="376">applyPrecipitationAccentColor(Context, TextView): void</text>
+<ellipse cx="18" cy="335.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="338.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242">getGermanyResource(Context): int</text>
+<ellipse cx="18" cy="351.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="355.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="334">tintAlertDialogButtons(Context, AlertDialog): void</text>
+</g>
+</a>
+<a href="ThemePicker.ThemeColor.html" target="_top" title="ThemePicker.ThemeColor.html" xlink:actuate="onRequest" xlink:href="ThemePicker.ThemeColor.html" xlink:show="new" xlink:title="ThemePicker.ThemeColor.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="120" y="423" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="26"/>
+<ellipse cx="135" cy="441.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m137.97 447.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="179" y="440.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="180">ThemePicker.ThemeColor</text>
+<text x="149" y="453.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m256 379.11v43.67" fill="none" codeLine="28"/>
+<ellipse cx="256" cy="371.11" rx="8" ry="8" fill="#fff"/>
+<line x1="256" x2="256" y1="379.11" y2="363.11"/>
+<line x1="248" x2="264" y1="371.11" y2="371.11"/>
+</g>
+<text x="159" y="475.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="286px" height="535px" style="background:transparent;height:535px;width:286px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 286 535" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="ThemePicker.ThemeColor.html" target="_top" title="ThemePicker.ThemeColor.html" xlink:actuate="onRequest" xlink:href="ThemePicker.ThemeColor.html" xlink:show="new" xlink:title="ThemePicker.ThemeColor.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="272" height="404.47" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="22" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m24.969 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="66" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="180">ThemePicker.ThemeColor</text>
+<text x="36" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="278" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="88">PRIMARY: int</text>
+<ellipse cx="18" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="127">PRIMARYDARK: int</text>
+<ellipse cx="18" cy="189.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="192.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="128">PRIMARYLIGHT: int</text>
+<ellipse cx="18" cy="205.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="83">ACCENT: int</text>
+<ellipse cx="18" cy="221.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="225.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="62">TEXT: int</text>
+<ellipse cx="18" cy="238.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="241.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="101">TEXTDARK: int</text>
+<ellipse cx="18" cy="254.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="257.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="102">TEXTLIGHT: int</text>
+<ellipse cx="18" cy="270.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="274.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="198">WELCOMEBACKGROUND: int</text>
+<ellipse cx="18" cy="286.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="290.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="183">WIDGETBACKGROUND: int</text>
+<ellipse cx="18" cy="303.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="306.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="114">SECONDARY: int</text>
+<ellipse cx="18" cy="319.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="322.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="82">YELLOW: int</text>
+<ellipse cx="18" cy="335.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="339.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="86">ORANGE: int</text>
+<ellipse cx="18" cy="352.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="355.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="56">RED: int</text>
+<ellipse cx="18" cy="368.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="371.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="95">MAGENTA: int</text>
+<ellipse cx="18" cy="384.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="388.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="74">VIOLET: int</text>
+<ellipse cx="18" cy="401.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="404.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="62">BLUE: int</text>
+<ellipse cx="18" cy="417.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="420.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="64">CYAN: int</text>
+<ellipse cx="18" cy="433.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="436.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="75">GREEN: int</text>
+<ellipse cx="18" cy="449.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="453.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="175">VALUES_SOLARIZED: int[]</text>
+<ellipse cx="18" cy="466.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="469.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="221">VALUES_SOLARIZED_DARK: int[]</text>
+<ellipse cx="18" cy="482.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="485.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="136">VALUES_LIGHT: int[]</text>
+<ellipse cx="18" cy="498.82" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="502.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="135">VALUES_DARK: int[]</text>
+</g>
+</a>
+<a href="ThemePicker.html" target="_top" title="ThemePicker.html" xlink:actuate="onRequest" xlink:href="ThemePicker.html" xlink:show="new" xlink:title="ThemePicker.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="7" y="7" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="30"/>
+<ellipse cx="22" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m24.969 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="110.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="91">ThemePicker</text>
+<text x="36" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m143 61.31v43.63" fill="none" codeLine="32"/>
+<ellipse cx="143" cy="53.31" rx="8" ry="8" fill="#fff"/>
+<line x1="143" x2="143" y1="61.31" y2="45.31"/>
+<line x1="135" x2="151" y1="53.31" y2="53.31"/>
+</g>
+<text x="46" y="524.751" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

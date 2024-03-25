@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="293px" height="446px" style="background:transparent;height:446px;width:293px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 293 446" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="RawRadarmap.html" target="_top" title="RawRadarmap.html" xlink:actuate="onRequest" xlink:href="RawRadarmap.html" xlink:show="new" xlink:title="RawRadarmap.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="7" width="272" height="412.47" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="22" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m24.969 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="106.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="99">RawRadarmap</text>
+<text x="36" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="278" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="117">productID: byte[]</text>
+<ellipse cx="18" cy="74.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="122">timestamp: byte[]</text>
+<ellipse cx="18" cy="91.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="106">id10000: byte[]</text>
+<ellipse cx="18" cy="107.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="141">timestampStr: byte[]</text>
+<ellipse cx="18" cy="123.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="80">idBY: byte[]</text>
+<ellipse cx="18" cy="140.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="96">filesize: byte[]</text>
+<ellipse cx="18" cy="156.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="79">idVS: byte[]</text>
+<ellipse cx="18" cy="172.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="176.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="145">formatVersion: byte[]</text>
+<ellipse cx="18" cy="188.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="192.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="83">idSW: byte[]</text>
+<ellipse cx="18" cy="205.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="152">radolanVersion: byte[]</text>
+<ellipse cx="18" cy="221.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="224.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="80">idPR: byte[]</text>
+<ellipse cx="18" cy="237.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="241.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="110">accuracy: byte[]</text>
+<ellipse cx="18" cy="254.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="257.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="83">idINT: byte[]</text>
+<ellipse cx="18" cy="270.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="273.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="98">interval: byte[]</text>
+<ellipse cx="18" cy="286.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="290.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="81">idGP: byte[]</text>
+<ellipse cx="18" cy="303.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="306.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="118">resolution: byte[]</text>
+<ellipse cx="18" cy="319.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="322.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="82">idMS: byte[]</text>
+<ellipse cx="18" cy="335.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="338.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="184">stationStringLength: byte[]</text>
+<ellipse cx="18" cy="351.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="355.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="136">stationString: byte[]</text>
+<ellipse cx="18" cy="368.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="371.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="103">etxMark: byte[]</text>
+<ellipse cx="18" cy="384.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="387.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="116">radarData: byte[]</text>
+<line x1="8" x2="278" y1="395.17" y2="395.17" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="408.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="412.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="193">RawRadarmap(InputStream)</text>
+</g>
+</a>
+<text x="52.5" y="435.751" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

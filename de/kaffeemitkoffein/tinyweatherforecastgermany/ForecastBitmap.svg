@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="517px" style="background:transparent;height:517px;width:900px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 900 517" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="ForecastBitmap.html" target="_top" title="ForecastBitmap.html" xlink:actuate="onRequest" xlink:href="ForecastBitmap.html" xlink:show="new" xlink:title="ForecastBitmap.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="103" y="7" width="694" height="388.17" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="325.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m328.72 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="412.25" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="108">ForecastBitmap</text>
+<text x="346.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="104" x2="796" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="114" cy="58.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="199">getForecastBarHeight(): float</text>
+<ellipse cx="114" cy="74.883" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="298">getForecastBarHeight(DisplayMetrics): float</text>
+<ellipse cx="114" cy="91.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="198">getForecastBitmap(): Bitmap</text>
+<ellipse cx="114" cy="107.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="240">getPixelDisplayRatio(Context): float</text>
+<ellipse cx="114" cy="123.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="264">getPhysicalDisplayRatio(Context): float</text>
+<ellipse cx="114" cy="140.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="252">getScreenWidthInPixels(Context): int</text>
+<ellipse cx="114" cy="156.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="159.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238">getDisplayOrientation(Context): int</text>
+<ellipse cx="114" cy="172.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="176.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="486">getPrecipitationChartRaw(Context, WeatherInfo, int, int, int, int): Bitmap</text>
+<ellipse cx="114" cy="188.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="192.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="471">getPrecipitationChart(Context, WeatherInfo, int, int, boolean): Bitmap</text>
+<ellipse cx="114" cy="205.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="208.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="366">getPrecipitationChart2(Context, WeatherInfo): Bitmap</text>
+<ellipse cx="114" cy="221.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="224.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="402">getCloudCoverChart(Context, WeatherInfo, int, int): Bitmap</text>
+<ellipse cx="114" cy="237.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="241.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="231">GetDefaultLinePaint(int, int): Paint</text>
+<ellipse cx="114" cy="254.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="257.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="237">GetDefaultWindPaint(int, int): Paint</text>
+<ellipse cx="114" cy="270.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="273.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="668">getOverviewChart(Context, int, int, ArrayList&lt;WeatherInfo&gt;, ArrayList&lt;WeatherWarning&gt;): Bitmap</text>
+<ellipse cx="114" cy="286.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="290.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="247">getWindScaleString(Context): String</text>
+<ellipse cx="114" cy="303.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="306.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="386">getHorizontalBar(Context, int, int, int, int, int, int): Bitmap</text>
+<ellipse cx="114" cy="319.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="322.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="314">getPollenLegendBox(Context, int, int): Bitmap</text>
+<ellipse cx="114" cy="335.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="338.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="323">getPollenAreasBitmap(Context, int, int): Bitmap</text>
+<ellipse cx="114" cy="351.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="355.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="265">getColoredBox(Context, int): Drawable</text>
+<ellipse cx="114" cy="368.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="371.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="282">fadeOutAnimation(ImageView, long): void</text>
+<ellipse cx="114" cy="384.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="123" y="387.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="269">fadeInAnimation(ImageView, long): void</text>
+</g>
+</a>
+<a href="ForecastBitmap.LayoutParams.html" target="_top" title="ForecastBitmap.LayoutParams.html" xlink:actuate="onRequest" xlink:href="ForecastBitmap.LayoutParams.html" xlink:show="new" xlink:title="ForecastBitmap.LayoutParams.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="7" y="455" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="28"/>
+<ellipse cx="22" cy="473.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m24.969 479.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="52" y="472.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="208">ForecastBitmap.LayoutParams</text>
+<text x="36" y="485.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="ForecastBitmap.BBox.html" target="_top" title="ForecastBitmap.BBox.html" xlink:actuate="onRequest" xlink:href="ForecastBitmap.BBox.html" xlink:show="new" xlink:title="ForecastBitmap.BBox.html" xlink:type="simple">
+<g id="e">
+<rect id="f" x="314" y="455" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="29"/>
+<ellipse cx="329" cy="473.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m331.97 479.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="389" y="472.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="148">ForecastBitmap.BBox</text>
+<text x="343" y="485.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<a href="ForecastBitmap.BBoxBitmap.html" target="_top" title="ForecastBitmap.BBoxBitmap.html" xlink:actuate="onRequest" xlink:href="ForecastBitmap.BBoxBitmap.html" xlink:show="new" xlink:title="ForecastBitmap.BBoxBitmap.html" xlink:type="simple">
+<g id="g">
+<rect id="h" x="621" y="455" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="30"/>
+<ellipse cx="636" cy="473.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m638.97 479.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="672" y="472.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="196">ForecastBitmap.BBoxBitmap</text>
+<text x="650" y="485.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="i" stroke="#181818">
+<path id="j" d="m218.98 405.93c-27.51 24.29-39.576 34.94-55.546 49.04" fill="none" codeLine="32"/>
+<ellipse cx="224.97" cy="400.64" rx="8" ry="8" fill="#fff"/>
+<line x1="218.98" x2="230.97" y1="405.93" y2="395.34"/>
+<line x1="219.68" x2="230.27" y1="394.64" y2="406.63"/>
+</g>
+<g id="k" stroke="#181818">
+<path id="l" d="m450 411.34v43.63" fill="none" codeLine="33"/>
+<ellipse cx="450" cy="403.34" rx="8" ry="8" fill="#fff"/>
+<line x1="450" x2="450" y1="411.34" y2="395.34"/>
+<line x1="442" x2="458" y1="403.34" y2="403.34"/>
+</g>
+<g id="m" stroke="#181818">
+<path id="n" d="m681.02 405.93c27.51 24.29 39.576 34.94 55.546 49.04" fill="none" codeLine="34"/>
+<ellipse cx="675.03" cy="400.64" rx="8" ry="8" fill="#fff"/>
+<line x1="681.02" x2="669.03" y1="405.93" y2="395.34"/>
+<line x1="669.73" x2="680.32" y1="406.63" y2="394.64"/>
+</g>
+<text x="353" y="507.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

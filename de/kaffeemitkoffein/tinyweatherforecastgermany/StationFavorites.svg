@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="616px" height="217px" style="background:transparent;height:217px;width:616px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 616 217" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="StationFavorites.html" target="_top" title="StationFavorites.html" xlink:actuate="onRequest" xlink:href="StationFavorites.html" xlink:show="new" xlink:title="StationFavorites.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="7" width="595" height="184.31" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="180.25" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m183.22 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="265.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="110">StationFavorites</text>
+<text x="200.75" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="601" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="218">FAVORITES_SEPARATOR: String</text>
+<line x1="8" x2="601" y1="69.234" y2="69.234" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="82.883" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="86.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="174">StationFavorites(Context)</text>
+<ellipse cx="18" cy="99.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="102.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="355">getFavorites(Context): ArrayList&lt;WeatherLocation&gt;</text>
+<ellipse cx="18" cy="115.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="118.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="569">saveFavorites(Context, ArrayList&lt;WeatherLocation&gt;): ArrayList&lt;WeatherLocation&gt;</text>
+<ellipse cx="18" cy="131.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="135.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="243">addFavorite(WeatherLocation): void</text>
+<ellipse cx="18" cy="148.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="151.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="323">getDefaultWeatherLocation(): WeatherLocation</text>
+<ellipse cx="18" cy="164.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="167.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="168">deleteList(Context): void</text>
+<ellipse cx="18" cy="180.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="184.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="368">resetFavorites(Context): ArrayList&lt;WeatherLocation&gt;</text>
+</g>
+</a>
+<text x="214" y="207.5947" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

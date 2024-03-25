@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1155px" height="884px" style="background:transparent;height:884px;width:1155px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 1155 884" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="WeatherSpec.html" target="_top" title="WeatherSpec.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.html" xlink:show="new" xlink:title="WeatherSpec.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="448" y="105" width="259" height="656.92" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="463" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m465.97 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="544" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="93">WeatherSpec</text>
+<text x="477" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="227">nodomain.freeyourgadget.gadgetbridge.model</text>
+<line x1="449" x2="706" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="459" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="125">CREATOR: &lt;any&gt;</text>
+<ellipse cx="459" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="87">VERSION: int</text>
+<ellipse cx="459" cy="189.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="192.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="99">timestamp: int</text>
+<ellipse cx="459" cy="205.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="208.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="103">location: String</text>
+<ellipse cx="459" cy="221.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="225.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="116">currentTemp: int</text>
+<ellipse cx="459" cy="238.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="241.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="179">currentConditionCode: int</text>
+<ellipse cx="459" cy="254.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="257.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="165">currentCondition: String</text>
+<ellipse cx="459" cy="270.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="274.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="135">currentHumidity: int</text>
+<ellipse cx="459" cy="286.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="290.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="131">todayMaxTemp: int</text>
+<ellipse cx="459" cy="303.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="306.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="128">todayMinTemp: int</text>
+<ellipse cx="459" cy="319.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="322.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="115">windSpeed: float</text>
+<ellipse cx="459" cy="335.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="339.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="120">windDirection: int</text>
+<ellipse cx="459" cy="352.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="355.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="91">uvIndex: float</text>
+<ellipse cx="459" cy="368.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="371.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="139">precipProbability: int</text>
+<ellipse cx="459" cy="384.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="388.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="90">dewPoint: int</text>
+<ellipse cx="459" cy="401.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="404.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="100">pressure: float</text>
+<ellipse cx="459" cy="417.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="420.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="104">cloudCover: int</text>
+<ellipse cx="459" cy="433.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="436.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="89">visibility: float</text>
+<ellipse cx="459" cy="449.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="453.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="82">sunRise: int</text>
+<ellipse cx="459" cy="466.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="469.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="75">sunSet: int</text>
+<ellipse cx="459" cy="482.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="485.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="96">moonRise: int</text>
+<ellipse cx="459" cy="498.82" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="502.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="89">moonSet: int</text>
+<ellipse cx="459" cy="515.12" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="518.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="109">moonPhase: int</text>
+<ellipse cx="459" cy="531.41" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="534.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="89">latitude: float</text>
+<ellipse cx="459" cy="547.71" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="551.0576" fill="#000000" font-family="sans-serif" font-size="14" textLength="103">longitude: float</text>
+<ellipse cx="459" cy="564.01" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="567.3545" fill="#000000" font-family="sans-serif" font-size="14" textLength="126">feelsLikeTemp: int</text>
+<ellipse cx="459" cy="580.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="583.6514" fill="#000000" font-family="sans-serif" font-size="14" textLength="147">isCurrentLocation: int</text>
+<ellipse cx="459" cy="596.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="599.9482" fill="#000000" font-family="sans-serif" font-size="14" textLength="134">airQuality: AirQuality</text>
+<ellipse cx="459" cy="612.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="616.2451" fill="#000000" font-family="sans-serif" font-size="14" textLength="186">forecasts: ArrayList&lt;Daily&gt;</text>
+<ellipse cx="459" cy="629.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="468" y="632.542" fill="#000000" font-family="sans-serif" font-size="14" textLength="175">hourly: ArrayList&lt;Hourly&gt;</text>
+<line x1="449" x2="706" y1="639.84" y2="639.84" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="459" cy="653.49" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="468" y="656.8389" fill="#000000" font-family="sans-serif" font-size="14" textLength="103">WeatherSpec()</text>
+<polygon points="459 664.79 463 668.79 459 672.79 455 668.79" fill="#ff4" stroke="#B38D22"/>
+<text x="468" y="673.1357" fill="#000000" font-family="sans-serif" font-size="14" textLength="145">WeatherSpec(Parcel)</text>
+<ellipse cx="459" cy="686.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="468" y="689.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="138">toBeaufort(float): int</text>
+<ellipse cx="459" cy="702.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="468" y="705.7295" fill="#000000" font-family="sans-serif" font-size="14" textLength="189">windSpeedAsBeaufort(): int</text>
+<ellipse cx="459" cy="718.68" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="468" y="722.0264" fill="#000000" font-family="sans-serif" font-size="14" textLength="158">getLocation(): Location</text>
+<ellipse cx="459" cy="734.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="468" y="738.3232" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">describeContents(): int</text>
+<ellipse cx="459" cy="751.27" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="468" y="754.6201" fill="#000000" font-family="sans-serif" font-size="14" textLength="207">writeToParcel(Parcel, int): void</text>
+</g>
+</a>
+<g id="c">
+<rect id="d" x="456" y="10" width="103" height="32" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="45"/>
+<ellipse cx="471" cy="26" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m466.92 21.766v-2.1562h7.3906v2.1562h-2.4687v8.0782h2.4687v2.1562h-7.3906v-2.1562h2.4687v-8.0782h-2.4687z"/>
+<text x="485" y="30.8467" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="71">Parcelable</text>
+</g>
+<g id="e">
+<rect id="f" x="594" y="7" width="109" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="46"/>
+<ellipse cx="609" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m604.92 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="623" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="77">Serializable</text>
+<text x="646" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="31">java.io</text>
+</g>
+<a href="WeatherSpec.Forecast.html" target="_top" title="WeatherSpec.Forecast.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.Forecast.html" xlink:show="new" xlink:title="WeatherSpec.Forecast.html" xlink:type="simple">
+<g id="g">
+<rect id="h" x="7" y="822" width="259" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="47"/>
+<ellipse cx="22" cy="840.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m24.969 846.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="71" y="839.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="157">WeatherSpec.Forecast</text>
+<text x="36" y="852.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="227">nodomain.freeyourgadget.gadgetbridge.model</text>
+</g>
+</a>
+<a href="WeatherSpec.AirQuality.html" target="_top" title="WeatherSpec.AirQuality.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.AirQuality.html" xlink:show="new" xlink:title="WeatherSpec.AirQuality.html" xlink:type="simple">
+<g id="i">
+<rect id="j" x="301" y="822" width="259" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="48"/>
+<ellipse cx="316" cy="840.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m318.97 846.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="363.5" y="839.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">WeatherSpec.AirQuality</text>
+<text x="330" y="852.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="227">nodomain.freeyourgadget.gadgetbridge.model</text>
+</g>
+</a>
+<a href="WeatherSpec.Daily.html" target="_top" title="WeatherSpec.Daily.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.Daily.html" xlink:show="new" xlink:title="WeatherSpec.Daily.html" xlink:type="simple">
+<g id="k">
+<rect id="l" x="595" y="822" width="259" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="49"/>
+<ellipse cx="610" cy="840.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m612.97 846.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="673" y="839.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="129">WeatherSpec.Daily</text>
+<text x="624" y="852.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="227">nodomain.freeyourgadget.gadgetbridge.model</text>
+</g>
+</a>
+<a href="WeatherSpec.Hourly.html" target="_top" title="WeatherSpec.Hourly.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.Hourly.html" xlink:show="new" xlink:title="WeatherSpec.Hourly.html" xlink:type="simple">
+<g id="m">
+<rect id="n" x="889" y="822" width="259" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="50"/>
+<ellipse cx="904" cy="840.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m906.97 846.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="961.5" y="839.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="140">WeatherSpec.Hourly</text>
+<text x="918" y="852.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="227">nodomain.freeyourgadget.gadgetbridge.model</text>
+</g>
+</a>
+<g id="o" fill="none" stroke="#181818">
+<path id="p" d="m513.22 60.138c2.36 13.67 3.0778 17.852 7.6778 44.492" stroke-dasharray="7.0,7.0" codeLine="52"/>
+<polygon points="510.16 42.4 507.31 61.158 519.13 59.117"/>
+</g>
+<g id="q" fill="none" stroke="#181818">
+<path id="r" d="m642.21 62.941c-2.41 13.79-2.9612 16.869-7.3212 41.809" stroke-dasharray="7.0,7.0" codeLine="53"/>
+<polygon points="645.31 45.21 636.3 61.908 648.12 63.974"/>
+</g>
+<g id="s" stroke="#181818">
+<path id="t" d="m436.09 564.53c-104.19 95.8-229.4 210.93-279.85 257.32" fill="none" codeLine="54"/>
+<ellipse cx="441.98" cy="559.11" rx="8" ry="8" fill="#fff"/>
+<line x1="436.09" x2="447.87" y1="564.53" y2="553.7"/>
+<line x1="436.57" x2="447.4" y1="553.23" y2="565"/>
+</g>
+<g id="u" stroke="#181818">
+<path id="v" d="m453.21 777.34c-9.03 24.89-11.103 30.619-16.093 44.399" fill="none" codeLine="55"/>
+<ellipse cx="455.94" cy="769.82" rx="8" ry="8" fill="#fff"/>
+<line x1="453.21" x2="458.67" y1="777.34" y2="762.3"/>
+<line x1="448.42" x2="463.46" y1="767.09" y2="772.55"/>
+</g>
+<g id="w" stroke="#181818">
+<path id="x" d="m701.79 777.34c9.03 24.89 11.103 30.619 16.093 44.399" fill="none" codeLine="56"/>
+<ellipse cx="699.06" cy="769.82" rx="8" ry="8" fill="#fff"/>
+<line x1="701.79" x2="696.33" y1="777.34" y2="762.3"/>
+<line x1="691.54" x2="706.58" y1="772.55" y2="767.09"/>
+</g>
+<g id="y" stroke="#181818">
+<path id="z" d="m718.91 564.53c104.19 95.8 229.4 210.93 279.85 257.32" fill="none" codeLine="57"/>
+<ellipse cx="713.02" cy="559.11" rx="8" ry="8" fill="#fff"/>
+<line x1="718.91" x2="707.13" y1="564.53" y2="553.7"/>
+<line x1="707.6" x2="718.43" y1="565" y2="553.23"/>
+</g>
+<text x="480.5" y="874.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

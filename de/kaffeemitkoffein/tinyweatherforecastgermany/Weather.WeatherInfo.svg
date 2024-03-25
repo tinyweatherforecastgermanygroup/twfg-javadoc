@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="453px" height="2547px" style="background:transparent;height:2547px;width:453px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 453 2547" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="Weather.WeatherInfo.html" target="_top" title="Weather.WeatherInfo.html" xlink:actuate="onRequest" xlink:href="Weather.WeatherInfo.html" xlink:show="new" xlink:title="Weather.WeatherInfo.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="439" height="2417" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="102.25" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m105.22 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="170.25" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="145">Weather.WeatherInfo</text>
+<text x="122.75" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="445" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="103">clouds: Clouds</text>
+<line x1="8" x2="445" y1="167.23" y2="167.23" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="180.88" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="184.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="93">WeatherInfo()</text>
+<ellipse cx="18" cy="197.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="200.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="110">WeatherInfo(int)</text>
+<ellipse cx="18" cy="213.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="216.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="176">setTimestamp(long): void</text>
+<ellipse cx="18" cy="229.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="233.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="180">setForecastType(int): void</text>
+<ellipse cx="18" cy="246.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="249.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="221">setConditionCode(Integer): void</text>
+<ellipse cx="18" cy="262.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="265.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="209">setTemperature(Double): void</text>
+<ellipse cx="18" cy="278.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="282.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="239">setTemperature5cm(Double): void</text>
+<ellipse cx="18" cy="294.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="298.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="236">setLowTemperature(Double): void</text>
+<ellipse cx="18" cy="311.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="314.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="240">setHighTemperature(Double): void</text>
+<ellipse cx="18" cy="327.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="330.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="198">setWindSpeed(Double): void</text>
+<ellipse cx="18" cy="343.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="347.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="215">setWindDirection(Double): void</text>
+<ellipse cx="18" cy="360.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="363.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="169">setFlurries(Double): void</text>
+<ellipse cx="18" cy="376.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="379.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="256">setPrecipitationTotal1h(Double): void</text>
+<ellipse cx="18" cy="392.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="396.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="204">setPrecipitation(Double): void</text>
+<ellipse cx="18" cy="409.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="412.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="166">setClouds(Integer): void</text>
+<ellipse cx="18" cy="425.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="428.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="201">setClouds_N05(Integer): void</text>
+<ellipse cx="18" cy="441.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="444.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="186">setClouds_Nl(Integer): void</text>
+<ellipse cx="18" cy="457.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="461.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="196">setClouds_Nm(Integer): void</text>
+<ellipse cx="18" cy="474.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="477.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="192">setClouds_Nh(Integer): void</text>
+<ellipse cx="18" cy="490.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="493.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="199">setClouds_Nlm(Integer): void</text>
+<ellipse cx="18" cy="506.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="510.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="219">setClouds_H_BsC(Double): void</text>
+<ellipse cx="18" cy="523.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="526.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="200">setClouds_Neff(Integer): void</text>
+<ellipse cx="18" cy="539.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="542.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="257">setProbThunderstorms(Integer): void</text>
+<ellipse cx="18" cy="555.71" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="559.0576" fill="#000000" font-family="sans-serif" font-size="14" textLength="235">setProbPrecipitation(Integer): void</text>
+<ellipse cx="18" cy="572.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="575.3545" fill="#000000" font-family="sans-serif" font-size="14" textLength="197">setProbDrizzle(Integer): void</text>
+<ellipse cx="18" cy="588.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="591.6514" fill="#000000" font-family="sans-serif" font-size="14" textLength="268">setProbSolidPrecipitation(Integer): void</text>
+<ellipse cx="18" cy="604.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="607.9482" fill="#000000" font-family="sans-serif" font-size="14" textLength="240">setProbFreezingRain(Integer): void</text>
+<ellipse cx="18" cy="620.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="624.2451" fill="#000000" font-family="sans-serif" font-size="14" textLength="176">setProbFog(Integer): void</text>
+<ellipse cx="18" cy="637.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="640.542" fill="#000000" font-family="sans-serif" font-size="14" textLength="275">setProbVisibilityBelow1km(Integer): void</text>
+<ellipse cx="18" cy="653.49" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="656.8389" fill="#000000" font-family="sans-serif" font-size="14" textLength="171">setVisibility(Integer): void</text>
+<ellipse cx="18" cy="669.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="673.1357" fill="#000000" font-family="sans-serif" font-size="14" textLength="181">setPressure(Double): void</text>
+<ellipse cx="18" cy="686.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="689.4326" fill="#000000" font-family="sans-serif" font-size="14" textLength="138">setUV(Double): void</text>
+<ellipse cx="18" cy="702.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="705.7295" fill="#000000" font-family="sans-serif" font-size="14" textLength="137">setTd(Double): void</text>
+<ellipse cx="18" cy="718.68" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="722.0264" fill="#000000" font-family="sans-serif" font-size="14" textLength="220">setUvHazardIndex(Integer): void</text>
+<ellipse cx="18" cy="734.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="738.3232" fill="#000000" font-family="sans-serif" font-size="14" textLength="232">hasPrecipitationDetails(): boolean</text>
+<ellipse cx="18" cy="751.27" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="754.6201" fill="#000000" font-family="sans-serif" font-size="14" textLength="260">setPrecipitationDetails(Integer[]): void</text>
+<ellipse cx="18" cy="767.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="770.917" fill="#000000" font-family="sans-serif" font-size="14" textLength="204">setSunDuration(Integer): void</text>
+<ellipse cx="18" cy="783.87" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="787.2139" fill="#000000" font-family="sans-serif" font-size="14" textLength="171">hasIsDayTime(): boolean</text>
+<ellipse cx="18" cy="800.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="803.5107" fill="#000000" font-family="sans-serif" font-size="14" textLength="196">setIsDayTime(boolean): void</text>
+<ellipse cx="18" cy="816.46" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="819.8076" fill="#000000" font-family="sans-serif" font-size="14" textLength="170">getIsDayTime(): Boolean</text>
+<ellipse cx="18" cy="832.76" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="836.1045" fill="#000000" font-family="sans-serif" font-size="14" textLength="149">getTimestamp(): long</text>
+<ellipse cx="18" cy="849.05" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="852.4014" fill="#000000" font-family="sans-serif" font-size="14" textLength="153">getForecastType(): int</text>
+<ellipse cx="18" cy="865.35" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="868.6982" fill="#000000" font-family="sans-serif" font-size="14" textLength="196">hasWindDirection(): boolean</text>
+<ellipse cx="18" cy="881.65" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="884.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="413">getWindForecastTint(Bitmap, ArrayList&lt;WindData&gt;): Bitmap</text>
+<ellipse cx="18" cy="897.95" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="901.292" fill="#000000" font-family="sans-serif" font-size="14" textLength="295">getArrowBitmap(Context, boolean): Bitmap</text>
+<ellipse cx="18" cy="914.24" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="917.5889" fill="#000000" font-family="sans-serif" font-size="14" textLength="315">getBeaufortBitmap(Context, boolean): Bitmap</text>
+<ellipse cx="18" cy="930.54" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="933.8857" fill="#000000" font-family="sans-serif" font-size="14" textLength="272">getWindDirectionString(Context): String</text>
+<ellipse cx="18" cy="946.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="950.1826" fill="#000000" font-family="sans-serif" font-size="14" textLength="317">getWindSymbol(Context, int, boolean): Bitmap</text>
+<ellipse cx="18" cy="963.13" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="966.4795" fill="#000000" font-family="sans-serif" font-size="14" textLength="237">getWindUnitString(Context): String</text>
+<ellipse cx="18" cy="979.43" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="982.7764" fill="#000000" font-family="sans-serif" font-size="14" textLength="319">getWindSpeedString(Context, boolean): String</text>
+<ellipse cx="18" cy="995.73" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="999.0732" fill="#000000" font-family="sans-serif" font-size="14" textLength="290">getFlurriesString(Context, boolean): String</text>
+<ellipse cx="18" cy="1012" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1015.3701" fill="#000000" font-family="sans-serif" font-size="14" textLength="186">getWindDirection(): double</text>
+<ellipse cx="18" cy="1028.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1031.667" fill="#000000" font-family="sans-serif" font-size="14" textLength="172">getWindDirectionInt(): int</text>
+<ellipse cx="18" cy="1044.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1047.9639" fill="#000000" font-family="sans-serif" font-size="14" textLength="166">hasCondition(): boolean</text>
+<ellipse cx="18" cy="1060.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1064.2607" fill="#000000" font-family="sans-serif" font-size="14" textLength="125">getCondition(): int</text>
+<ellipse cx="18" cy="1077.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1080.5576" fill="#000000" font-family="sans-serif" font-size="14" textLength="190">hasTemperature(): boolean</text>
+<ellipse cx="18" cy="1093.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1096.8545" fill="#000000" font-family="sans-serif" font-size="14" textLength="180">getTemperature(): double</text>
+<ellipse cx="18" cy="1109.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1113.1514" fill="#000000" font-family="sans-serif" font-size="14" textLength="166">getTemperatureInt(): int</text>
+<ellipse cx="18" cy="1126.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1129.4482" fill="#000000" font-family="sans-serif" font-size="14" textLength="242">getTemperatureInCelsius(): double</text>
+<ellipse cx="18" cy="1142.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1145.7451" fill="#000000" font-family="sans-serif" font-size="14" textLength="228">getTemperatureInCelsiusInt(): int</text>
+<ellipse cx="18" cy="1158.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1162.042" fill="#000000" font-family="sans-serif" font-size="14" textLength="220">hasTemperature5cm(): boolean</text>
+<ellipse cx="18" cy="1175" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1178.3389" fill="#000000" font-family="sans-serif" font-size="14" textLength="188">getTemperture5cmInt(): int</text>
+<ellipse cx="18" cy="1191.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1194.6357" fill="#000000" font-family="sans-serif" font-size="14" textLength="272">getTemperature5cmInCelsius(): double</text>
+<ellipse cx="18" cy="1207.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1210.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="258">getTemperature5cmInCelsiusInt(): int</text>
+<ellipse cx="18" cy="1223.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1227.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="217">hasMaxTemperature(): boolean</text>
+<ellipse cx="18" cy="1240.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1243.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="193">getMaxTemperatureInt(): int</text>
+<ellipse cx="18" cy="1256.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1259.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="269">getMaxTemperatureInCelsius(): double</text>
+<ellipse cx="18" cy="1272.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1276.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="255">getMaxTemperatureInCelsiusInt(): int</text>
+<ellipse cx="18" cy="1289.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1292.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="214">hasMinTemperature(): boolean</text>
+<ellipse cx="18" cy="1305.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1308.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="204">getMinTemperature(): double</text>
+<ellipse cx="18" cy="1321.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1325.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="190">getMinTemperatureInt(): int</text>
+<ellipse cx="18" cy="1338" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1341.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="252">getMinTemperatureInCelsiusInt(): int</text>
+<ellipse cx="18" cy="1354.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1357.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="398">getMinMaxTemperatureInCelsiusIntString(boolean): String</text>
+<ellipse cx="18" cy="1370.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1373.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="185">hasPrecipitation(): boolean</text>
+<ellipse cx="18" cy="1386.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1390.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="277">getPrecipitationTotal1h(Double): double</text>
+<ellipse cx="18" cy="1403.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1406.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="175">getPrecipitation(): double</text>
+<ellipse cx="18" cy="1419.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1422.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="256">getPrecipitationIntervalString(): String</text>
+<ellipse cx="18" cy="1435.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1439.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="207">getPrecipitationString(): String</text>
+<ellipse cx="18" cy="1452" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1455.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="235">getPrecipitationUnitLower(): String</text>
+<ellipse cx="18" cy="1468.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1471.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="217">hasProbPrecipitation(): boolean</text>
+<ellipse cx="18" cy="1484.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1487.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="176">getProbPrecipitation(): int</text>
+<ellipse cx="18" cy="1500.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1504.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="179">hasProbDrizzle(): boolean</text>
+<ellipse cx="18" cy="1517.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1520.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="138">getProbDrizzle(): int</text>
+<ellipse cx="18" cy="1533.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1536.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="179">hasWindSpeed(): boolean</text>
+<ellipse cx="18" cy="1549.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1553.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="187">getWindSpeedInMsInt(): int</text>
+<ellipse cx="18" cy="1566.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1569.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="198">getWindSpeedInKmhInt(): int</text>
+<ellipse cx="18" cy="1582.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1585.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="226">getWindSpeedInBeaufortInt(): int</text>
+<ellipse cx="18" cy="1598.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1602.0576" fill="#000000" font-family="sans-serif" font-size="14" textLength="207">getWindSpeedInKnotsInt(): int</text>
+<ellipse cx="18" cy="1615" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1618.3545" fill="#000000" font-family="sans-serif" font-size="14" textLength="150">hasFlurries(): boolean</text>
+<ellipse cx="18" cy="1631.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1634.6514" fill="#000000" font-family="sans-serif" font-size="14" textLength="158">getFlurriesInMsInt(): int</text>
+<ellipse cx="18" cy="1647.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1650.9482" fill="#000000" font-family="sans-serif" font-size="14" textLength="169">getFlurriesInKmhInt(): int</text>
+<ellipse cx="18" cy="1663.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1667.2451" fill="#000000" font-family="sans-serif" font-size="14" textLength="197">getFlurriesInBeaufortInt(): int</text>
+<ellipse cx="18" cy="1680.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1683.542" fill="#000000" font-family="sans-serif" font-size="14" textLength="178">getFlurriesInKnotsInt(): int</text>
+<ellipse cx="18" cy="1696.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1699.8389" fill="#000000" font-family="sans-serif" font-size="14" textLength="148">hasClouds(): boolean</text>
+<ellipse cx="18" cy="1712.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1716.1357" fill="#000000" font-family="sans-serif" font-size="14" textLength="107">getClouds(): int</text>
+<ellipse cx="18" cy="1729.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1732.4326" fill="#000000" font-family="sans-serif" font-size="14" textLength="183">hasClouds_N05(): boolean</text>
+<ellipse cx="18" cy="1745.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1748.7295" fill="#000000" font-family="sans-serif" font-size="14" textLength="142">getClouds_N05(): int</text>
+<ellipse cx="18" cy="1761.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1765.0264" fill="#000000" font-family="sans-serif" font-size="14" textLength="168">hasClouds_Nl(): boolean</text>
+<ellipse cx="18" cy="1778" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1781.3232" fill="#000000" font-family="sans-serif" font-size="14" textLength="127">getClouds_Nl(): int</text>
+<ellipse cx="18" cy="1794.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1797.6201" fill="#000000" font-family="sans-serif" font-size="14" textLength="178">hasClouds_Nm(): boolean</text>
+<ellipse cx="18" cy="1810.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1813.917" fill="#000000" font-family="sans-serif" font-size="14" textLength="137">getClouds_Nm(): int</text>
+<ellipse cx="18" cy="1826.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1830.2139" fill="#000000" font-family="sans-serif" font-size="14" textLength="174">hasClouds_Nh(): boolean</text>
+<ellipse cx="18" cy="1843.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1846.5107" fill="#000000" font-family="sans-serif" font-size="14" textLength="133">getClouds_Nh(): int</text>
+<ellipse cx="18" cy="1859.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1862.8076" fill="#000000" font-family="sans-serif" font-size="14" textLength="181">hasClouds_Nlm(): boolean</text>
+<ellipse cx="18" cy="1875.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1879.1045" fill="#000000" font-family="sans-serif" font-size="14" textLength="140">getClouds_Nlm(): int</text>
+<ellipse cx="18" cy="1892.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1895.4014" fill="#000000" font-family="sans-serif" font-size="14" textLength="200">hasClouds_H_BsC(): boolean</text>
+<ellipse cx="18" cy="1908.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1911.6982" fill="#000000" font-family="sans-serif" font-size="14" textLength="190">getClouds_H_BsC(): double</text>
+<ellipse cx="18" cy="1924.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1927.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="141">getClouds_Neff(): int</text>
+<ellipse cx="18" cy="1940.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1944.292" fill="#000000" font-family="sans-serif" font-size="14" textLength="239">hasProbThunderstorms(): boolean</text>
+<ellipse cx="18" cy="1957.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1960.5889" fill="#000000" font-family="sans-serif" font-size="14" textLength="199">getProbThunderStorms(): int</text>
+<ellipse cx="18" cy="1973.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1976.8857" fill="#000000" font-family="sans-serif" font-size="14" textLength="250">hasProbSolidPrecipitation(): boolean</text>
+<ellipse cx="18" cy="1989.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="1993.1826" fill="#000000" font-family="sans-serif" font-size="14" textLength="209">getProbSolidPrecipitation(): int</text>
+<ellipse cx="18" cy="2006.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2009.4795" fill="#000000" font-family="sans-serif" font-size="14" textLength="222">hasProbFreezingRain(): boolean</text>
+<ellipse cx="18" cy="2022.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2025.7764" fill="#000000" font-family="sans-serif" font-size="14" textLength="181">getProbFreezingRain(): int</text>
+<ellipse cx="18" cy="2038.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2042.0732" fill="#000000" font-family="sans-serif" font-size="14" textLength="158">hasProbFog(): boolean</text>
+<ellipse cx="18" cy="2055" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2058.3701" fill="#000000" font-family="sans-serif" font-size="14" textLength="117">getProbFog(): int</text>
+<ellipse cx="18" cy="2071.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2074.667" fill="#000000" font-family="sans-serif" font-size="14" textLength="153">hasVisibility(): boolean</text>
+<ellipse cx="18" cy="2087.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2090.9639" fill="#000000" font-family="sans-serif" font-size="14" textLength="172">getVisibilityInMetres(): int</text>
+<ellipse cx="18" cy="2103.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2107.2607" fill="#000000" font-family="sans-serif" font-size="14" textLength="233">getVisibilityInNauticMiles(): double</text>
+<ellipse cx="18" cy="2120.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2123.5576" fill="#000000" font-family="sans-serif" font-size="14" textLength="190">getVisibilityInMiles(): double</text>
+<ellipse cx="18" cy="2136.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2139.8545" fill="#000000" font-family="sans-serif" font-size="14" textLength="194">getVisibilityInYards(): double</text>
+<ellipse cx="18" cy="2152.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2156.1514" fill="#000000" font-family="sans-serif" font-size="14" textLength="257">hasProbVisibilityBelow1km(): boolean</text>
+<ellipse cx="18" cy="2169.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2172.4482" fill="#000000" font-family="sans-serif" font-size="14" textLength="216">getProbVisibilityBelow1km(): int</text>
+<ellipse cx="18" cy="2185.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2188.7451" fill="#000000" font-family="sans-serif" font-size="14" textLength="162">hasPressure(): boolean</text>
+<ellipse cx="18" cy="2201.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2205.042" fill="#000000" font-family="sans-serif" font-size="14" textLength="121">getPressure(): int</text>
+<ellipse cx="18" cy="2218" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2221.3389" fill="#000000" font-family="sans-serif" font-size="14" textLength="119">hasUV(): boolean</text>
+<ellipse cx="18" cy="2234.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2237.6357" fill="#000000" font-family="sans-serif" font-size="14" textLength="78">getUV(): int</text>
+<ellipse cx="18" cy="2250.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2253.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="118">hasTd(): boolean</text>
+<ellipse cx="18" cy="2266.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2270.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="108">getTd(): double</text>
+<ellipse cx="18" cy="2283.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2286.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="156">getTdInCelsiusInt(): int</text>
+<ellipse cx="18" cy="2299.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2302.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="120">hasRH(): boolean</text>
+<ellipse cx="18" cy="2315.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2319.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="110">getRH(): double</text>
+<ellipse cx="18" cy="2332.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2335.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="96">getRHInt(): int</text>
+<ellipse cx="18" cy="2348.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2351.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="258">isDaytime(WeatherLocation): boolean</text>
+<ellipse cx="18" cy="2364.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2368.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="254">calculateMissingCondition(): boolean</text>
+<ellipse cx="18" cy="2381" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2384.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="224">isConditionCalculated(): boolean</text>
+<ellipse cx="18" cy="2397.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2400.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="233">getPrecipitationDetails(): Integer[]</text>
+<ellipse cx="18" cy="2413.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2416.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="186">hasSunDuration(): boolean</text>
+<ellipse cx="18" cy="2429.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2433.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="218">getSunDurationInSeconds(): int</text>
+<ellipse cx="18" cy="2446.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2449.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="212">getSunDurationInMinutes(): int</text>
+<ellipse cx="18" cy="2462.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2465.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="198">getSunDurationInHours(): int</text>
+<ellipse cx="18" cy="2478.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2482.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="139">getRelativeDay(): int</text>
+<ellipse cx="18" cy="2495" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2498.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="202">hasUvHazardIndex(): boolean</text>
+<ellipse cx="18" cy="2511.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="2514.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="161">getUvHazardIndex(): int</text>
+</g>
+</a>
+<a href="Weather.html" target="_top" title="Weather.html" xlink:actuate="onRequest" xlink:href="Weather.html" xlink:show="new" xlink:title="Weather.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="90.5" y="7" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="153"/>
+<ellipse cx="105.5" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m108.47 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="210.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="58">Weather</text>
+<text x="119.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m226.5 61.17v43.68" fill="none" codeLine="155"/>
+<ellipse cx="226.5" cy="53.17" rx="8" ry="8" fill="#fff"/>
+<line x1="226.5" x2="226.5" y1="61.17" y2="45.17"/>
+<line x1="218.5" x2="234.5" y1="53.17" y2="53.17"/>
+</g>
+<text x="129.5" y="2537.2666" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

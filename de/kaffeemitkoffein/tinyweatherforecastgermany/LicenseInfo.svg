@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="288px" height="266px" style="background:transparent;height:266px;width:288px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 288 266" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="LicenseInfo.html" target="_top" title="LicenseInfo.html" xlink:actuate="onRequest" xlink:href="LicenseInfo.html" xlink:show="new" xlink:title="LicenseInfo.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="9" y="105" width="272" height="135.42" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="24" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m26.969 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="119" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="78">LicenseInfo</text>
+<text x="38" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="10" x2="280" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="20" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="131">DATA_TITLE: String</text>
+<ellipse cx="20" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="208">DATA_TEXTRESOURCE: String</text>
+<ellipse cx="20" cy="189.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="192.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="189">DATA_BUTTONTEXT: String</text>
+<line x1="10" x2="280" y1="199.83" y2="199.83" stroke="#181818" stroke-width=".5"/>
+<polygon points="20 208.48 24 212.48 20 216.48 16 212.48" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="216.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">onCreate(Bundle): void</text>
+<ellipse cx="20" cy="229.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="233.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="129">onClick(View): void</text>
+</g>
+</a>
+<g id="c">
+<rect id="d" x="75.5" y="7" width="139" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="13"/>
+<ellipse cx="90.5" cy="25.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m86.422 21.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="104.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="107">OnClickListener</text>
+<text x="146.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="23">View</text>
+</g>
+<g id="e" fill="none" stroke="#181818">
+<path id="f" d="m145 63.01v41.68" stroke-dasharray="7.0,7.0" codeLine="15"/>
+<polygon points="145 45.01 139 63.01 151 63.01"/>
+</g>
+<text x="47" y="255.7041" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

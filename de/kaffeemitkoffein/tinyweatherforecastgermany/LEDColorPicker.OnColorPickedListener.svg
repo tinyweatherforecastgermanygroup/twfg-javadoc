@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="192px" style="background:transparent;height:192px;width:312px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 312 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="LEDColorPicker.OnColorPickedListener.html" target="_top" title="LEDColorPicker.OnColorPickedListener.html" xlink:actuate="onRequest" xlink:href="LEDColorPicker.OnColorPickedListener.html" xlink:show="new" xlink:title="LEDColorPicker.OnColorPickedListener.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="298" height="62.234" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="22" cy="123.97" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m17.922 119.73v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="36" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="266">LEDColorPicker.OnColorPickedListener</text>
+<text x="49" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="304" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="179">onColorSelected(int): void</text>
+</g>
+</a>
+<a href="LEDColorPicker.html" target="_top" title="LEDColorPicker.html" xlink:actuate="onRequest" xlink:href="LEDColorPicker.html" xlink:show="new" xlink:title="LEDColorPicker.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="20" y="7" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="9"/>
+<ellipse cx="35" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m37.969 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="116.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="105">LEDColorPicker</text>
+<text x="49" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m156 61.32v43.41" fill="none" codeLine="11"/>
+<ellipse cx="156" cy="53.32" rx="8" ry="8" fill="#fff"/>
+<line x1="156" x2="156" y1="61.32" y2="45.32"/>
+<line x1="148" x2="164" y1="53.32" y2="53.32"/>
+</g>
+<text x="59" y="182.5166" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

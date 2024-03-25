@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="297px" height="893px" style="background:transparent;height:893px;width:297px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 297 893" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="WeatherLayer.Layers.html" target="_top" title="WeatherLayer.Layers.html" xlink:actuate="onRequest" xlink:href="WeatherLayer.Layers.html" xlink:show="new" xlink:title="WeatherLayer.Layers.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="283" height="763" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="26.95" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m29.919 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="91.05" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="142">WeatherLayer.Layers</text>
+<text x="42.05" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="289" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="222">WARNING_AREAS_GERMANY: int</text>
+<ellipse cx="18" cy="172.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="176.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="129">UVI_CLOUDS_0: int</text>
+<ellipse cx="18" cy="189.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="192.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="129">UVI_CLOUDS_1: int</text>
+<ellipse cx="18" cy="205.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="129">UVI_CLOUDS_2: int</text>
+<ellipse cx="18" cy="221.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="225.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="154">UVI_CLOUDLESS_0: int</text>
+<ellipse cx="18" cy="238.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="241.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="154">UVI_CLOUDLESS_1: int</text>
+<ellipse cx="18" cy="254.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="257.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="154">UVI_CLOUDLESS_2: int</text>
+<ellipse cx="18" cy="270.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="274.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="103">BRD_ORTE: int</text>
+<ellipse cx="18" cy="286.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="290.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="214">EUROPE_BORDERS_LARGE: int</text>
+<ellipse cx="18" cy="303.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="306.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="239">SENSED_TEMPERATURE_1M_0: int</text>
+<ellipse cx="18" cy="319.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="322.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="239">SENSED_TEMPERATURE_1M_1: int</text>
+<ellipse cx="18" cy="335.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="339.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="239">SENSED_TEMPERATURE_1M_2: int</text>
+<ellipse cx="18" cy="352.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="355.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="194">UVI_CLOUDS_EUROPE_0: int</text>
+<ellipse cx="18" cy="368.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="371.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219">UVI_CLOUDLESS_EUROPE_0: int</text>
+<ellipse cx="18" cy="384.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="388.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="248">SENSED_TEMPERATURE_MAX_0: int</text>
+<ellipse cx="18" cy="401.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="404.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="248">SENSED_TEMPERATURE_MAX_1: int</text>
+<ellipse cx="18" cy="417.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="420.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="248">SENSED_TEMPERATURE_MAX_2: int</text>
+<ellipse cx="18" cy="433.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="436.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="243">SENSED_TEMPERATURE_MIN_0: int</text>
+<ellipse cx="18" cy="449.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="453.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="243">SENSED_TEMPERATURE_MIN_1: int</text>
+<ellipse cx="18" cy="466.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="469.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="243">SENSED_TEMPERATURE_MIN_2: int</text>
+<ellipse cx="18" cy="482.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="485.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257">POLLEN_FORECAST_AMBROSIA_0: int</text>
+<ellipse cx="18" cy="498.82" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="502.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257">POLLEN_FORECAST_AMBROSIA_1: int</text>
+<ellipse cx="18" cy="515.12" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="518.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257">POLLEN_FORECAST_AMBROSIA_2: int</text>
+<ellipse cx="18" cy="531.41" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="534.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242">POLLEN_FORECAST_BEIFUSS_0: int</text>
+<ellipse cx="18" cy="547.71" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="551.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242">POLLEN_FORECAST_BEIFUSS_1: int</text>
+<ellipse cx="18" cy="564.01" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="567.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242">POLLEN_FORECAST_BEIFUSS_2: int</text>
+<ellipse cx="18" cy="580.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="583.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246">POLLEN_FORECAST_ROGGEN_0: int</text>
+<ellipse cx="18" cy="596.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="599.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246">POLLEN_FORECAST_ROGGEN_1: int</text>
+<ellipse cx="18" cy="612.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="616.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246">POLLEN_FORECAST_ROGGEN_2: int</text>
+<ellipse cx="18" cy="629.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="632.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="231">POLLEN_FORECAST_ESCHE_0: int</text>
+<ellipse cx="18" cy="645.49" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="648.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="231">POLLEN_FORECAST_ESCHE_1: int</text>
+<ellipse cx="18" cy="661.79" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="665.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="231">POLLEN_FORECAST_ESCHE_2: int</text>
+<ellipse cx="18" cy="678.09" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="681.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="225">POLLEN_FORECAST_BIRKE_0: int</text>
+<ellipse cx="18" cy="694.38" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="697.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="225">POLLEN_FORECAST_BIRKE_1: int</text>
+<ellipse cx="18" cy="710.68" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="714.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="225">POLLEN_FORECAST_BIRKE_2: int</text>
+<ellipse cx="18" cy="726.98" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="730.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228">POLLEN_FORECAST_HASEL_0: int</text>
+<ellipse cx="18" cy="743.27" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="746.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228">POLLEN_FORECAST_HASEL_1: int</text>
+<ellipse cx="18" cy="759.57" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="762.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228">POLLEN_FORECAST_HASEL_2: int</text>
+<ellipse cx="18" cy="775.87" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="779.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219">POLLEN_FORECAST_ERLE_0: int</text>
+<ellipse cx="18" cy="792.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="795.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219">POLLEN_FORECAST_ERLE_1: int</text>
+<ellipse cx="18" cy="808.46" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="811.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219">POLLEN_FORECAST_ERLE_2: int</text>
+<ellipse cx="18" cy="824.76" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="828.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251">POLLEN_FORECAST_GRAESER_0: int</text>
+<ellipse cx="18" cy="841.05" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="844.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251">POLLEN_FORECAST_GRAESER_1: int</text>
+<ellipse cx="18" cy="857.35" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="860.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251">POLLEN_FORECAST_GRAESER_2: int</text>
+</g>
+</a>
+<a href="WeatherLayer.html" target="_top" title="WeatherLayer.html" xlink:actuate="onRequest" xlink:href="WeatherLayer.html" xlink:show="new" xlink:title="WeatherLayer.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="12.5" y="7" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="52"/>
+<ellipse cx="27.5" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m30.469 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="114.5" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="94">WeatherLayer</text>
+<text x="41.5" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m148.5 61.26v43.61" fill="none" codeLine="54"/>
+<ellipse cx="148.5" cy="53.26" rx="8" ry="8" fill="#fff"/>
+<line x1="148.5" x2="148.5" y1="61.26" y2="45.26"/>
+<line x1="140.5" x2="156.5" y1="53.26" y2="53.26"/>
+</g>
+<text x="51.5" y="883.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

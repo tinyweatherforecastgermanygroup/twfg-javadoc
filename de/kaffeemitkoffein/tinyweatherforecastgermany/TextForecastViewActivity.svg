@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="349px" height="330px" style="background:transparent;height:330px;width:349px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 349 330" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="TextForecastViewActivity.html" target="_top" title="TextForecastViewActivity.html" xlink:actuate="onRequest" xlink:href="TextForecastViewActivity.html" xlink:show="new" xlink:title="TextForecastViewActivity.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="9" y="7" width="333" height="200.61" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="51.45" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m54.419 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="107.05" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="169">TextForecastViewActivity</text>
+<text x="71.55" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="10" x2="341" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="20" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="29" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="200">TEXTFORECAST_ITEM: String</text>
+<line x1="10" x2="341" y1="69.234" y2="69.234" stroke="#181818" stroke-width=".5"/>
+<polygon points="20 77.883 24 81.883 20 85.883 16 81.883" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="86.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="123">onResume(): void</text>
+<polygon points="20 94.18 24 98.18 20 102.18 16 98.18" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="102.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="108">onPause(): void</text>
+<ellipse cx="20" cy="115.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="118.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="242">onSaveInstanceState(Bundle): void</text>
+<ellipse cx="20" cy="131.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="135.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="264">onRestoreInstanceState(Bundle): void</text>
+<polygon points="20 143.07 24 147.07 20 151.07 16 147.07" fill="#ff4" stroke="#B38D22"/>
+<text x="29" y="151.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">onCreate(Bundle): void</text>
+<ellipse cx="20" cy="164.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="167.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="271">onCreateOptionsMenu(Menu): boolean</text>
+<ellipse cx="20" cy="180.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="184.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="307">onOptionsItemSelected(MenuItem): boolean</text>
+<ellipse cx="20" cy="196.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="29" y="200.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="296">updateActionBarLabels(TextForecast): void</text>
+</g>
+</a>
+<a href="TextForecastViewActivity.ForecastVisibility.html" target="_top" title="TextForecastViewActivity.ForecastVisibility.html" xlink:actuate="onRequest" xlink:href="TextForecastViewActivity.ForecastVisibility.html" xlink:show="new" xlink:title="TextForecastViewActivity.ForecastVisibility.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="16.5" y="268" width="318" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="16"/>
+<ellipse cx="31.5" cy="286.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m34.469 292.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="45.5" y="285.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="286">TextForecastViewActivity.ForecastVisibility</text>
+<text x="68.5" y="298.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m175.5 224.15v43.56" fill="none" codeLine="18"/>
+<ellipse cx="175.5" cy="216.15" rx="8" ry="8" fill="#fff"/>
+<line x1="175.5" x2="175.5" y1="224.15" y2="208.15"/>
+<line x1="167.5" x2="183.5" y1="216.15" y2="216.15"/>
+</g>
+<text x="77.5" y="320.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

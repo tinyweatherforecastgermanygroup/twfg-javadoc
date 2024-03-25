@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="341px" height="721px" style="background:transparent;height:721px;width:341px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 341 721" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="PrivateLog.html" target="_top" title="PrivateLog.html" xlink:actuate="onRequest" xlink:href="PrivateLog.html" xlink:show="new" xlink:title="PrivateLog.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="7" width="327" height="591.73" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="46.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m49.719 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="150.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="71">PrivateLog</text>
+<text x="66.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="333" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="134">LOGHANDLE: String</text>
+<ellipse cx="18" cy="74.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="145">LOGFILENAME: String</text>
+<ellipse cx="18" cy="91.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="207">CLIPBOARD_LOGLABEL: String</text>
+<ellipse cx="18" cy="107.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="227">CLIPBOARD_MIMETYPES: String[]</text>
+<ellipse cx="18" cy="123.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="170">LOG_MAX_FILESIZE: long</text>
+<ellipse cx="18" cy="140.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="83">MAIN: String</text>
+<ellipse cx="18" cy="156.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="159.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="108">SERVICE: String</text>
+<ellipse cx="18" cy="172.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="176.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="111">ONBOOT: String</text>
+<ellipse cx="18" cy="188.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="192.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="70">GB: String</text>
+<ellipse cx="18" cy="205.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="208.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="116">UPDATER: String</text>
+<ellipse cx="18" cy="221.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="224.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="87">SYNC: String</text>
+<ellipse cx="18" cy="237.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="241.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="87">DATA: String</text>
+<ellipse cx="18" cy="254.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="257.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="124">WARNINGS: String</text>
+<ellipse cx="18" cy="270.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="273.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="105">WIDGET: String</text>
+<ellipse cx="18" cy="286.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="290.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="94">TEXTS: String</text>
+<ellipse cx="18" cy="303.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="306.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="118">STATIONS: String</text>
+<ellipse cx="18" cy="319.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="322.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="98">RADAR: String</text>
+<ellipse cx="18" cy="335.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="338.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="102">ALERTS: String</text>
+<ellipse cx="18" cy="351.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="355.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="102">LAYERS: String</text>
+<ellipse cx="18" cy="368.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="371.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="58">INFO: int</text>
+<ellipse cx="18" cy="384.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="387.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="68">WARN: int</text>
+<ellipse cx="18" cy="400.82" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="404.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="55">ERR: int</text>
+<ellipse cx="18" cy="417.12" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="420.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="68">FATAL: int</text>
+<line x1="8" x2="333" y1="427.77" y2="427.77" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="441.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="444.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="169">getLogs(Context): String</text>
+<ellipse cx="18" cy="457.71" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="461.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="273">getLogsList(Context): ArrayList&lt;String&gt;</text>
+<ellipse cx="18" cy="474.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="477.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="202">getLogFilesize(Context): long</text>
+<ellipse cx="18" cy="490.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="493.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="271">log(Context, String, int, String): boolean</text>
+<ellipse cx="18" cy="506.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="509.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="278">copyLogsToClipboard(Context): boolean</text>
+<ellipse cx="18" cy="522.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="526.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="195">clearLogs(Context): boolean</text>
+<ellipse cx="18" cy="539.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="542.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="157">getLogUri(Context): Uri</text>
+<ellipse cx="18" cy="555.49" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="558.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="248">getDebugInfoString(Context): String</text>
+<ellipse cx="18" cy="571.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="575.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="201">getInfoString(Context): String</text>
+<ellipse cx="18" cy="588.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="591.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="301">getCurrentStationInfoString(Context): String</text>
+</g>
+</a>
+<a href="PrivateLog.AsyncGetLogs.html" target="_top" title="PrivateLog.AsyncGetLogs.html" xlink:actuate="onRequest" xlink:href="PrivateLog.AsyncGetLogs.html" xlink:show="new" xlink:title="PrivateLog.AsyncGetLogs.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="34.5" y="659" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="40"/>
+<ellipse cx="49.5" cy="677.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m52.469 683.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="96.5" y="676.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="174">PrivateLog.AsyncGetLogs</text>
+<text x="63.5" y="689.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" stroke="#181818">
+<path id="f" d="m170.5 615.26v43.65" fill="none" codeLine="42"/>
+<ellipse cx="170.5" cy="607.26" rx="8" ry="8" fill="#fff"/>
+<line x1="170.5" x2="170.5" y1="615.26" y2="599.26"/>
+<line x1="162.5" x2="178.5" y1="607.26" y2="607.26"/>
+</g>
+<text x="73.5" y="711.2197" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="354px" height="209px" style="background:transparent;height:209px;width:354px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 354 209" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="LoggingActivity.html" target="_top" title="LoggingActivity.html" xlink:actuate="onRequest" xlink:href="LoggingActivity.html" xlink:show="new" xlink:title="LoggingActivity.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="7" width="333" height="176.31" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="49.45" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m52.419 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="138.55" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="102">LoggingActivity</text>
+<text x="69.55" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="339" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<polygon points="18 53.586 22 57.586 18 61.586 14 57.586" fill="#ff4" stroke="#B38D22"/>
+<text x="27" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="160">onCreate(Bundle): void</text>
+<ellipse cx="18" cy="74.883" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="271">onCreateOptionsMenu(Menu): boolean</text>
+<polygon points="18 86.18 22 90.18 18 94.18 14 90.18" fill="#ff4" stroke="#B38D22"/>
+<text x="27" y="94.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="123">onResume(): void</text>
+<ellipse cx="18" cy="107.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="110.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="252">onMenuOpened(int, Menu): boolean</text>
+<ellipse cx="18" cy="123.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="127.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="245">onOptionsMenuClosed(Menu): void</text>
+<ellipse cx="18" cy="140.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="143.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="307">onOptionsItemSelected(MenuItem): boolean</text>
+<ellipse cx="18" cy="156.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="159.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="119">shareLogs(): void</text>
+<ellipse cx="18" cy="172.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="176.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="162">updateActionBar(): void</text>
+</g>
+</a>
+<text x="83" y="199.5947" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="399px" height="185px" style="background:transparent;height:185px;width:399px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 399 185" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="NumberPickerPreference.html" target="_top" title="NumberPickerPreference.html" xlink:actuate="onRequest" xlink:href="NumberPickerPreference.html" xlink:show="new" xlink:title="NumberPickerPreference.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="7" width="378" height="151.72" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="71.75" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m74.719 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="125.75" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="173">NumberPickerPreference</text>
+<text x="92.25" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="384" y1="44.938" y2="44.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="58.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="61.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="130">minValues: String[]</text>
+<ellipse cx="18" cy="74.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="27" y="78.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="133">maxValues: String[]</text>
+<line x1="8" x2="384" y1="85.531" y2="85.531" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="99.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="102.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="352">NumberPickerPreference(Context, AttributeSet, int)</text>
+<ellipse cx="18" cy="115.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="118.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="327">NumberPickerPreference(Context, AttributeSet)</text>
+<polygon points="18 126.77 22 130.77 18 134.77 14 130.77" fill="#ff4" stroke="#B38D22"/>
+<text x="27" y="135.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="190">onCreateDialogView(): View</text>
+<polygon points="18 143.07 22 147.07 18 151.07 14 147.07" fill="#ff4" stroke="#B38D22"/>
+<text x="27" y="151.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="212">onDialogClosed(boolean): void</text>
+</g>
+</a>
+<text x="105.5" y="175.001" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>

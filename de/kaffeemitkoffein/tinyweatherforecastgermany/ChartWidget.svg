@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="192px" style="background:transparent;height:192px;width:490px" contentStyleType="text/css" preserveAspectRatio="none" version="1.1" viewBox="0 0 490 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<a href="ChartWidget.html" target="_top" title="ChartWidget.html" xlink:actuate="onRequest" xlink:href="ChartWidget.html" xlink:show="new" xlink:title="ChartWidget.html" xlink:type="simple">
+<g id="a">
+<rect id="b" x="7" y="105" width="476" height="62.234" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="5"/>
+<ellipse cx="120.75" cy="123.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m123.72 129.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="218.75" y="122.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="85">ChartWidget</text>
+<text x="141.25" y="135.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="8" x2="482" y1="142.94" y2="142.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="18" cy="156.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="27" y="159.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="450">updateWidgetDisplay(Context, AppWidgetManager, int[], int): void</text>
+</g>
+</a>
+<a href="ClassicWidget.html" target="_top" title="ClassicWidget.html" xlink:actuate="onRequest" xlink:href="ClassicWidget.html" xlink:show="new" xlink:title="ClassicWidget.html" xlink:type="simple">
+<g id="c">
+<rect id="d" x="109" y="7" width="272" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5" codeLine="9"/>
+<ellipse cx="124" cy="25.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m126.97 31.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="210" y="24.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="96">ClassicWidget</text>
+<text x="138" y="37.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="240">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</g>
+</a>
+<g id="e" fill="none" stroke="#181818">
+<path id="f" d="m245 63.32v41.41" codeLine="11"/>
+<polygon points="245 45.32 239 63.32 251 63.32"/>
+</g>
+<text x="148" y="182.5166" fill="#888888" font-family="sans-serif" font-size="10" textLength="180">UMLDoclet 2.1.2, PlantUML 1.2024.3</text>
+</svg>
