@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="712px" height="409px" style="background:transparent;height:409px;width:712px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 712 409" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSyncAdapter" data-source-line="13" data-uid="ent0002">
+<a href="WeatherSyncAdapter.html" target="_top" title="WeatherSyncAdapter.html" xlink:actuate="onRequest" xlink:href="WeatherSyncAdapter.html" xlink:show="new" xlink:title="WeatherSyncAdapter.html" xlink:type="simple">
+<rect x="6" y="12" width="699.33" height="298.39" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="228.36" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m231.33 36.609q-0.5781 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="297.2646" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="149.2969">WeatherSyncAdapter</text>
+<text x="248.8564" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="704.33" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="212.8506">EXTRAS_UPDATE_FLAG: String</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="86.7617">IC_ID: String</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="249.7783">WARNING_NC_ID_SKELETON: String</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="204.5518">WARNING_NC_GROUP: String</text>
+<line x1="7" x2="704.33" y1="123.12" y2="123.12" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="136.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="140.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="280.1846">WeatherSyncAdapter(Context, boolean)</text>
+<ellipse cx="17" cy="153.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="156.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="345.0576">WeatherSyncAdapter(Context, boolean, boolean)</text>
+<ellipse cx="17" cy="169.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="172.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="571.5254">onPerformSync(Account, Bundle, String, ContentProviderClient, SyncResult): void</text>
+<ellipse cx="17" cy="185.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="189.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="409.4248">getNotification(Context, NotificationManager): Notification</text>
+<ellipse cx="17" cy="201.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="205.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="367.1719">getWarningIntent(Context, WeatherWarning): Intent</text>
+<ellipse cx="17" cy="218.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="221.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="507.2539">getWarningPendingIntent(Context, WeatherWarning, int): PendingIntent</text>
+<ellipse cx="17" cy="234.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="237.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="673.3262">getWarningNotification(Context, NotificationManager, WeatherWarning, String, int): Notification</text>
+<ellipse cx="17" cy="250.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="254.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="662.1563">launchWeatherWarningNotifications(Context, ArrayList&lt;WeatherWarning&gt;, boolean): boolean</text>
+<ellipse cx="17" cy="267.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="270.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="528.9922">cancelDeprecatedWarningNotifications(Context, NotificationManager): void</text>
+<ellipse cx="17" cy="283.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="286.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="378.793">resetNotifications(Context, NotificationManager): void</text>
+<ellipse cx="17" cy="299.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="303.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.1514">Update(Context, Bundle): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSyncAdapter.UpdateFlags" data-source-line="30" data-uid="ent0003">
+<a href="WeatherSyncAdapter.UpdateFlags.html" target="_top" title="WeatherSyncAdapter.UpdateFlags.html" xlink:actuate="onRequest" xlink:href="WeatherSyncAdapter.UpdateFlags.html" xlink:show="new" xlink:title="WeatherSyncAdapter.UpdateFlags.html" xlink:type="simple">
+<rect x="216.5" y="346" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="231.5" cy="364.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m234.47 370.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="247.981" y="363.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="241.1514">WeatherSyncAdapter.UpdateFlags</text>
+<text x="245.5" y="376.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSyncAdapter" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSyncAdapter.UpdateFlags" data-uid="lnk4">
+<ellipse cx="355.5" cy="318.13" rx="8" ry="8" fill="#fff"/>
+<line x1="355.5" x2="355.5" y1="326.13" y2="310.13"/>
+<line x1="347.5" x2="363.5" y1="318.13" y2="318.13"/>
+<path d="m355.5 326.13v19.626" fill="none"/>
+</g>
+<g class="footer" data-source-line="40">
+<text x="350.4106" y="387.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="310.8452" y="398.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

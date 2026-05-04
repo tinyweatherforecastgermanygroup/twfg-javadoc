@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="482px" height="483px" style="background:transparent;height:483px;width:482px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 482 483" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Settings" data-source-line="13" data-uid="ent0002">
+<a href="Settings.html" target="_top" title="Settings.html" xlink:actuate="onRequest" xlink:href="Settings.html" xlink:show="new" xlink:title="Settings.html" xlink:type="simple">
+<rect x="6" y="86" width="469" height="371.88" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="113.19" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m116.16 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="228.0405" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="57.4219">Settings</text>
+<text x="133.6948" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="474" y1="123.94" y2="123.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="137.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="140.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="162.7227">onCreate(Bundle): void</text>
+<ellipse cx="17" cy="153.88" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="157.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="204.6406">disableLogCatLogging(): void</text>
+<ellipse cx="17" cy="170.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="173.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="223.9932">disableClearNotifications(): void</text>
+<ellipse cx="17" cy="186.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="189.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="171.7188">disableTLSOption(): void</text>
+<ellipse cx="17" cy="202.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="206.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="217.5537">setAlarmSettingAllowed(): void</text>
+<ellipse cx="17" cy="219.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="222.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="292.3662">setShowWarningsInWidgetAllowed(): void</text>
+<ellipse cx="17" cy="235.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="238.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="178.7393">setNotifyWarnings(): void</text>
+<ellipse cx="17" cy="251.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="255.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="170.5635">setNotifySeverity(): void</text>
+<ellipse cx="17" cy="267.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="271.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="140.1709">setNotifyLED(): void</text>
+<ellipse cx="17" cy="284.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="287.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="151.0537">setUseMinMax(): void</text>
+<ellipse cx="17" cy="300.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="303.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="443.0029">disableIfUnchecked(Preference, CheckBoxPreference): boolean</text>
+<ellipse cx="17" cy="316.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="320.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="425.9609">disableIfChecked(Preference, CheckBoxPreference): boolean</text>
+<ellipse cx="17" cy="333.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="336.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="188.7266">setUVHIdisplayMain(): void</text>
+<polygon points="17 344.45 21 348.45 17 352.45 13 348.45" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="352.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="123.915">onResume(): void</text>
+<polygon points="17 360.74 21 364.74 17 368.74 13 364.74" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="369.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="108.958">onPause(): void</text>
+<ellipse cx="17" cy="382.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="385.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="438.6211">onSharedPreferenceChanged(SharedPreferences, String): void</text>
+<ellipse cx="17" cy="398.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="401.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="322.7861">requestBackgroundLocationPermission(): void</text>
+<ellipse cx="17" cy="414.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="417.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="370.0225">onRequestPermissionsResult(int, String[], int[]): void</text>
+<ellipse cx="17" cy="430.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="434.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="218.333">openPermissionSettings(): void</text>
+<ellipse cx="17" cy="447.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="450.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="338.543">openBatteryOptimizationSettings(Context): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="SharedPreferences.OnSharedPreferenceChangeListener" data-source-line="36" data-uid="ent0003">
+<rect x="97" y="12" width="287.32" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="112" cy="30.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m107.92 26.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="126" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="255.3223">OnSharedPreferenceChangeListener</text>
+<text x="206.2344" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="94.8535">SharedPreferences</text>
+</g>
+<g id="c" class="link" fill="none" stroke="#181818" data-entity-1="SharedPreferences.OnSharedPreferenceChangeListener" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Settings" data-uid="lnk4">
+<polygon points="240.5 50.357 234.5 68.357 246.5 68.357"/>
+<path d="m240.5 68.357v17.611" stroke-dasharray="7,7"/>
+</g>
+<g class="footer" data-source-line="46">
+<text x="235.4106" y="461.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="195.8452" y="472.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

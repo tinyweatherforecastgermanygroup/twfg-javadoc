@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="437px" height="164px" style="background:transparent;height:164px;width:437px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 437 164" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.TextForecastAdapter" data-source-line="13" data-uid="ent0002">
+<a href="TextForecastAdapter.html" target="_top" title="TextForecastAdapter.html" xlink:actuate="onRequest" xlink:href="TextForecastAdapter.html" xlink:show="new" xlink:title="TextForecastAdapter.html" xlink:type="simple">
+<rect x="6" y="12" width="424.56" height="127.42" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="90.975" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m93.943 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="161.144" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="146.7744">TextForecastAdapter</text>
+<text x="111.4746" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="429.56" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="398.5625">TextForecastAdapter(Context, ArrayList&lt;TextForecast&gt;)</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="102.9082">getCount(): int</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="138.7969">getItem(int): Object</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="136.4316">getItemId(int): long</text>
+<ellipse cx="17" cy="128.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="256.1836">getView(int, View, ViewGroup): View</text>
+</a>
+</g>
+<g class="footer" data-source-line="27">
+<text x="213.4106" y="142.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="173.8452" y="153.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

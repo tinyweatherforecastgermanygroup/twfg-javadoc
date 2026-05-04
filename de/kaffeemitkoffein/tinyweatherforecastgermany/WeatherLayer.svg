@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1179px" height="882px" style="background:transparent;height:882px;width:1179px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 1179 882" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer" data-source-line="13" data-uid="ent0002">
+<a href="WeatherLayer.html" target="_top" title="WeatherLayer.html" xlink:actuate="onRequest" xlink:href="WeatherLayer.html" xlink:show="new" xlink:title="WeatherLayer.html" xlink:type="simple">
+<rect x="368" y="12" width="441.73" height="771" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="461.56" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m464.53 36.609q-0.5781 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="555.7173" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="98.7998">WeatherLayer</text>
+<text x="482.0605" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="369" x2="808.73" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="379" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="121.9873">LAYERCOUNT: int</text>
+<ellipse cx="379" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="222.1611">dateFormat: SimpleDateFormat</text>
+<ellipse cx="379" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="132.8359">WARNMAPX0: float</text>
+<ellipse cx="379" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="131.7969">WARNMAPY0: float</text>
+<ellipse cx="379" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="132.8359">WARNMAPX1: float</text>
+<ellipse cx="379" cy="145.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="131.7969">WARNMAPY1: float</text>
+<ellipse cx="379" cy="161.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="146.166">WarnMapGeo: float[]</text>
+<ellipse cx="379" cy="177.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="133.6768">WarnMapSize: int[]</text>
+<ellipse cx="379" cy="193.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="133.0684">layerMapWidth: int</text>
+<ellipse cx="379" cy="210.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="138.3662">layerMapHeight: int</text>
+<ellipse cx="379" cy="226.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="229.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="168.7451">EuropeLargeGeo: float[]</text>
+<ellipse cx="379" cy="242.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="246.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="156.2559">EuropeLargeSize: int[]</text>
+<ellipse cx="379" cy="259.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="262.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="232.21">CACHE_FILENAME_SUFFIX: String</text>
+<ellipse cx="379" cy="275.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="278.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="178.4521">CacheFileNames: String[]</text>
+<ellipse cx="379" cy="291.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="388" y="295.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="123.1084">LayerIDs: String[]</text>
+<line x1="369" x2="808.73" y1="302.39" y2="302.39" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="379" cy="316.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="319.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="415.7344">WeatherLayer(int, float[], long, int, int, String, int, int[], int)</text>
+<ellipse cx="379" cy="332.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="335.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="127.9756">WeatherLayer(int)</text>
+<ellipse cx="379" cy="348.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="351.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.0215">isInIntArray(int[], int): boolean</text>
+<ellipse cx="379" cy="364.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="368.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="272.4463">getDisabledLayersArray(Context): int[]</text>
+<ellipse cx="379" cy="381.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="384.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="311.0146">getFilteredBrowseItemsOrder(Context): int[]</text>
+<ellipse cx="379" cy="397.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="400.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="210.7998">getCacheFilename(int): String</text>
+<ellipse cx="379" cy="413.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="417.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="192.5479">getCacheFilename(): String</text>
+<ellipse cx="379" cy="430.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="433.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="273.3418">getFullChacheFilepath(Context): String</text>
+<ellipse cx="379" cy="446.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="449.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="276.4248">getFileLastModifiedTime(Context): long</text>
+<ellipse cx="379" cy="462.71" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="466.0576" fill="#000000" font-family="sans-serif" font-size="14" textLength="339.7051">setFileLastModifiedTime(Context, long): boolean</text>
+<ellipse cx="379" cy="479.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="482.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="157.0557">getLayerID(int): String</text>
+<ellipse cx="379" cy="495.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="498.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="204.873">getLabel(Context, int): String</text>
+<ellipse cx="379" cy="511.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="514.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242.4434">getShortLabel(Context, int): String</text>
+<ellipse cx="379" cy="527.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="531.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="226.2217">getMidnightTime(long, int): long</text>
+<ellipse cx="379" cy="544.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="547.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="199.0693">getMidnightTime(long): long</text>
+<ellipse cx="379" cy="560.49" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="563.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="183.5723">getRelativeDays(long): int</text>
+<ellipse cx="379" cy="576.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="580.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="278.0859">getFullHourTime(long, int, int, int): long</text>
+<ellipse cx="379" cy="593.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="596.4326" fill="#000000" font-family="sans-serif" font-size="14" textLength="208.1748">isOutdated(Context): boolean</text>
+<ellipse cx="379" cy="609.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="612.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="199.165">getLayer(int): WeatherLayer</text>
+<ellipse cx="379" cy="625.68" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="629.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="194.5303">isInArray(int[], int): boolean</text>
+<ellipse cx="379" cy="641.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="645.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="329.1846">getLayers(Context): ArrayList&lt;WeatherLayer&gt;</text>
+<ellipse cx="379" cy="658.27" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="661.6201" fill="#000000" font-family="sans-serif" font-size="14" textLength="264.5303">getLayerBitmap(Context, int): Bitmap</text>
+<ellipse cx="379" cy="674.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="677.917" fill="#000000" font-family="sans-serif" font-size="14" textLength="376.9336">getTransparentLayerBitmap(Context, int, int): Bitmap</text>
+<ellipse cx="379" cy="690.87" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="694.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="313.2432">replaceBitmapColor(Bitmap, int, int): Bitmap</text>
+<ellipse cx="379" cy="707.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="710.5107" fill="#000000" font-family="sans-serif" font-size="14" textLength="153.8633">getTargetTime(): long</text>
+<ellipse cx="379" cy="723.46" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="726.8076" fill="#000000" font-family="sans-serif" font-size="14" textLength="205.2217">getTimestampString(): String</text>
+<ellipse cx="379" cy="739.76" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="743.1045" fill="#000000" font-family="sans-serif" font-size="14" textLength="346.3428">saveLayerBitmapToCache(Context, Bitmap): void</text>
+<ellipse cx="379" cy="756.05" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="759.4014" fill="#000000" font-family="sans-serif" font-size="14" textLength="357.4648">isPollenLayerCacheFileOutdated(Context): boolean</text>
+<ellipse cx="379" cy="772.35" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="388" y="775.6982" fill="#000000" font-family="sans-serif" font-size="14" textLength="129.5205">isPollen(): boolean</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.Layers" data-source-line="59" data-uid="ent0003">
+<a href="WeatherLayer.Layers.html" target="_top" title="WeatherLayer.Layers.html" xlink:actuate="onRequest" xlink:href="WeatherLayer.Layers.html" xlink:show="new" xlink:title="WeatherLayer.Layers.html" xlink:type="simple">
+<rect x="6" y="819" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="837.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 843.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="83.2681" y="836.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="149.5771">WeatherLayer.Layers</text>
+<text x="35" y="849.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.UpdateMode" data-source-line="60" data-uid="ent0004">
+<a href="WeatherLayer.UpdateMode.html" target="_top" title="WeatherLayer.UpdateMode.html" xlink:actuate="onRequest" xlink:href="WeatherLayer.UpdateMode.html" xlink:show="new" xlink:title="WeatherLayer.UpdateMode.html" xlink:type="simple">
+<rect x="302" y="819" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="317" cy="837.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m319.97 843.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="358.0083" y="836.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="192.0967">WeatherLayer.UpdateMode</text>
+<text x="331" y="849.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.TZ" data-source-line="61" data-uid="ent0005">
+<a href="WeatherLayer.TZ.html" target="_top" title="WeatherLayer.TZ.html" xlink:actuate="onRequest" xlink:href="WeatherLayer.TZ.html" xlink:show="new" xlink:title="WeatherLayer.TZ.html" xlink:type="simple">
+<rect x="598" y="819" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="613" cy="837.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m615.97 843.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="689.3604" y="836.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="121.3926">WeatherLayer.TZ</text>
+<text x="627" y="849.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="e" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.Legend" data-source-line="62" data-uid="ent0006">
+<a href="WeatherLayer.Legend.html" target="_top" title="WeatherLayer.Legend.html" xlink:actuate="onRequest" xlink:href="WeatherLayer.Legend.html" xlink:show="new" xlink:title="WeatherLayer.Legend.html" xlink:type="simple">
+<rect x="894" y="819" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="909" cy="837.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m911.97 843.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="968.5952" y="836.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="154.9229">WeatherLayer.Legend</text>
+<text x="923" y="849.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="f" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.Layers" data-uid="lnk7">
+<ellipse cx="362.28" cy="622.41" rx="8" ry="8" fill="#fff"/>
+<line x1="356.59" x2="367.98" y1="628.03" y2="616.79"/>
+<line x1="356.66" x2="367.91" y1="616.72" y2="628.1"/>
+<path d="m356.59 628.03c-84.146 83.103-157.09 155.15-193.26 190.86" fill="none"/>
+</g>
+<g id="g" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.UpdateMode" data-uid="lnk8">
+<ellipse cx="456.59" cy="790.81" rx="8" ry="8" fill="#fff"/>
+<line x1="454.03" x2="459.15" y1="798.39" y2="783.23"/>
+<line x1="449.01" x2="464.17" y1="788.25" y2="793.37"/>
+<path d="m454.03 798.39c-4.8413 14.344-3.8034 11.269-6.8601 20.325" fill="none"/>
+</g>
+<g id="h" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.TZ" data-uid="lnk9">
+<ellipse cx="721.41" cy="790.81" rx="8" ry="8" fill="#fff"/>
+<line x1="723.97" x2="718.85" y1="798.39" y2="783.23"/>
+<line x1="713.83" x2="728.99" y1="793.37" y2="788.25"/>
+<path d="m723.97 798.39c4.8413 14.344 3.8034 11.269 6.8601 20.325" fill="none"/>
+</g>
+<g id="i" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayer.Legend" data-uid="lnk10">
+<ellipse cx="815.72" cy="622.41" rx="8" ry="8" fill="#fff"/>
+<line x1="821.41" x2="810.02" y1="628.03" y2="616.79"/>
+<line x1="810.09" x2="821.34" y1="628.1" y2="616.72"/>
+<path d="m821.41 628.03c84.146 83.103 157.09 155.15 193.26 190.86" fill="none"/>
+</g>
+<g class="footer" data-source-line="75">
+<text x="583.9106" y="860.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="544.3452" y="871.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

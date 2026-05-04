@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="592px" height="401px" style="background:transparent;height:401px;width:592px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 592 401" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.CurrentWeatherInfo" data-source-line="13" data-uid="ent0002">
+<a href="CurrentWeatherInfo.html" target="_top" title="CurrentWeatherInfo.html" xlink:actuate="onRequest" xlink:href="CurrentWeatherInfo.html" xlink:show="new" xlink:title="CurrentWeatherInfo.html" xlink:type="simple">
+<rect x="6" y="12" width="579.17" height="363.58" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="168.28" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m171.25 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="242.1362" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="139.3984">CurrentWeatherInfo</text>
+<text x="188.7788" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="584.17" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="133.3965">EMPTY_TAG: String</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="224.3281">MOSMIX_UPDATE_INTERVAL: int</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238.5059">MOSMIX_PUBLICATION_DELAY: int</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="200.4229">DMO_UPDATE_INTERVAL: int</text>
+<ellipse cx="17" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="214.6006">DMO_PUBLICATION_DELAY: int</text>
+<line x1="7" x2="584.17" y1="139.42" y2="139.42" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="153.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="156.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="150.3223">CurrentWeatherInfo()</text>
+<ellipse cx="17" cy="169.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="172.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="330.333">CurrentWeatherInfo(Context, RawWeatherInfo)</text>
+<ellipse cx="17" cy="185.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="189.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="133.376">setToEmpty(): void</text>
+<ellipse cx="17" cy="201.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="205.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="167.3916">getCity(Context): String</text>
+<ellipse cx="17" cy="218.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="221.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="311.6777">getWindForecast(int): ArrayList&lt;WindData&gt;</text>
+<ellipse cx="17" cy="234.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="237.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="348.8447">setSunDurationFromClouds(WeatherInfo): Integer</text>
+<ellipse cx="17" cy="250.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="254.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="277.6143">iteratePositions(String[], int, int): String</text>
+<ellipse cx="17" cy="267.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="270.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="491.9619">interpolateConditionFromHigherIntervals(int, RawWeatherInfo): String</text>
+<ellipse cx="17" cy="283.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="286.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="479.2881">getConditionFromHourlyCondition(RawWeatherInfo, int, int): Integer</text>
+<ellipse cx="17" cy="299.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="303.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="553.1709">getConditionFromHourlySignificantCondition(RawWeatherInfo, int, int): Integer</text>
+<ellipse cx="17" cy="316.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="319.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="403.8057">getMostSignificantCondition(ArrayList&lt;Integer&gt;): Integer</text>
+<ellipse cx="17" cy="332.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="335.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="317.5293">isNewServerDataExpected(Context): boolean</text>
+<ellipse cx="17" cy="348.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="351.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="343.7793">getWhenNewServerDataExpected(Context): long</text>
+<ellipse cx="17" cy="364.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="368.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="272.0225">getHumanReadableIssueTime(): String</text>
+</a>
+</g>
+<g class="footer" data-source-line="41">
+<text x="290.4106" y="379.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="250.8452" y="390.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="444px" height="482px" style="background:transparent;height:482px;width:444px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 444 482" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Pollen" data-source-line="13" data-uid="ent0002">
+<a href="Pollen.html" target="_top" title="Pollen.html" xlink:actuate="onRequest" xlink:href="Pollen.html" xlink:show="new" xlink:title="Pollen.html" xlink:type="simple">
+<rect x="6" y="12" width="431.65" height="445.06" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="94.519" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m97.488 36.609q-0.5781 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="216.939" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="42.2734">Pollen</text>
+<text x="115.019" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="436.65" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="93.6045">Ambrosia: int</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="77.916">Beifuss: int</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="80.9717">Roggen: int</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="68.7422">Esche: int</text>
+<ellipse cx="17" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="63.3896">Birke: int</text>
+<ellipse cx="17" cy="145.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="66.3223">Hasel: int</text>
+<ellipse cx="17" cy="161.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="54.5234">Erle: int</text>
+<ellipse cx="17" cy="177.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="82.8789">Graeser: int</text>
+<ellipse cx="17" cy="193.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="70.2871">Today: int</text>
+<ellipse cx="17" cy="210.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="98.2666">Tomorrow: int</text>
+<ellipse cx="17" cy="226.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="229.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="160.2754">DayAfterTomorrow: int</text>
+<ellipse cx="17" cy="242.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="246.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="229.2979">ACTION_UPDATE_POLLEN: String</text>
+<ellipse cx="17" cy="259.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="262.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="229.8311">UPDATE_POLLEN_RESULT: String</text>
+<line x1="7" x2="436.65" y1="269.8" y2="269.8" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="283.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="286.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="53.1973">Pollen()</text>
+<ellipse cx="17" cy="299.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="303.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="95.4707">Pollen(Pollen)</text>
+<ellipse cx="17" cy="316.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="319.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="167.8223">getMinMax(String): int[]</text>
+<ellipse cx="17" cy="332.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="335.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="167.9932">getValueArray(int): int[]</text>
+<ellipse cx="17" cy="348.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="351.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="246.832">getPollenLoad(Context, int, int): int</text>
+<ellipse cx="17" cy="364.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="368.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="405.6514">WritePollenToDatabase(Context, ArrayList&lt;Pollen&gt;): void</text>
+<ellipse cx="17" cy="381.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="384.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="301.8066">GetPollenData(Context, PollenArea): Pollen</text>
+<ellipse cx="17" cy="397.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="400.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="303.9941">GetPollenData(Context): ArrayList&lt;Pollen&gt;</text>
+<ellipse cx="17" cy="413.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="417.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288.9141">getNextPollenUpdateTime(Context): long</text>
+<ellipse cx="17" cy="430.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="433.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="285.2158">getLastPollenUpdateTime(Context): long</text>
+<ellipse cx="17" cy="446.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="449.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="176.1348">getDayShift(Context): int</text>
+</a>
+</g>
+<g class="footer" data-source-line="46">
+<text x="216.9106" y="460.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="177.3452" y="471.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

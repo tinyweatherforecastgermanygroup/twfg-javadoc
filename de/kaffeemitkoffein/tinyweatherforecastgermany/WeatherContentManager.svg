@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="759px" style="background:transparent;height:759px;width:560px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 560 759" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherContentManager" data-source-line="13" data-uid="ent0002">
+<a href="WeatherContentManager.html" target="_top" title="WeatherContentManager.html" xlink:actuate="onRequest" xlink:href="WeatherContentManager.html" xlink:show="new" xlink:title="WeatherContentManager.html" xlink:type="simple">
+<rect x="6" y="12" width="547.04" height="722.11" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="152.21" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m155.18 36.609q-0.5781 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="207.3618" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="176.8115">WeatherContentManager</text>
+<text x="172.7109" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="552.04" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="192.582">FORECAST_URI_SINLGE: Uri</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="166.7764">FORECAST_URI_ALL: Uri</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="187.2158">WARNING_URI_SINLGE: Uri</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="161.4102">WARNING_URI_ALL: Uri</text>
+<ellipse cx="17" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="153.6855">TEXT_URI_SINLGE: Uri</text>
+<ellipse cx="17" cy="145.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="127.8799">TEXT_URI_ALL: Uri</text>
+<ellipse cx="17" cy="161.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="155.873">AREA_URI_SINLGE: Uri</text>
+<ellipse cx="17" cy="177.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="130.0674">AREA_URI_ALL: Uri</text>
+<ellipse cx="17" cy="193.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219.1396">POLLENAREAS_URI_SINGLE: Uri</text>
+<ellipse cx="17" cy="210.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="193.334">POLLENAREAS_URI_ALL: Uri</text>
+<ellipse cx="17" cy="226.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="229.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="172.5254">POLLEN_URI_SINGLE: Uri</text>
+<ellipse cx="17" cy="242.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="246.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="146.7197">POLLEN_URI_ALL: Uri</text>
+<ellipse cx="17" cy="259.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="262.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="156.6318">DATA_URI_SINGLE: Uri</text>
+<ellipse cx="17" cy="275.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="278.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="130.8262">DATA_URI_ALL: Uri</text>
+<line x1="7" x2="552.04" y1="286.09" y2="286.09" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="299.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="303.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="214.2314">serializeString(String[]): String</text>
+<ellipse cx="17" cy="316.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="319.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="387.6318">serializeStringFromArrayList(ArrayList&lt;String&gt;): String</text>
+<ellipse cx="17" cy="332.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="335.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="233.3242">deSerializeString(String): String[]</text>
+<ellipse cx="17" cy="348.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="351.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="383.9199">deSerializeStringToArraylist(String): ArrayList&lt;String&gt;</text>
+<ellipse cx="17" cy="364.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="368.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="492.8848">getContentValuesFromWeatherCard(RawWeatherInfo): ContentValues</text>
+<ellipse cx="17" cy="381.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="384.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="403.1699">getRawWeatherInfoFromCursor(Cursor): RawWeatherInfo</text>
+<ellipse cx="17" cy="397.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="400.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="378.752">getWeatherInfo(Context, Cursor): CurrentWeatherInfo</text>
+<ellipse cx="17" cy="413.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="417.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="521.0352">getContentValuesFromWeatherWarning(WeatherWarning): ContentValues</text>
+<ellipse cx="17" cy="430.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="433.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="408.0645">getWeatherWarningFromCursor(Cursor): WeatherWarning</text>
+<ellipse cx="17" cy="446.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="449.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="466.0742">getContentValuesFromTextForecast(TextForecast): ContentValues</text>
+<ellipse cx="17" cy="462.71" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="466.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="353.1035">getTextForecastFromCursor(Cursor): TextForecast</text>
+<ellipse cx="17" cy="479.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="482.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="349.1523">getContentValuesFromArea(Area): ContentValues</text>
+<ellipse cx="17" cy="495.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="498.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="236.1816">getAreaFromCursor(Cursor): Area</text>
+<ellipse cx="17" cy="511.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="514.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="286.7402">getAreaNameFromCursor(Cursor): String</text>
+<ellipse cx="17" cy="527.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="531.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288.9619">getWarncellIDFromCursor(Cursor): String</text>
+<ellipse cx="17" cy="544.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="547.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="433.6992">getContentValuesFromPollenArea(PollenArea): ContentValues</text>
+<ellipse cx="17" cy="560.49" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="563.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="320.7285">getPollenAreaFromCursor(Cursor): PollenArea</text>
+<ellipse cx="17" cy="576.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="580.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="368.6484">getContentValuesFromPollen(Pollen): ContentValues</text>
+<ellipse cx="17" cy="593.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="596.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="255.6777">getPollenFromCursor(Cursor): Pollen</text>
+<ellipse cx="17" cy="609.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="612.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="424.8262">getContentValuesFromData_Blob(int, byte[]): ContentValues</text>
+<ellipse cx="17" cy="625.68" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="629.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="417.71">getContentValuesFromData_Float(int, float): ContentValues</text>
+<ellipse cx="17" cy="641.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="645.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="388.4248">getContentValuesFromData_Int(int, int): ContentValues</text>
+<ellipse cx="17" cy="658.27" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="661.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="416.0215">getContentValuesFromData_Long(int, long): ContentValues</text>
+<ellipse cx="17" cy="674.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="677.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="435.2441">getContentValuesFromData_String(int, String): ContentValues</text>
+<ellipse cx="17" cy="690.87" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="694.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="464.3447">getContentValuesFromData_Boolean(int, boolean): ContentValues</text>
+<ellipse cx="17" cy="707.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="710.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="296.8916">getDataFromCursor(Cursor): DataPackage</text>
+<ellipse cx="17" cy="723.46" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="726.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.4521">checkForDatabaseUpgrade(Context): int</text>
+</a>
+</g>
+<g class="footer" data-source-line="63">
+<text x="274.4106" y="737.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="234.8452" y="748.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

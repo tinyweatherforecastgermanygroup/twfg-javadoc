@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="506px" height="173px" style="background:transparent;height:173px;width:506px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 506 173" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.ClockWidget" data-source-line="13" data-uid="ent0002">
+<a href="ClockWidget.html" target="_top" title="ClockWidget.html" xlink:actuate="onRequest" xlink:href="ClockWidget.html" xlink:show="new" xlink:title="ClockWidget.html" xlink:type="simple">
+<rect x="6" y="86" width="493.8" height="62.234" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="125.6" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m128.56 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="225.3301" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="87.6436">ClockWidget</text>
+<text x="146.0952" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="498.8" y1="123.94" y2="123.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="137.59" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="140.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="467.8037">updateWidgetDisplay(Context, AppWidgetManager, int[], int): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.ClassicWidget" data-source-line="17" data-uid="ent0003">
+<a href="ClassicWidget.html" target="_top" title="ClassicWidget.html" xlink:actuate="onRequest" xlink:href="ClassicWidget.html" xlink:show="new" xlink:title="ClassicWidget.html" xlink:type="simple">
+<rect x="114" y="12" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="129" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m131.97 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="217.043" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="98.0273">ClassicWidget</text>
+<text x="143" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" fill="none" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.ClassicWidget" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.ClockWidget" data-uid="lnk4">
+<polygon points="253 50.227 247 68.227 259 68.227"/>
+<path d="m253 68.227v17.692"/>
+</g>
+<g class="footer" data-source-line="27">
+<text x="247.9106" y="151.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="208.3452" y="162.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

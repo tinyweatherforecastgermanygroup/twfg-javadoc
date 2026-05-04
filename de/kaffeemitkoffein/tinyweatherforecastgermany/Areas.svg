@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1475px" height="320px" style="background:transparent;height:320px;width:1475px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 1475 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-source-line="13" data-uid="ent0002">
+<a href="Areas.html" target="_top" title="Areas.html" xlink:actuate="onRequest" xlink:href="Areas.html" xlink:show="new" xlink:title="Areas.html" xlink:type="simple">
+<rect x="527.5" y="12" width="418.97" height="208.91" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="609.68" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m612.65 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="733.3257" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="39.8193">Areas</text>
+<text x="630.1787" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="528.5" x2="945.47" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="538.5" cy="63.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="244.4873">getAreaDatabaseSize(Context): int</text>
+<ellipse cx="538.5" cy="79.883" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="297.6436">doesAreaDatabaseExist(Context): boolean</text>
+<ellipse cx="538.5" cy="96.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.9033">getArea(Context, String): Area</text>
+<ellipse cx="538.5" cy="112.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="392.9707">getAreas(Context, ArrayList&lt;String&gt;): ArrayList&lt;Area&gt;</text>
+<ellipse cx="538.5" cy="128.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.5547">getAreas(Context, int): ArrayList&lt;Area&gt;</text>
+<ellipse cx="538.5" cy="145.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="294.4785">getAreas(Context, int[]): ArrayList&lt;Area&gt;</text>
+<ellipse cx="538.5" cy="161.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="273.0957">getAreaByName(Context, String): Area</text>
+<ellipse cx="538.5" cy="177.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="324.3174">getAllAreaNames(Context): ArrayList&lt;String&gt;</text>
+<ellipse cx="538.5" cy="193.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="326.5391">getAllWarncellIDs(Context): ArrayList&lt;String&gt;</text>
+<ellipse cx="538.5" cy="210.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="547.5" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="120.3193">test(Context): int</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.Area" data-source-line="25" data-uid="ent0003">
+<a href="Areas.Area.html" target="_top" title="Areas.Area.html" xlink:actuate="onRequest" xlink:href="Areas.Area.html" xlink:show="new" xlink:title="Areas.Area.html" xlink:type="simple">
+<rect x="6" y="257" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="275.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 281.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="119.6592" y="274.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="76.7949">Areas.Area</text>
+<text x="35" y="287.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaDatabaseProgress" data-source-line="26" data-uid="ent0004">
+<a href="Areas.AreaDatabaseProgress.html" target="_top" title="Areas.AreaDatabaseProgress.html" xlink:actuate="onRequest" xlink:href="Areas.AreaDatabaseProgress.html" xlink:show="new" xlink:title="Areas.AreaDatabaseProgress.html" xlink:type="simple">
+<rect x="302" y="257" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="317" cy="275.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m319.97 281.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="351.9551" y="274.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="204.2031">Areas.AreaDatabaseProgress</text>
+<text x="331" y="287.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaDatabaseCreator" data-source-line="27" data-uid="ent0005">
+<a href="Areas.AreaDatabaseCreator.html" target="_top" title="Areas.AreaDatabaseCreator.html" xlink:actuate="onRequest" xlink:href="Areas.AreaDatabaseCreator.html" xlink:show="new" xlink:title="Areas.AreaDatabaseCreator.html" xlink:type="simple">
+<rect x="598" y="257" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="613" cy="275.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m615.97 281.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="651.9917" y="274.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="196.1299">Areas.AreaDatabaseCreator</text>
+<text x="627" y="287.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="e" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaNameReader" data-source-line="28" data-uid="ent0006">
+<a href="Areas.AreaNameReader.html" target="_top" title="Areas.AreaNameReader.html" xlink:actuate="onRequest" xlink:href="Areas.AreaNameReader.html" xlink:show="new" xlink:title="Areas.AreaNameReader.html" xlink:type="simple">
+<rect x="894" y="257" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="909" cy="275.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m911.97 281.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="961.9199" y="274.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="168.2734">Areas.AreaNameReader</text>
+<text x="923" y="287.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="f" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaReader" data-source-line="29" data-uid="ent0007">
+<a href="Areas.AreaReader.html" target="_top" title="Areas.AreaReader.html" xlink:actuate="onRequest" xlink:href="Areas.AreaReader.html" xlink:show="new" xlink:title="Areas.AreaReader.html" xlink:type="simple">
+<rect x="1190" y="257" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1205" cy="275.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1208 281.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1278.5713" y="274.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="126.9707">Areas.AreaReader</text>
+<text x="1219" y="287.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="g" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.Area" data-uid="lnk8">
+<ellipse cx="519.72" cy="175.31" rx="8" ry="8" fill="#fff"/>
+<line x1="511.99" x2="527.45" y1="177.36" y2="173.25"/>
+<line x1="517.66" x2="521.78" y1="167.58" y2="183.04"/>
+<path d="m511.99 177.36c-110.26 29.335-222.61 59.224-299.02 79.552" fill="none"/>
+</g>
+<g id="h" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaDatabaseProgress" data-uid="lnk9">
+<ellipse cx="535.39" cy="224.78" rx="8" ry="8" fill="#fff"/>
+<line x1="528.33" x2="542.45" y1="228.53" y2="221.02"/>
+<line x1="531.63" x2="539.15" y1="217.71" y2="231.84"/>
+<path d="m528.33 228.53c-25.848 13.754-35.463 18.869-53.468 28.45" fill="none"/>
+</g>
+<g id="i" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaDatabaseCreator" data-uid="lnk10">
+<ellipse cx="737" cy="229.24" rx="8" ry="8" fill="#fff"/>
+<line x1="737" x2="737" y1="237.24" y2="221.24"/>
+<line x1="729" x2="745" y1="229.24" y2="229.24"/>
+<path d="m737 237.24v19.587" fill="none"/>
+</g>
+<g id="j" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaNameReader" data-uid="lnk11">
+<ellipse cx="938.61" cy="224.78" rx="8" ry="8" fill="#fff"/>
+<line x1="945.67" x2="931.55" y1="228.53" y2="221.02"/>
+<line x1="934.85" x2="942.37" y1="231.84" y2="217.71"/>
+<path d="m945.67 228.53c25.848 13.754 35.463 18.869 53.468 28.45" fill="none"/>
+</g>
+<g id="k" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaReader" data-uid="lnk12">
+<ellipse cx="954.28" cy="175.31" rx="8" ry="8" fill="#fff"/>
+<line x1="962.01" x2="946.55" y1="177.36" y2="173.25"/>
+<line x1="952.22" x2="956.34" y1="183.04" y2="167.58"/>
+<path d="m962.01 177.36c110.26 29.335 222.61 59.224 299.02 79.552" fill="none"/>
+</g>
+<g class="footer" data-source-line="43">
+<text x="731.9106" y="298.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="692.3452" y="309.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

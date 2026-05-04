@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1837px" height="187px" style="height:187px;width:1837px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 1837 187" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany" data-source-line="14" data-uid="ent0002">
+<a href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" target="_top" title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:actuate="onRequest" xlink:href="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:show="new" xlink:title="de/kaffeemitkoffein/tinyweatherforecastgermany/package-summary.html" xlink:type="simple">
+<rect x="664.36" y="12" width="350.56" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="667.3601" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="344.5586">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="unnamed" data-source-line="14" data-uid="ent0003">
+<rect x="315.86" y="136" width="72.336" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="318.8601" y="153.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="66.3359">unnamed</text>
+</g>
+<g id="c" class="entity" data-entity="View" data-source-line="15" data-uid="ent0005">
+<rect x="20.86" y="74" width="39.53" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="23.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="33.5303">View</text>
+</g>
+<g id="d" class="entity" data-entity="org.w3c.dom" data-source-line="16" data-uid="ent0007">
+<rect x="79.36" y="74" width="97.253" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="82.3601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="91.2529">org.w3c.dom</text>
+</g>
+<g id="e" class="entity" data-entity="org.xml.sax" data-source-line="17" data-uid="ent0009">
+<rect x="194.86" y="74" width="88.079" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="197.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="82.0791">org.xml.sax</text>
+</g>
+<g id="f" class="entity" data-entity="Application" data-source-line="18" data-uid="ent0011">
+<rect x="300.86" y="74" width="84.224" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="303.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="78.2236">Application</text>
+</g>
+<g id="g" class="entity" data-entity="GestureDetector" data-source-line="19" data-uid="ent0013">
+<rect x="402.86" y="74" width="122.49" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="405.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="116.4912">GestureDetector</text>
+</g>
+<g id="h" class="entity" data-entity="nodomain.freeyourgadget.gadgetbridge.model" data-source-line="20" data-uid="ent0015">
+<a href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" target="_top" title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:actuate="onRequest" xlink:href="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:show="new" xlink:title="nodomain/freeyourgadget/gadgetbridge/model/package-summary.html" xlink:type="simple">
+<rect x="542.86" y="74" width="335.81" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="545.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="329.8066">nodomain.freeyourgadget.gadgetbridge.model</text>
+</a>
+</g>
+<g id="i" class="entity" data-entity="org.astronomie.info" data-source-line="21" data-uid="ent0017">
+<a href="org/astronomie/info/package-summary.html" target="_top" title="org/astronomie/info/package-summary.html" xlink:actuate="onRequest" xlink:href="org/astronomie/info/package-summary.html" xlink:show="new" xlink:title="org/astronomie/info/package-summary.html" xlink:type="simple">
+<rect x="896.86" y="74" width="143.63" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="899.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="137.6279">org.astronomie.info</text>
+</a>
+</g>
+<g id="j" class="entity" data-entity="AdapterView" data-source-line="22" data-uid="ent0019">
+<rect x="1059.4" y="74" width="95.318" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1062.3601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="89.3184">AdapterView</text>
+</g>
+<g id="k" class="entity" data-entity="BitmapFactory" data-source-line="23" data-uid="ent0021">
+<rect x="1172.4" y="74" width="108.51" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1175.3601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="102.5117">BitmapFactory</text>
+</g>
+<g id="l" class="entity" data-entity="SharedPreferences" data-source-line="24" data-uid="ent0023">
+<rect x="1299.4" y="74" width="138.79" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1302.3601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="132.7949">SharedPreferences</text>
+</g>
+<g id="m" class="entity" data-entity="ScaleGestureDetector" data-source-line="25" data-uid="ent0025">
+<rect x="1456.9" y="74" width="160.16" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1459.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="154.1572">ScaleGestureDetector</text>
+</g>
+<g id="n" class="entity" data-entity="SeekBar" data-source-line="26" data-uid="ent0027">
+<rect x="1634.9" y="74" width="64.16" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1637.8601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="58.1602">SeekBar</text>
+</g>
+<g id="o" class="entity" data-entity="DialogInterface" data-source-line="27" data-uid="ent0029">
+<rect x="1717.4" y="74" width="113.27" height="26.297" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<text x="1720.3601" y="91.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="107.2695">DialogInterface</text>
+</g>
+<g id="p" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="unnamed" data-uid="lnk4">
+<polygon points="315.78 148.57 306.76 144.62 310.78 148.6 306.8 152.62" fill="#181818"/>
+<path d="m664.21 30.109c-236.45 6.4065-630.3 20.524-652.35 43.891-7.931 8.4041-7.5784 17.276 0 26 39.096 45.003 218.62 49.017 297.92 48.606" fill="none"/>
+</g>
+<g id="q" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="View" data-uid="lnk6">
+<polygon points="60.861 76.73 70.686 77.405 65.558 75.017 67.946 69.889" fill="#181818"/>
+<path d="m664.02 30.258c-191.6 5.8294-485.36 18.576-594.16 43.742-2.9728 0.6876-0.3958-0.4071-3.3625 0.6748" fill="none"/>
+</g>
+<g id="r" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="org.w3c.dom" data-uid="lnk8">
+<polygon points="176.51 75.452 186.06 77.892 181.44 74.617 184.72 70.004" fill="#181818"/>
+<path d="m664.32 32.65c-132.06 6.5109-317.23 18.852-478.46 41.35-3.0552 0.4263-0.2753-0.0855-3.4306 0.4495" fill="none"/>
+</g>
+<g id="s" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="org.xml.sax" data-uid="lnk10">
+<polygon points="283.02 75.532 292.61 77.796 287.93 74.606 291.12 69.935" fill="#181818"/>
+<path d="m664.21 35.32c-107.87 7.2246-248.62 19.346-372.35 38.68-2.8895 0.4515 0.0398-0.1411-2.9434 0.4209" fill="none"/>
+</g>
+<g id="t" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="Application" data-uid="lnk12">
+<polygon points="385.08 75.641 394.69 77.788 389.98 74.655 393.11 69.945" fill="#181818"/>
+<path d="m683.89 38.017c-85.92 7.8145-194.26 19.628-290.03 35.983-2.8691 0.49 0.0643-0.1381-2.8993 0.458" fill="none"/>
+</g>
+<g id="u" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="GestureDetector" data-uid="lnk14">
+<polygon points="524.93 75.478 534.47 77.942 529.87 74.655 533.15 70.051" fill="#181818"/>
+<path d="m761.2 38.025c-61.836 9.5288-150.13 23.302-227.34 35.975-2.9201 0.4793 0.0102-0.0131-3.007 0.4902" fill="none"/>
+</g>
+<g id="v" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="nodomain.freeyourgadget.gadgetbridge.model" data-uid="lnk16">
+<polygon points="736.93 73.876 746.77 73.708 741.46 71.768 743.4 66.454" fill="#181818"/>
+<path d="m813.76 38.142c-22.381 10.41-49.019 22.799-71.388 33.204" fill="none"/>
+</g>
+<g id="w" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="org.astronomie.info" data-uid="lnk18">
+<polygon points="942.79 73.876 936.32 66.454 938.26 71.768 932.95 73.708" fill="#181818"/>
+<path d="m865.97 38.142c22.381 10.41 49.019 22.799 71.388 33.204" fill="none"/>
+</g>
+<g id="x" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="AdapterView" data-uid="lnk20">
+<polygon points="1059.1 75.258 1051.2 69.382 1054.2 74.162 1049.4 77.187" fill="#181818"/>
+<path d="m893.57 38.07c48.426 10.882 113.12 25.421 159.63 35.873" fill="none"/>
+</g>
+<g id="y" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="BitmapFactory" data-uid="lnk22">
+<polygon points="1172.2 75.456 1164.1 69.945 1167.3 74.582 1162.7 77.822" fill="#181818"/>
+<path d="m927.68 38.014c65.265 9.1704 156.43 22.488 236.18 35.986 2.7445 0.4645-0.354-0.0951 2.4813 0.4077" fill="none"/>
+</g>
+<g id="z" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="SharedPreferences" data-uid="lnk24">
+<polygon points="1299.1 75.109 1290.8 69.92 1294.2 74.428 1289.7 77.846" fill="#181818"/>
+<path d="m967.86 38.02c90.381 8.8787 214.27 21.838 323 35.98 2.7173 0.3534-0.4579-0.0926 2.3378 0.2919" fill="none"/>
+</g>
+<g id="aa" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="ScaleGestureDetector" data-uid="lnk26">
+<polygon points="1456.8 74.997 1448.3 69.994 1451.9 74.425 1447.4 77.941" fill="#181818"/>
+<path d="m1015.4 37.279c121.57 8.4437 287.07 21.189 432.49 36.721 2.9456 0.3146-0.0164-0.0381 3.0111 0.3107" fill="none"/>
+</g>
+<g id="ab" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="SeekBar" data-uid="lnk28">
+<polygon points="1634.8 75.877 1627 69.879 1629.9 74.705 1625.1 77.656" fill="#181818"/>
+<path d="m1015.4 32.148c195.08 7.6433 497.49 22.129 610.45 41.852 2.9225 0.5103 0.0998-0.2523 3.0989 0.4708" fill="none"/>
+</g>
+<g id="ac" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany" data-entity-2="DialogInterface" data-uid="lnk30">
+<polygon points="1717 75.206 1708.7 69.97 1712.1 74.497 1707.6 77.89" fill="#181818"/>
+<path d="m1015.4 29.296c175.73 4.8052 453.59 16.494 692.47 44.704 3.0071 0.3551 0.1448-0.0888 3.2466 0.3555" fill="none"/>
+</g>
+<g id="ad" class="link" stroke="#181818" data-entity-1="nodomain.freeyourgadget.gadgetbridge.model" data-entity-2="unnamed" data-uid="lnk31">
+<polygon points="388.32 141.91 397.86 144.37 393.25 141.08 396.54 136.48" fill="#181818"/>
+<path d="m638.64 100.07c-75.759 12.662-185.87 31.065-244.41 40.848" fill="none"/>
+</g>
+<g class="footer" data-source-line="44">
+<text x="905.6606" y="165.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="866.0952" y="176.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

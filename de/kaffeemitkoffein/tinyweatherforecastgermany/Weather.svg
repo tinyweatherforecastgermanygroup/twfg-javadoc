@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3843px" height="996px" style="background:transparent;height:996px;width:3843px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 3843 996" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-source-line="13" data-uid="ent0002">
+<a href="Weather.html" target="_top" title="Weather.html" xlink:actuate="onRequest" xlink:href="Weather.html" xlink:show="new" xlink:title="Weather.html" xlink:type="simple">
+<rect x="1693.5" y="12" width="455.26" height="885.08" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1793.8" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1796.8 36.609q-0.5781 0.2969-1.2187 0.4375-0.6406 0.1562-1.3438 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7032 0 1.3438 0.1562 0.6562 0.1563 1.2187 0.4531v2.7188q-0.625-0.5781-1.2187-0.8438-0.5938-0.2812-1.2188-0.2812-1.3437 0-2.0312 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0312 1.0625 0.625 0 1.2188-0.2656 0.5937-0.2812 1.2187-0.8594v2.7188z"/>
+<text x="1907.4946" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="59.7666">Weather</text>
+<text x="1814.3213" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="1694.5" x2="2147.8" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1704.5" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="1713.5" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="162.5518">KelvinConstant: double</text>
+<ellipse cx="1704.5" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="1713.5" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="142.3652">MILLIS_IN_HOUR: int</text>
+<ellipse cx="1704.5" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="1713.5" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="88.5254">DELTA_T: int</text>
+<ellipse cx="1704.5" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="1713.5" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="302.75">PROB_OF_PRECIPITATION_ITEM_COUNT: int</text>
+<ellipse cx="1704.5" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="1713.5" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="104.3574">DATA_SIZE: int</text>
+<ellipse cx="1704.5" cy="145.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="1713.5" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="322.752">SQL_COMMAND_QUERYTIMECOLUMN: String[]</text>
+<line x1="1694.5" x2="2147.8" y1="155.72" y2="155.72" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1704.5" cy="169.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="172.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="295.2988">hasCurrentWeatherInfo(Context): boolean</text>
+<ellipse cx="1704.5" cy="185.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="189.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="376.9678">getCurrentWeatherInfo(Context): CurrentWeatherInfo</text>
+<ellipse cx="1704.5" cy="201.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="205.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="223.8086">hasUVHIData(Context): boolean</text>
+<ellipse cx="1704.5" cy="218.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="221.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="209.5146">getPollingTime(Context): long</text>
+<ellipse cx="1704.5" cy="234.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="237.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="225.5859">sanitizeDatabase(Context): void</text>
+<ellipse cx="1704.5" cy="250.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="254.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="303.2627">getRiseset(WeatherLocation, long): Riseset</text>
+<ellipse cx="1704.5" cy="267.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="270.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="341.3457">getMoonRiseset(WeatherLocation, long): Riseset</text>
+<ellipse cx="1704.5" cy="283.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="286.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="318.3633">isMoonTime(WeatherLocation, long): boolean</text>
+<ellipse cx="1704.5" cy="299.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="303.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="199.0693">getMidnightTime(long): long</text>
+<ellipse cx="1704.5" cy="316.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="319.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="231.9297">getNextMidnightTime(long): long</text>
+<ellipse cx="1704.5" cy="332.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="335.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="421.0938">getApproxMoonPositionOnSky(WeatherLocation, long): float</text>
+<ellipse cx="1704.5" cy="348.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="351.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="409.6436">getApproxSunPositionOnSky(WeatherLocation, long): float</text>
+<ellipse cx="1704.5" cy="364.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="368.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="304.8623">isDaytime(WeatherLocation, long): boolean</text>
+<ellipse cx="1704.5" cy="381.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="384.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="341.0723">usePreciseIsDaytime(WeatherLocation): boolean</text>
+<ellipse cx="1704.5" cy="397.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="400.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="252.9365">getSunsetInUTC(Riseset, long): long</text>
+<ellipse cx="1704.5" cy="413.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="417.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="321.2412">getSunsetInUTC(WeatherLocation, long): long</text>
+<ellipse cx="1704.5" cy="430.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="433.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="377.2891">getSunsetInUTC(WeatherLocation, WeatherInfo): long</text>
+<ellipse cx="1704.5" cy="446.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="449.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257.0928">getSunriseInUTC(Riseset, long): long</text>
+<ellipse cx="1704.5" cy="462.71" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="466.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="325.3975">getSunriseInUTC(WeatherLocation, long): long</text>
+<ellipse cx="1704.5" cy="479.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="482.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="381.4453">getSunriseInUTC(WeatherLocation, WeatherInfo): long</text>
+<ellipse cx="1704.5" cy="495.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="498.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="304.9033">getCivilTwilightMorning(Riseset, long): long</text>
+<ellipse cx="1704.5" cy="511.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="514.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="373.208">getCivilTwilightMorning(WeatherLocation, long): long</text>
+<ellipse cx="1704.5" cy="527.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="531.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="429.2559">getCivilTwilightMorning(WeatherLocation, WeatherInfo): long</text>
+<ellipse cx="1704.5" cy="544.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="547.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="304.2471">getCivilTwilightEvening(Riseset, long): long</text>
+<ellipse cx="1704.5" cy="560.49" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="563.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="372.5518">getCivilTwilightEvening(WeatherLocation, long): long</text>
+<ellipse cx="1704.5" cy="576.79" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="580.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="428.5996">getCivilTwilightEvening(WeatherLocation, WeatherInfo): long</text>
+<ellipse cx="1704.5" cy="593.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="596.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="272.5146">getMoonRiseInUTC(Riseset, long): long</text>
+<ellipse cx="1704.5" cy="609.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="612.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="340.8193">getMoonRiseInUTC(WeatherLocation, long): long</text>
+<ellipse cx="1704.5" cy="625.68" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="629.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="396.8672">getMoonRiseInUTC(WeatherLocation, WeatherInfo): long</text>
+<ellipse cx="1704.5" cy="641.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="645.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="265.9795">getMoonSetInUTC(Riseset, long): long</text>
+<ellipse cx="1704.5" cy="658.27" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="661.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="334.2842">getMoonSetInUTC(WeatherLocation, long): long</text>
+<ellipse cx="1704.5" cy="674.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="677.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="390.332">getMoonSetInUTC(WeatherLocation, WeatherInfo): long</text>
+<ellipse cx="1704.5" cy="690.87" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="694.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228.5391">getMoonPhaseDay(long): double</text>
+<ellipse cx="1704.5" cy="707.16" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="710.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="200.8945">getMoonPhase(long): double</text>
+<ellipse cx="1704.5" cy="723.46" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="726.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242.9902">getMoonPhaseInDegrees(long): int</text>
+<ellipse cx="1704.5" cy="739.76" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="743.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="363.7744">isSunriseInIntervalUTC(Riseset, long, long): boolean</text>
+<ellipse cx="1704.5" cy="756.05" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="759.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="359.6182">isSunsetInIntervalUTC(Riseset, long, long): boolean</text>
+<ellipse cx="1704.5" cy="772.35" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="775.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="229.4619">toHourMinuteString(long): String</text>
+<ellipse cx="1704.5" cy="788.65" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="791.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="240.7822">toFullDateTimeString(long): String</text>
+<ellipse cx="1704.5" cy="804.95" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="808.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="208.8857">getWindUnitString(int): String</text>
+<ellipse cx="1704.5" cy="821.24" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="824.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="365.5244">getWindString(Context, CurrentWeatherInfo): String</text>
+<ellipse cx="1704.5" cy="837.54" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="840.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="328.4326">removeForecastsFromDatabase(Context): void</text>
+<ellipse cx="1704.5" cy="853.84" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="857.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="324.0234">getSimpleDateFormat(int): SimpleDateFormat</text>
+<ellipse cx="1704.5" cy="870.13" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="873.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="332.5273">GetDateString(SimpleDateFormat, long): String</text>
+<ellipse cx="1704.5" cy="886.43" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="1713.5" y="889.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="309.3125">suitableNetworkAvailable(Context): boolean</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherLocation" data-source-line="66" data-uid="ent0003">
+<a href="Weather.WeatherLocation.html" target="_top" title="Weather.WeatherLocation.html" xlink:actuate="onRequest" xlink:href="Weather.WeatherLocation.html" xlink:show="new" xlink:title="Weather.WeatherLocation.html" xlink:type="simple">
+<rect x="6" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="66.3354" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="183.4424">Weather.WeatherLocation</text>
+<text x="35" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherLocationFinder" data-source-line="67" data-uid="ent0004">
+<a href="Weather.WeatherLocationFinder.html" target="_top" title="Weather.WeatherLocationFinder.html" xlink:actuate="onRequest" xlink:href="Weather.WeatherLocationFinder.html" xlink:show="new" xlink:title="Weather.WeatherLocationFinder.html" xlink:type="simple">
+<rect x="302" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="317" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m319.97 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="340.2998" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="227.5137">Weather.WeatherLocationFinder</text>
+<text x="331" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.Units" data-source-line="68" data-uid="ent0005">
+<a href="Weather.Units.html" target="_top" title="Weather.Units.html" xlink:actuate="onRequest" xlink:href="Weather.Units.html" xlink:show="new" xlink:title="Weather.Units.html" xlink:type="simple">
+<rect x="598" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="613" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m615.97 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="700.0518" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="100.0098">Weather.Units</text>
+<text x="627" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="e" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherItem" data-source-line="69" data-uid="ent0006">
+<a href="Weather.WeatherItem.html" target="_top" title="Weather.WeatherItem.html" xlink:actuate="onRequest" xlink:href="Weather.WeatherItem.html" xlink:show="new" xlink:title="Weather.WeatherItem.html" xlink:type="simple">
+<rect x="894" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="909" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m911.97 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="968.1304" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="155.8525">Weather.WeatherItem</text>
+<text x="923" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="f" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.Clouds" data-source-line="70" data-uid="ent0007">
+<a href="Weather.Clouds.html" target="_top" title="Weather.Clouds.html" xlink:actuate="onRequest" xlink:href="Weather.Clouds.html" xlink:show="new" xlink:title="Weather.Clouds.html" xlink:type="simple">
+<rect x="1190" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1205" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1208 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1286.3062" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="111.501">Weather.Clouds</text>
+<text x="1219" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="g" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherInfo" data-source-line="71" data-uid="ent0008">
+<a href="Weather.WeatherInfo.html" target="_top" title="Weather.WeatherInfo.html" xlink:actuate="onRequest" xlink:href="Weather.WeatherInfo.html" xlink:show="new" xlink:title="Weather.WeatherInfo.html" xlink:type="simple">
+<rect x="1486" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1501" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1504 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1562.8169" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="150.4795">Weather.WeatherInfo</text>
+<text x="1515" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="h" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.RiseSetTimes" data-source-line="72" data-uid="ent0009">
+<a href="Weather.RiseSetTimes.html" target="_top" title="Weather.RiseSetTimes.html" xlink:actuate="onRequest" xlink:href="Weather.RiseSetTimes.html" xlink:show="new" xlink:title="Weather.RiseSetTimes.html" xlink:type="simple">
+<rect x="1782" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1797" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1800 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1854.6982" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="158.7168">Weather.RiseSetTimes</text>
+<text x="1811" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="i" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.DisplayLayout" data-source-line="73" data-uid="ent0010">
+<a href="Weather.DisplayLayout.html" target="_top" title="Weather.DisplayLayout.html" xlink:actuate="onRequest" xlink:href="Weather.DisplayLayout.html" xlink:show="new" xlink:title="Weather.DisplayLayout.html" xlink:type="simple">
+<rect x="2078" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="2093" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2096 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2148.3501" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="163.4131">Weather.DisplayLayout</text>
+<text x="2107" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="j" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WindDisplayType" data-source-line="74" data-uid="ent0011">
+<a href="Weather.WindDisplayType.html" target="_top" title="Weather.WindDisplayType.html" xlink:actuate="onRequest" xlink:href="Weather.WindDisplayType.html" xlink:show="new" xlink:title="Weather.WindDisplayType.html" xlink:type="simple">
+<rect x="2374" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="2389" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2392 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2433.2314" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="185.6504">Weather.WindDisplayType</text>
+<text x="2403" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="k" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WindDisplayUnit" data-source-line="75" data-uid="ent0012">
+<a href="Weather.WindDisplayUnit.html" target="_top" title="Weather.WindDisplayUnit.html" xlink:actuate="onRequest" xlink:href="Weather.WindDisplayUnit.html" xlink:show="new" xlink:title="Weather.WindDisplayUnit.html" xlink:type="simple">
+<rect x="2670" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="2685" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2688 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2732.1504" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="179.8125">Weather.WindDisplayUnit</text>
+<text x="2699" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="l" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.DistanceDisplayUnit" data-source-line="76" data-uid="ent0013">
+<a href="Weather.DistanceDisplayUnit.html" target="_top" title="Weather.DistanceDisplayUnit.html" xlink:actuate="onRequest" xlink:href="Weather.DistanceDisplayUnit.html" xlink:show="new" xlink:title="Weather.DistanceDisplayUnit.html" xlink:type="simple">
+<rect x="2966" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="2981" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2984 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="3015.2886" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="205.5361">Weather.DistanceDisplayUnit</text>
+<text x="2995" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="m" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WindData" data-source-line="77" data-uid="ent0014">
+<a href="Weather.WindData.html" target="_top" title="Weather.WindData.html" xlink:actuate="onRequest" xlink:href="Weather.WindData.html" xlink:show="new" xlink:title="Weather.WindData.html" xlink:type="simple">
+<rect x="3262" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="3277" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m3280 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="3347.4883" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="133.1367">Weather.WindData</text>
+<text x="3291" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="n" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.SimpleDateFormats" data-source-line="78" data-uid="ent0015">
+<a href="Weather.SimpleDateFormats.html" target="_top" title="Weather.SimpleDateFormats.html" xlink:actuate="onRequest" xlink:href="Weather.SimpleDateFormats.html" xlink:show="new" xlink:title="Weather.SimpleDateFormats.html" xlink:type="simple">
+<rect x="3558" y="933" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="3573" cy="951.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m3576 957.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="3608.6284" y="950.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="202.8564">Weather.SimpleDateFormats</text>
+<text x="3587" y="963.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="o" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherLocation" data-uid="lnk16">
+<ellipse cx="1685.7" cy="521.16" rx="8" ry="8" fill="#fff"/>
+<line x1="1677.9" x2="1693.4" y1="523.31" y2="519.01"/>
+<line x1="1683.5" x2="1687.8" y1="513.46" y2="528.87"/>
+<path d="m1677.9 523.31c-408.33 113.92-1229.5 343.03-1468.1 409.6" fill="none"/>
+</g>
+<g id="p" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherLocationFinder" data-uid="lnk17">
+<ellipse cx="1685.8" cy="534.24" rx="8" ry="8" fill="#fff"/>
+<line x1="1678.2" x2="1693.4" y1="536.78" y2="531.7"/>
+<line x1="1683.3" x2="1688.4" y1="526.65" y2="541.83"/>
+<path d="m1678.2 536.78c-351.79 117.78-991.89 332.08-1183.4 396.19" fill="none"/>
+</g>
+<g id="q" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.Units" data-uid="lnk18">
+<ellipse cx="1686" cy="553.83" rx="8" ry="8" fill="#fff"/>
+<line x1="1678.7" x2="1693.4" y1="556.92" y2="550.74"/>
+<line x1="1682.9" x2="1689.1" y1="546.45" y2="561.21"/>
+<path d="m1678.7 556.92c-289.01 120.95-752.91 315.09-898.4 375.98" fill="none"/>
+</g>
+<g id="r" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherItem" data-uid="lnk19">
+<ellipse cx="1686.5" cy="586.36" rx="8" ry="8" fill="#fff"/>
+<line x1="1679.5" x2="1693.5" y1="590.26" y2="582.46"/>
+<line x1="1682.6" x2="1690.4" y1="579.37" y2="593.34"/>
+<path d="m1679.5 590.26c-217.88 121.58-513.87 286.74-613.98 342.6" fill="none"/>
+</g>
+<g id="s" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.Clouds" data-uid="lnk20">
+<ellipse cx="1687.3" cy="651.14" rx="8" ry="8" fill="#fff"/>
+<line x1="1681.1" x2="1693.4" y1="656.28" y2="646.01"/>
+<line x1="1682.1" x2="1692.4" y1="645.01" y2="657.28"/>
+<path d="m1681.1 656.28c-133.62 111.84-274.63 229.87-330.4 276.55" fill="none"/>
+</g>
+<g id="t" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WeatherInfo" data-uid="lnk21">
+<ellipse cx="1689.4" cy="843.26" rx="8" ry="8" fill="#fff"/>
+<line x1="1685.3" x2="1693.5" y1="850.12" y2="836.39"/>
+<line x1="1682.5" x2="1696.2" y1="839.15" y2="847.36"/>
+<path d="m1685.3 850.12c-25.091 42.002-37.638 63.006-49.495 82.855" fill="none"/>
+</g>
+<g id="u" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.RiseSetTimes" data-uid="lnk22">
+<ellipse cx="1921" cy="905.03" rx="8" ry="8" fill="#fff"/>
+<line x1="1921" x2="1921" y1="913.03" y2="897.03"/>
+<line x1="1913" x2="1929" y1="905.03" y2="905.03"/>
+<path d="m1921 913.03v19.711" fill="none"/>
+</g>
+<g id="v" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.DisplayLayout" data-uid="lnk23">
+<ellipse cx="2152.6" cy="843.26" rx="8" ry="8" fill="#fff"/>
+<line x1="2156.7" x2="2148.5" y1="850.12" y2="836.39"/>
+<line x1="2145.8" x2="2159.5" y1="847.36" y2="839.15"/>
+<path d="m2156.7 850.12c25.091 42.002 37.638 63.006 49.495 82.855" fill="none"/>
+</g>
+<g id="w" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WindDisplayType" data-uid="lnk24">
+<ellipse cx="2154.7" cy="651.14" rx="8" ry="8" fill="#fff"/>
+<line x1="2160.9" x2="2148.6" y1="656.28" y2="646.01"/>
+<line x1="2149.6" x2="2159.9" y1="657.28" y2="645.01"/>
+<path d="m2160.9 656.28c133.62 111.84 274.63 229.87 330.4 276.55" fill="none"/>
+</g>
+<g id="x" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WindDisplayUnit" data-uid="lnk25">
+<ellipse cx="2155.5" cy="586.36" rx="8" ry="8" fill="#fff"/>
+<line x1="2162.5" x2="2148.5" y1="590.26" y2="582.46"/>
+<line x1="2151.6" x2="2159.4" y1="593.34" y2="579.37"/>
+<path d="m2162.5 590.26c217.88 121.58 513.87 286.74 613.98 342.6" fill="none"/>
+</g>
+<g id="y" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.DistanceDisplayUnit" data-uid="lnk26">
+<ellipse cx="2156" cy="553.83" rx="8" ry="8" fill="#fff"/>
+<line x1="2163.3" x2="2148.6" y1="556.92" y2="550.74"/>
+<line x1="2152.9" x2="2159.1" y1="561.21" y2="546.45"/>
+<path d="m2163.3 556.92c289.01 120.95 752.91 315.09 898.4 375.98" fill="none"/>
+</g>
+<g id="z" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.WindData" data-uid="lnk27">
+<ellipse cx="2156.2" cy="534.24" rx="8" ry="8" fill="#fff"/>
+<line x1="2163.8" x2="2148.6" y1="536.78" y2="531.7"/>
+<line x1="2153.6" x2="2158.7" y1="541.83" y2="526.65"/>
+<path d="m2163.8 536.78c351.79 117.78 991.89 332.08 1183.4 396.19" fill="none"/>
+</g>
+<g id="aa" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.SimpleDateFormats" data-uid="lnk28">
+<ellipse cx="2156.3" cy="521.16" rx="8" ry="8" fill="#fff"/>
+<line x1="2164.1" x2="2148.6" y1="523.31" y2="519.01"/>
+<line x1="2154.2" x2="2158.5" y1="528.87" y2="513.46"/>
+<path d="m2164.1 523.31c408.33 113.92 1229.5 343.03 1468.1 409.6" fill="none"/>
+</g>
+<g class="footer" data-source-line="100">
+<text x="1915.9106" y="974.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="1876.3452" y="985.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

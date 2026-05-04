@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2779px" height="149px" style="background:transparent;height:149px;width:2779px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 2779 149" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-source-line="13" data-uid="ent0002">
+<a href="APIReaders.html" target="_top" title="APIReaders.html" xlink:actuate="onRequest" xlink:href="APIReaders.html" xlink:show="new" xlink:title="APIReaders.html" xlink:type="simple">
+<rect x="1308" y="12" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1323" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1326 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1420.2476" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79.6182">APIReaders</text>
+<text x="1337" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WeatherWarningsRunnable" data-source-line="14" data-uid="ent0003">
+<a href="APIReaders.WeatherWarningsRunnable.html" target="_top" title="APIReaders.WeatherWarningsRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.WeatherWarningsRunnable.html" xlink:show="new" xlink:title="APIReaders.WeatherWarningsRunnable.html" xlink:type="simple">
+<rect x="6" y="86" width="308.14" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="35" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="276.1445">APIReaders.WeatherWarningsRunnable</text>
+<text x="50.0156" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WeatherForecastRunnable" data-source-line="15" data-uid="ent0004">
+<a href="APIReaders.WeatherForecastRunnable.html" target="_top" title="APIReaders.WeatherForecastRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.WeatherForecastRunnable.html" xlink:show="new" xlink:title="APIReaders.WeatherForecastRunnable.html" xlink:type="simple">
+<rect x="332" y="86" width="302.2" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="347" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m349.97 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="361" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="270.1973">APIReaders.WeatherForecastRunnable</text>
+<text x="373.042" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.TextForecastRunnable" data-source-line="16" data-uid="ent0005">
+<a href="APIReaders.TextForecastRunnable.html" target="_top" title="APIReaders.TextForecastRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.TextForecastRunnable.html" xlink:show="new" xlink:title="APIReaders.TextForecastRunnable.html" xlink:type="simple">
+<rect x="652" y="86" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="667" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m669.97 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="683.3716" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="241.3701">APIReaders.TextForecastRunnable</text>
+<text x="681" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="e" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.RadarMNSetGeoserverRunnable" data-source-line="17" data-uid="ent0006">
+<a href="APIReaders.RadarMNSetGeoserverRunnable.html" target="_top" title="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:show="new" xlink:title="APIReaders.RadarMNSetGeoserverRunnable.html" xlink:type="simple">
+<rect x="948" y="86" width="341.8" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="963" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m965.97 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="977" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="309.7979">APIReaders.RadarMNSetGeoserverRunnable</text>
+<text x="1008.8423" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="f" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.getLayerImages" data-source-line="18" data-uid="ent0007">
+<a href="APIReaders.getLayerImages.html" target="_top" title="APIReaders.getLayerImages.html" xlink:actuate="onRequest" xlink:href="APIReaders.getLayerImages.html" xlink:show="new" xlink:title="APIReaders.getLayerImages.html" xlink:type="simple">
+<rect x="1308" y="86" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1323" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1326 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1361.4414" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="197.2305">APIReaders.getLayerImages</text>
+<text x="1337" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="g" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.PollenReader" data-source-line="19" data-uid="ent0008">
+<a href="APIReaders.PollenReader.html" target="_top" title="APIReaders.PollenReader.html" xlink:actuate="onRequest" xlink:href="APIReaders.PollenReader.html" xlink:show="new" xlink:title="APIReaders.PollenReader.html" xlink:type="simple">
+<rect x="1604" y="86" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1619" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1622 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1667.7979" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="176.5176">APIReaders.PollenReader</text>
+<text x="1633" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="h" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.PollenAreaReader" data-source-line="20" data-uid="ent0009">
+<a href="APIReaders.PollenAreaReader.html" target="_top" title="APIReaders.PollenAreaReader.html" xlink:actuate="onRequest" xlink:href="APIReaders.PollenAreaReader.html" xlink:show="new" xlink:title="APIReaders.PollenAreaReader.html" xlink:type="simple">
+<rect x="1900" y="86" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1915" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1918 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1947.5352" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="209.043">APIReaders.PollenAreaReader</text>
+<text x="1929" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="i" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WarnAreasReader" data-source-line="21" data-uid="ent0010">
+<a href="APIReaders.WarnAreasReader.html" target="_top" title="APIReaders.WarnAreasReader.html" xlink:actuate="onRequest" xlink:href="APIReaders.WarnAreasReader.html" xlink:show="new" xlink:title="APIReaders.WarnAreasReader.html" xlink:type="simple">
+<rect x="2196" y="86" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="2211" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2214 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2242.4995" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="211.1143">APIReaders.WarnAreasReader</text>
+<text x="2225" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="j" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.GetUvIndexForLocation" data-source-line="22" data-uid="ent0011">
+<a href="APIReaders.GetUvIndexForLocation.html" target="_top" title="APIReaders.GetUvIndexForLocation.html" xlink:actuate="onRequest" xlink:href="APIReaders.GetUvIndexForLocation.html" xlink:show="new" xlink:title="APIReaders.GetUvIndexForLocation.html" xlink:type="simple">
+<rect x="2492" y="86" width="280.17" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="2507" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2510 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2521" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="248.1719">APIReaders.GetUvIndexForLocation</text>
+<text x="2522.0293" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="k" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WeatherWarningsRunnable" data-uid="lnk12">
+<ellipse cx="1300" cy="36.156" rx="8" ry="8" fill="#fff"/>
+<line x1="1292" x2="1308" y1="36.404" y2="35.908"/>
+<line x1="1299.7" x2="1300.2" y1="28.16" y2="44.152"/>
+<path d="m1292 36.404c-212.51 6.5987-614.75 21.556-968.96 49.596-2.8382 0.2247-5.7034 0.4593-8.5891 0.7026" fill="none"/>
+</g>
+<g id="l" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WeatherForecastRunnable" data-uid="lnk13">
+<ellipse cx="1299.8" cy="39.895" rx="8" ry="8" fill="#fff"/>
+<line x1="1291.8" x2="1307.8" y1="40.345" y2="39.446"/>
+<line x1="1299.3" x2="1300.2" y1="31.908" y2="47.883"/>
+<path d="m1291.8 40.345c-160.43 9.0221-415.93 24.747-648.8 45.655-2.9233 0.2625-5.876 0.5337-8.8507 0.8125" fill="none"/>
+</g>
+<g id="m" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.TextForecastRunnable" data-uid="lnk14">
+<ellipse cx="1299.9" cy="47.041" rx="8" ry="8" fill="#fff"/>
+<line x1="1292" x2="1307.9" y1="47.865" y2="46.217"/>
+<line x1="1299.1" x2="1300.7" y1="39.084" y2="54.998"/>
+<path d="m1292 47.865c-102.12 10.575-228.26 23.926-352.95 38.135-2.9575 0.337-5.9479 0.6801-8.9624 1.028" fill="none"/>
+</g>
+<g id="n" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.RadarMNSetGeoserverRunnable" data-uid="lnk15">
+<ellipse cx="1356.8" cy="51.791" rx="8" ry="8" fill="#fff"/>
+<line x1="1349" x2="1364.7" y1="53.506" y2="50.076"/>
+<line x1="1355.1" x2="1358.6" y1="43.977" y2="59.605"/>
+<path d="m1349 53.506c-50.003 10.976-97.975 21.507-147.93 32.473" fill="none"/>
+</g>
+<g id="o" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.getLayerImages" data-uid="lnk16">
+<ellipse cx="1447" cy="58.169" rx="8" ry="8" fill="#fff"/>
+<line x1="1447" x2="1447" y1="66.169" y2="50.169"/>
+<line x1="1439" x2="1455" y1="58.169" y2="58.169"/>
+<path d="m1447 66.169v19.418" fill="none"/>
+</g>
+<g id="p" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.PollenReader" data-uid="lnk17">
+<ellipse cx="1529.1" cy="51.966" rx="8" ry="8" fill="#fff"/>
+<line x1="1536.9" x2="1521.3" y1="53.857" y2="50.076"/>
+<line x1="1527.2" x2="1531" y1="59.74" y2="44.193"/>
+<path d="m1536.9 53.857c45.125 10.976 86.973 21.156 132.06 32.122" fill="none"/>
+</g>
+<g id="q" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.PollenAreaReader" data-uid="lnk18">
+<ellipse cx="1594.1" cy="49.892" rx="8" ry="8" fill="#fff"/>
+<line x1="1602.1" x2="1586.2" y1="50.858" y2="48.926"/>
+<line x1="1593.1" x2="1595.1" y1="57.834" y2="41.951"/>
+<path d="m1602.1 50.858c94.592 11.504 203.34 24.731 297.91 36.232" fill="none"/>
+</g>
+<g id="r" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WarnAreasReader" data-uid="lnk19">
+<ellipse cx="1594.3" cy="40.649" rx="8" ry="8" fill="#fff"/>
+<line x1="1602.3" x2="1586.3" y1="41.142" y2="40.156"/>
+<line x1="1593.8" x2="1594.8" y1="48.634" y2="32.664"/>
+<path d="m1602.3 41.142c148.87 9.187 375.76 24.537 584.75 44.858 2.9627 0.2881 5.9578 0.5866 8.9765 0.8941" fill="none"/>
+</g>
+<g id="s" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.GetUvIndexForLocation" data-uid="lnk20">
+<ellipse cx="1594.3" cy="36.516" rx="8" ry="8" fill="#fff"/>
+<line x1="1602.3" x2="1586.3" y1="36.787" y2="36.245"/>
+<line x1="1594" x2="1594.6" y1="44.512" y2="28.521"/>
+<path d="m1602.3 36.787c199.1 6.7529 560.42 21.551 880.72 49.213 2.8555 0.2466 5.7408 0.5053 8.6479 0.7745" fill="none"/>
+</g>
+<g class="footer" data-source-line="40">
+<text x="1383.9106" y="127.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="1344.3452" y="138.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

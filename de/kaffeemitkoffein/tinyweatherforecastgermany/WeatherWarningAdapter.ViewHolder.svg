@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="303px" height="149px" style="background:transparent;height:149px;width:303px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 303 149" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherWarningAdapter.ViewHolder" data-source-line="13" data-uid="ent0002">
+<a href="WeatherWarningAdapter.ViewHolder.html" target="_top" title="WeatherWarningAdapter.ViewHolder.html" xlink:actuate="onRequest" xlink:href="WeatherWarningAdapter.ViewHolder.html" xlink:show="new" xlink:title="WeatherWarningAdapter.ViewHolder.html" xlink:type="simple">
+<rect x="6" y="86" width="290.47" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="35" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="258.4736">WeatherWarningAdapter.ViewHolder</text>
+<text x="41.1802" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherWarningAdapter" data-source-line="16" data-uid="ent0003">
+<a href="WeatherWarningAdapter.html" target="_top" title="WeatherWarningAdapter.html" xlink:actuate="onRequest" xlink:href="WeatherWarningAdapter.html" xlink:show="new" xlink:title="WeatherWarningAdapter.html" xlink:type="simple">
+<rect x="12" y="12" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="27" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m29.969 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="76.9292" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="174.2549">WeatherWarningAdapter</text>
+<text x="41" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherWarningAdapter" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherWarningAdapter.ViewHolder" data-uid="lnk4">
+<ellipse cx="151" cy="58.169" rx="8" ry="8" fill="#fff"/>
+<line x1="151" x2="151" y1="66.169" y2="50.169"/>
+<line x1="143" x2="159" y1="58.169" y2="58.169"/>
+<path d="m151 66.169v19.418" fill="none"/>
+</g>
+<g class="footer" data-source-line="26">
+<text x="145.9106" y="127.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="106.3452" y="138.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

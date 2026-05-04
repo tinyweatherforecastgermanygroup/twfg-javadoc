@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="535px" height="326px" style="background:transparent;height:326px;width:535px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 535 326" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="nodomain.freeyourgadget.gadgetbridge.model.WeatherSpec.Forecast" data-source-line="13" data-uid="ent0002">
+<a href="WeatherSpec.Forecast.html" target="_top" title="WeatherSpec.Forecast.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.Forecast.html" xlink:show="new" xlink:title="WeatherSpec.Forecast.html" xlink:type="simple">
+<rect x="51.5" y="86" width="267.58" height="214.58" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="66.5" cy="111.95" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m69.469 117.59q-0.5782 0.2968-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6563-1.3125-4.7813t1.3125-4.7812q1.3282-1.6563 3.8282-1.6563 0.7031 0 1.3437 0.1563 0.6563 0.1562 1.2188 0.4531v2.7188q-0.625-0.5782-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1562 0 2.0938 0.6875 3.1719 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2813 1.2188-0.8594v2.7188z"/>
+<text x="156.6514" y="102.1387" fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" textLength="83.2734">«deprecated»</text>
+<text x="119.1143" y="117.9639" fill="#000000" font-family="sans-serif" font-size="14" textLength="158.3477">WeatherSpec.Forecast</text>
+<text x="80.5" y="130.5479" fill="#000000" font-family="sans-serif" font-size="10" textLength="235.5762">nodomain.freeyourgadget.gadgetbridge.model</text>
+<line x1="52.5" x2="318.08" y1="137.91" y2="137.91" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="62.5" cy="151.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="71.5" y="154.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="125.5898">CREATOR: &lt;any&gt;</text>
+<ellipse cx="62.5" cy="167.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="71.5" y="171.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="93.5088">minTemp: int</text>
+<ellipse cx="62.5" cy="184.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="71.5" y="187.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="97.6104">maxTemp: int</text>
+<ellipse cx="62.5" cy="200.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="71.5" y="203.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="127.9893">conditionCode: int</text>
+<ellipse cx="62.5" cy="216.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="71.5" y="220.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="89.2432">humidity: int</text>
+<line x1="52.5" x2="318.08" y1="227.39" y2="227.39" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="62.5" cy="241.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="71.5" y="244.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="70.9707">Forecast()</text>
+<ellipse cx="62.5" cy="257.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="71.5" y="260.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="170.6797">Forecast(int, int, int, int)</text>
+<ellipse cx="62.5" cy="273.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="71.5" y="276.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="160.9521">describeContents(): int</text>
+<ellipse cx="62.5" cy="289.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="71.5" y="293.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="215.1406">writeToParcel(Parcel, int): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="Parcelable" data-source-line="25" data-uid="ent0003">
+<rect x="6" y="15" width="104.95" height="32" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="31" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m16.922 26.766v-2.1562h7.3906v2.1562h-2.4687v8.0782h2.4687v2.1562h-7.3906v-2.1562h2.4687v-8.0782h-2.4687z"/>
+<text x="35" y="35.8467" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="72.9463">Parcelable</text>
+</g>
+<g id="c" class="entity" data-entity="java.io.Serializable" data-source-line="26" data-uid="ent0004">
+<rect x="129" y="12" width="112.82" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="144" cy="30.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m139.92 26.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="158" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="80.8213">Serializable</text>
+<text x="181.897" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="33.0273">java.io</text>
+</g>
+<g id="d" class="entity" data-entity="nodomain.freeyourgadget.gadgetbridge.model.WeatherSpec" data-source-line="27" data-uid="ent0005">
+<a href="WeatherSpec.html" target="_top" title="WeatherSpec.html" xlink:actuate="onRequest" xlink:href="WeatherSpec.html" xlink:show="new" xlink:title="WeatherSpec.html" xlink:type="simple">
+<rect x="260.5" y="12" width="267.58" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="275.5" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m278.47 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="360.3628" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="93.8506">WeatherSpec</text>
+<text x="289.5" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="235.5762">nodomain.freeyourgadget.gadgetbridge.model</text>
+</a>
+</g>
+<g id="e" class="link" fill="none" stroke="#181818" data-entity-1="Parcelable" data-entity-2="nodomain.freeyourgadget.gadgetbridge.model.WeatherSpec.Forecast" data-uid="lnk6">
+<polygon points="70.448 47.1 76.912 64.938 86.322 57.492"/>
+<path d="m81.617 61.215c7.7803 9.8325 7.5297 9.5159 19.571 24.733" stroke-dasharray="7,7"/>
+</g>
+<g id="f" class="link" fill="none" stroke="#181818" data-entity-1="java.io.Serializable" data-entity-2="nodomain.freeyourgadget.gadgetbridge.model.WeatherSpec.Forecast" data-uid="lnk7">
+<polygon points="185.5 50.099 179.5 68.099 191.5 68.099"/>
+<path d="m185.5 68.099v17.683" stroke-dasharray="7,7"/>
+</g>
+<g id="g" class="link" stroke="#181818" data-entity-1="nodomain.freeyourgadget.gadgetbridge.model.WeatherSpec" data-entity-2="nodomain.freeyourgadget.gadgetbridge.model.WeatherSpec.Forecast" data-uid="lnk8">
+<ellipse cx="364.59" cy="54.972" rx="8" ry="8" fill="#fff"/>
+<line x1="358.24" x2="370.93" y1="59.844" y2="50.099"/>
+<line x1="359.71" x2="369.46" y1="48.627" y2="61.317"/>
+<path d="m358.24 59.844c-13.451 10.33-18.822 14.454-38.409 29.496" fill="none"/>
+</g>
+<g class="footer" data-source-line="39">
+<text x="262.1606" y="304.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="222.5952" y="315.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

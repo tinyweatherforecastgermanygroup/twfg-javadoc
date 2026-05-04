@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="221px" style="background:transparent;height:221px;width:400px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 400 221" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.NumberPickerPreference" data-source-line="13" data-uid="ent0002">
+<a href="NumberPickerPreference.html" target="_top" title="NumberPickerPreference.html" xlink:actuate="onRequest" xlink:href="NumberPickerPreference.html" xlink:show="new" xlink:title="NumberPickerPreference.html" xlink:type="simple">
+<rect x="6" y="12" width="387.77" height="184.31" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="72.579" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m75.548 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="128.8101" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="174.6514">NumberPickerPreference</text>
+<text x="93.0791" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="392.77" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="135.0986">minValues: String[]</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="139.2002">maxValues: String[]</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="130.7305">arcValues: String[]</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="140.7656">hourValues: String[]</text>
+<line x1="7" x2="392.77" y1="123.12" y2="123.12" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="136.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="140.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="361.7715">NumberPickerPreference(Context, AttributeSet, int)</text>
+<ellipse cx="17" cy="153.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="156.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="334.6191">NumberPickerPreference(Context, AttributeSet)</text>
+<polygon points="17 164.37 21 168.37 17 172.37 13 168.37" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="172.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="196.0068">onCreateDialogView(): View</text>
+<polygon points="17 180.66 21 184.66 17 188.66 13 184.66" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="189.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="214.7441">onDialogClosed(boolean): void</text>
+</a>
+</g>
+<g class="footer" data-source-line="30">
+<text x="194.9106" y="199.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="155.3452" y="210.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

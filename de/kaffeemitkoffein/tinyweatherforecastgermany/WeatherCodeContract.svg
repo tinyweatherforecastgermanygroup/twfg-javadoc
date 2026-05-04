@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="766px" height="801px" style="background:transparent;height:801px;width:766px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 766 801" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherCodeContract" data-source-line="13" data-uid="ent0002">
+<a href="WeatherCodeContract.html" target="_top" title="WeatherCodeContract.html" xlink:actuate="onRequest" xlink:href="WeatherCodeContract.html" xlink:show="new" xlink:title="WeatherCodeContract.html" xlink:type="simple">
+<rect x="137.5" y="12" width="508.68" height="689.52" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="264.53" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m267.5 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="330.1733" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="155.832">WeatherCodeContract</text>
+<text x="285.0327" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="138.5" x2="645.18" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="148.5" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="140.9502">NOT_AVAILABLE: int</text>
+<ellipse cx="148.5" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="482.6787">SLIGHT_OR_MODERATE_THUNDERSTORM_WITH_RAIN_OR_SNOW: int</text>
+<ellipse cx="148.5" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="333.6484">DRIZZLE_FREEZING_MODERATE_OR_HEAVY: int</text>
+<ellipse cx="148.5" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="223.1387">DRIZZLE_FREEZING_SLIGHT: int</text>
+<ellipse cx="148.5" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="307.0908">RAIN_FREEZING_MODERATE_OR_HEAVY: int</text>
+<ellipse cx="148.5" cy="145.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="196.5811">RAIN_FREEZING_SLIGHT: int</text>
+<ellipse cx="148.5" cy="161.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="318.6299">SNOW_SHOWERS_MODERATE_OR_HEAVY: int</text>
+<ellipse cx="148.5" cy="177.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="208.1201">SNOW_SHOWERS_SLIGHT: int</text>
+<ellipse cx="148.5" cy="193.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="475.8633">SHOWERS_OF_RAIN_AND_SNOW_MIXED_MODERATE_OR_HEAVY: int</text>
+<ellipse cx="148.5" cy="210.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="365.3535">SHOWERS_OF_RAIN_AND_SNOW_MIXED_SLIGHT: int</text>
+<ellipse cx="148.5" cy="226.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="229.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="275.0918">EXTREMELY_HEAVY_RAIN_SHOWER: int</text>
+<ellipse cx="148.5" cy="242.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="246.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="308.3145">MODERATE_OR_HEAVY_RAIN_SHOWERS: int</text>
+<ellipse cx="148.5" cy="259.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="262.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="188.918">SLIGHT_RAIN_SHOWER: int</text>
+<ellipse cx="148.5" cy="275.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="278.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="260.7705">HEAVY_SNOWFALL_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="291.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="295.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="293.1182">MODERATE_SNOWFALL_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="308.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="311.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="264.4346">SLIGHT_SNOWFALL_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="324.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="327.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="318.6299">MODERATE_OR_HEAVY_RAIN_AND_SNOW: int</text>
+<ellipse cx="148.5" cy="340.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="343.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="208.1201">SLIGHT_RAIN_AND_SNOW: int</text>
+<ellipse cx="148.5" cy="356.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="360.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="358.3398">HEAVY_DRIZZLE_NOT_FREEZING_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="373.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="376.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="390.6875">MODERATE_DRIZZLE_NOT_FREEZING_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="389.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="392.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="362.0039">SLIGHT_DRIZZLE_NOT_FREEZING_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="405.82" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="409.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="331.7822">HEAVY_RAIN_NOT_FREEZING_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="422.12" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="425.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="364.1299">MODERATE_RAIN_NOT_FREEZING_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="438.41" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="441.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="335.4463">SLIGHT_RAIN_NOT_FREEZING_CONTINUOUS: int</text>
+<ellipse cx="148.5" cy="454.71" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="458.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="274.9893">ICE_FOG_SKY_NOT_RECOGNIZABLE: int</text>
+<ellipse cx="148.5" cy="471.01" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="474.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="245.2393">FOG_SKY_NOT_RECOGNIZABLE: int</text>
+<ellipse cx="148.5" cy="487.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="490.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="322.2666">EFFECTIVE_CLOUD_COVER_AT_LEAST_7_8: int</text>
+<ellipse cx="148.5" cy="503.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="506.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="401.0371">EFFECTIVE_CLOUD_COVER_BETWEEN_46_8_AND_6_8: int</text>
+<ellipse cx="148.5" cy="519.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="523.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="401.0371">EFFECTIVE_CLOUD_COVER_BETWEEN_1_8_AND_45_8: int</text>
+<ellipse cx="148.5" cy="536.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="539.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="334.0244">EFFECTIVE_CLOUD_COVER_LESS_THAN_1_8: int</text>
+<ellipse cx="148.5" cy="552.49" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="555.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="148.7295">CodePriorityList: int[]</text>
+<ellipse cx="148.5" cy="568.79" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="157.5" y="572.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="269.2197">CodePriorities: Map&lt;Integer, Integer&gt;</text>
+<line x1="138.5" x2="645.18" y1="579.44" y2="579.44" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="148.5" cy="593.09" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="596.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="269.2744">translateToOpenWeatherCode(int): int</text>
+<ellipse cx="148.5" cy="609.38" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="612.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="324.6182">getWeatherConditionText(Context, int): String</text>
+<ellipse cx="148.5" cy="625.68" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="629.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="302.2373">getWeatherConditionTextResource(int): int</text>
+<ellipse cx="148.5" cy="641.98" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="645.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="165.498">getCodePriority(int): int</text>
+<ellipse cx="148.5" cy="658.27" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="661.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242.833">hasHigherPriority(int, int): boolean</text>
+<ellipse cx="148.5" cy="674.57" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="677.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="416.3086">hasSufficientDataForIconCalculation(WeatherInfo): boolean</text>
+<ellipse cx="148.5" cy="690.87" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="157.5" y="694.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="435.4834">calculateCustomWeatherconditionFromData(WeatherInfo): int</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherCodeContract.LineageOsWeatherContract" data-source-line="54" data-uid="ent0003">
+<a href="WeatherCodeContract.LineageOsWeatherContract.html" target="_top" title="WeatherCodeContract.LineageOsWeatherContract.html" xlink:actuate="onRequest" xlink:href="WeatherCodeContract.LineageOsWeatherContract.html" xlink:show="new" xlink:title="WeatherCodeContract.LineageOsWeatherContract.html" xlink:type="simple">
+<rect x="6" y="738" width="385.84" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="756.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 762.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="35" y="755.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="353.8418">WeatherCodeContract.LineageOsWeatherContract</text>
+<text x="88.8643" y="768.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherCodeContract.OpenWeatherContract" data-source-line="55" data-uid="ent0004">
+<a href="WeatherCodeContract.OpenWeatherContract.html" target="_top" title="WeatherCodeContract.OpenWeatherContract.html" xlink:actuate="onRequest" xlink:href="WeatherCodeContract.OpenWeatherContract.html" xlink:show="new" xlink:title="WeatherCodeContract.OpenWeatherContract.html" xlink:type="simple">
+<rect x="410" y="738" width="349.67" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="425" cy="756.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m427.97 762.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="439" y="755.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="317.666">WeatherCodeContract.OpenWeatherContract</text>
+<text x="474.7764" y="768.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherCodeContract" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherCodeContract.LineageOsWeatherContract" data-uid="lnk5">
+<ellipse cx="221.54" cy="709.52" rx="8" ry="8" fill="#fff"/>
+<line x1="218.05" x2="225.03" y1="716.72" y2="702.32"/>
+<line x1="214.34" x2="228.74" y1="706.03" y2="713.01"/>
+<path d="m218.05 716.72c-6.9027 14.234-5.7663 11.891-10.158 20.947" fill="none"/>
+</g>
+<g id="e" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherCodeContract" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherCodeContract.OpenWeatherContract" data-uid="lnk6">
+<ellipse cx="562.46" cy="709.52" rx="8" ry="8" fill="#fff"/>
+<line x1="565.95" x2="558.97" y1="716.72" y2="702.32"/>
+<line x1="555.26" x2="569.66" y1="713.01" y2="706.03"/>
+<path d="m565.95 716.72c6.9027 14.234 5.7663 11.891 10.158 20.947" fill="none"/>
+</g>
+<g class="footer" data-source-line="66">
+<text x="377.9106" y="779.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="338.3452" y="790.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

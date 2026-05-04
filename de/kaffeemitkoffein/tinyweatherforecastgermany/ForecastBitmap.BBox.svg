@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="328px" style="background:transparent;height:328px;width:291px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 291 328" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.ForecastBitmap.BBox" data-source-line="13" data-uid="ent0002">
+<a href="ForecastBitmap.BBox.html" target="_top" title="ForecastBitmap.BBox.html" xlink:actuate="onRequest" xlink:href="ForecastBitmap.BBox.html" xlink:show="new" xlink:title="ForecastBitmap.BBox.html" xlink:type="simple">
+<rect x="6" y="86" width="278.11" height="216.91" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="82.7349" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="150.6436">ForecastBitmap.BBox</text>
+<text x="35" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="283.11" y1="123.94" y2="123.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="137.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="140.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="57.8115">x0: float</text>
+<ellipse cx="17" cy="153.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="157.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="57.8115">y0: float</text>
+<ellipse cx="17" cy="170.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="173.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="57.8115">x1: float</text>
+<ellipse cx="17" cy="186.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="189.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="57.8115">y1: float</text>
+<line x1="7" x2="283.11" y1="197.12" y2="197.12" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="210.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="214.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="199.4932">BBox(float, float, float, float)</text>
+<ellipse cx="17" cy="227.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="230.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="89.3594">BBox(float[])</text>
+<ellipse cx="17" cy="243.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="246.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="86.5635">BBox(RectF)</text>
+<ellipse cx="17" cy="259.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="263.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="122.2402">getRectF(): RectF</text>
+<ellipse cx="17" cy="275.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="279.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="115.5137">getWidth(): float</text>
+<ellipse cx="17" cy="292.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="295.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="120.8115">getHeight(): float</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.ForecastBitmap" data-source-line="26" data-uid="ent0003">
+<a href="ForecastBitmap.html" target="_top" title="ForecastBitmap.html" xlink:actuate="onRequest" xlink:href="ForecastBitmap.html" xlink:show="new" xlink:title="ForecastBitmap.html" xlink:type="simple">
+<rect x="6" y="12" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="102.9897" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="110.1338">ForecastBitmap</text>
+<text x="35" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.ForecastBitmap" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.ForecastBitmap.BBox" data-uid="lnk4">
+<ellipse cx="145" cy="58.212" rx="8" ry="8" fill="#fff"/>
+<line x1="145" x2="145" y1="66.212" y2="50.212"/>
+<line x1="137" x2="153" y1="58.212" y2="58.212"/>
+<path d="m145 66.212v19.55" fill="none"/>
+</g>
+<g class="footer" data-source-line="36">
+<text x="139.9106" y="306.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="100.3452" y="317.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="505px" height="336px" style="background:transparent;height:336px;width:505px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 505 336" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WeatherForecastRunnable" data-source-line="13" data-uid="ent0002">
+<a href="APIReaders.WeatherForecastRunnable.html" target="_top" title="APIReaders.WeatherForecastRunnable.html" xlink:actuate="onRequest" xlink:href="APIReaders.WeatherForecastRunnable.html" xlink:show="new" xlink:title="APIReaders.WeatherForecastRunnable.html" xlink:type="simple">
+<rect x="6" y="110" width="492.16" height="200.61" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="112.73" cy="128.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m115.7 134.61q-0.5781 0.2969-1.2187 0.4375-0.6406 0.1562-1.3438 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7032 0 1.3438 0.1562 0.6562 0.1563 1.2187 0.4531v2.7188q-0.625-0.5781-1.2187-0.8438-0.5938-0.2812-1.2188-0.2812-1.3437 0-2.0312 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0312 1.0625 0.625 0 1.2188-0.2656 0.5937-0.2812 1.2187-0.8594v2.7188z"/>
+<text x="133.2295" y="127.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="270.1973">APIReaders.WeatherForecastRunnable</text>
+<text x="145.2715" y="140.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="497.16" y1="147.94" y2="147.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="161.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="164.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="159.5303">ssl_exception: boolean</text>
+<line x1="7" x2="497.16" y1="172.23" y2="172.23" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="185.88" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="189.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="466.1563">WeatherForecastRunnable(Context, ArrayList&lt;WeatherLocation&gt;)</text>
+<ellipse cx="17" cy="202.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="205.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="402.7461">setWeatherLocations(ArrayList&lt;WeatherLocation&gt;): void</text>
+<ellipse cx="17" cy="218.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="221.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="294.9639">getLastestDMOUrl(Context, String): String</text>
+<ellipse cx="17" cy="234.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="238.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="101.3564">onStart(): void</text>
+<ellipse cx="17" cy="251.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="254.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="173.8721">onNegativeResult(): void</text>
+<ellipse cx="17" cy="267.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="270.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="165.5117">onPositiveResult(): void</text>
+<ellipse cx="17" cy="283.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="287.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="367.418">onPositiveResult(ArrayList&lt;RawWeatherInfo&gt;): void</text>
+<ellipse cx="17" cy="299.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="303.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="73.2197">run(): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="java.lang.Runnable" data-source-line="25" data-uid="ent0003">
+<rect x="99.5" y="12" width="99.22" height="62.234" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="114.91" cy="30.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m110.83 26.734v-2.1563h7.3906v2.1563h-2.4687v8.0781h2.4687v2.1563h-7.3906v-2.1563h2.4688v-8.0781h-2.4688z"/>
+<text x="128.9974" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="66.3154">Runnable</text>
+<text x="139.2938" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="45.7227">java.lang</text>
+<line x1="100.5" x2="197.72" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="110.5" cy="63.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="119.5" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="73.2197">run(): void</text>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-source-line="28" data-uid="ent0004">
+<a href="APIReaders.html" target="_top" title="APIReaders.html" xlink:actuate="onRequest" xlink:href="APIReaders.html" xlink:show="new" xlink:title="APIReaders.html" xlink:type="simple">
+<rect x="217" y="24" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="232" cy="42.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m234.97 48.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="329.2476" y="41.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="79.6182">APIReaders</text>
+<text x="246" y="54.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="link" fill="none" stroke="#181818" data-entity-1="java.lang.Runnable" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WeatherForecastRunnable" data-uid="lnk5">
+<polygon points="167.89 74.355 172.31 92.808 182.5 86.467"/>
+<path d="m177.4 89.637c6.4465 10.358 4.5401 7.2951 12.498 20.081" stroke-dasharray="7,7"/>
+</g>
+<g id="e" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.APIReaders.WeatherForecastRunnable" data-uid="lnk6">
+<ellipse cx="340.42" cy="68.8" rx="8" ry="8" fill="#fff"/>
+<line x1="336.16" x2="344.67" y1="75.574" y2="62.026"/>
+<line x1="333.64" x2="347.19" y1="64.544" y2="73.057"/>
+<path d="m336.16 75.574c-7.6862 12.232-10.011 15.932-21.579 34.34" fill="none"/>
+</g>
+<g class="footer" data-source-line="39">
+<text x="246.9106" y="314.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="207.3452" y="325.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

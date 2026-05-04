@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2371px" height="6798px" style="background:transparent;height:6798px;width:2371px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 2371 6798" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-source-line="13" data-uid="ent0002">
+<a href="WeatherSettings.html" target="_top" title="WeatherSettings.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.html" xlink:show="new" xlink:title="WeatherSettings.html" xlink:type="simple">
+<rect x="869" y="12" width="639.86" height="6686.8" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1061.6" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1064.6 36.609q-0.5781 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1146.5859" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="117.1885">WeatherSettings</text>
+<text x="1082.1235" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="870" x2="1507.9" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="880" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="187.8652">NotificationLEDcolors: int[]</text>
+<ellipse cx="880" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="177.4063">DISPLAYTYPE_1HOUR: int</text>
+<ellipse cx="880" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="186.293">DISPLAYTYPE_6HOURS: int</text>
+<ellipse cx="880" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="195.2002">DISPLAYTYPE_24HOURS: int</text>
+<ellipse cx="880" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="172.4023">DISPLAYTYPE_MIXED: int</text>
+<ellipse cx="880" cy="145.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="243.0313">PREF_CATEGORY_GENERAL: String</text>
+<ellipse cx="880" cy="161.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257.0859">PREF_DISPLAY_STATION_GEO: String</text>
+<ellipse cx="880" cy="177.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="192.5752">PREF_DISPLAY_TYPE: String</text>
+<ellipse cx="880" cy="193.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.9307">PREF_DISPLAY_LAYOUT: String</text>
+<ellipse cx="880" cy="210.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="187.0928">PREF_DISPLAY_BAR: String</text>
+<ellipse cx="880" cy="226.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="229.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="244.2754">PREF_DISPLAY_SIMPLE_BAR: String</text>
+<ellipse cx="880" cy="242.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="246.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="231.793">PREF_DISPLAY_PRESSURE: String</text>
+<ellipse cx="880" cy="259.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="262.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="227.6709">PREF_DISPLAY_VISIBILITY: String</text>
+<ellipse cx="880" cy="275.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="278.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219.3789">PREF_DISPLAY_SUNRISE: String</text>
+<ellipse cx="880" cy="291.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="295.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="272.1729">PREF_DISPLAY_ENDOFDAY_BAR: String</text>
+<ellipse cx="880" cy="308.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="311.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="231.1162">PREF_DISPLAY_GRADIENT: String</text>
+<ellipse cx="880" cy="324.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="327.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="233.4883">PREF_DISPLAY_WIND_ARC: String</text>
+<ellipse cx="880" cy="340.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="343.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="293.4326">PREF_DISPLAY_WIND_ARC_PERIOD: String</text>
+<ellipse cx="880" cy="356.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="360.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238.7998">PREF_DISPLAY_WIND_TYPE: String</text>
+<ellipse cx="880" cy="373.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="376.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="237.8086">PREF_DISPLAY_WIND_UNIT: String</text>
+<ellipse cx="880" cy="389.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="392.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="269.6025">PREF_DISPLAY_DISTANCE_UNIT: String</text>
+<ellipse cx="880" cy="405.82" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="409.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="358.1006">PREF_DISPLAY_CROP_PRECIPITATIONCHART: String</text>
+<ellipse cx="880" cy="422.12" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="425.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="281.9072">PREF_DISPLAY_OVERVIEWCHART: String</text>
+<ellipse cx="880" cy="438.41" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="441.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="326.7031">PREF_DISPLAY_OVERVIEWCHART_DAYS: String</text>
+<ellipse cx="880" cy="454.71" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="458.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="365.0049">PREF_DISPLAY_OVERVIEWCHART_ZEROBASE: String</text>
+<ellipse cx="880" cy="471.01" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="474.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="374.8145">PREF_DISPLAY_OVERVIEWCHART_MINMAXUSE: String</text>
+<ellipse cx="880" cy="487.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="490.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="315.5879">PREF_DISPLAY_OVERVIEWCHART_MIN: String</text>
+<ellipse cx="880" cy="503.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="506.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="320.1543">PREF_DISPLAY_OVERVIEWCHART_MAX: String</text>
+<ellipse cx="880" cy="519.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="523.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="217.0615">PREF_WIDGET_OPACITY: String</text>
+<ellipse cx="880" cy="536.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="539.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="275.584">PREF_WIDGET_SHOWDWDNOTE: String</text>
+<ellipse cx="880" cy="552.49" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="555.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="293.1387">PREF_WIDGET_DISPLAYWARNINGS: String</text>
+<ellipse cx="880" cy="568.79" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="572.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228.751">PREF_NOTIFY_WARNINGS: String</text>
+<ellipse cx="880" cy="585.09" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="588.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="244.9111">PREF_LAST_VERSION_CODE: String</text>
+<ellipse cx="880" cy="601.38" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="604.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="259.2871">PREF_SERVE_GADGETBRIDGE: String</text>
+<ellipse cx="880" cy="617.68" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="621.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="320.626">PREF_GADGETBRIDGE_PACKAGENAME: String</text>
+<ellipse cx="880" cy="633.98" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="637.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="337.2031">PREF_GADGETBRIDGE_FAKE_TIMESTAMP: String</text>
+<ellipse cx="880" cy="650.27" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="653.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="158.9834">PREF_LOGGING: String</text>
+<ellipse cx="880" cy="666.57" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="669.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.8281">PREF_LOG_TO_LOGCAT: String</text>
+<ellipse cx="880" cy="682.87" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="686.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="218.7773">PREF_FAVORITESDATA2: String</text>
+<ellipse cx="880" cy="699.16" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="702.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="237.5967">PREF_WARNINGS_DISABLE: String</text>
+<ellipse cx="880" cy="715.46" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="718.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="302.8662">PREF_WARNINGS_NOTIFY_SEVERITY: String</text>
+<ellipse cx="880" cy="731.76" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="735.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251.2412">PREF_IS_FIRST_APP_LAUNCH: String</text>
+<ellipse cx="880" cy="748.05" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="751.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="149.1738">PREF_USEGPS: String</text>
+<ellipse cx="880" cy="764.35" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="767.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="160.5898">PREF_GPSAUTO: String</text>
+<ellipse cx="880" cy="780.65" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="783.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="180.9473">PREF_GPSMANUAL: String</text>
+<ellipse cx="880" cy="796.95" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="800.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="184.8779">PREF_DISABLE_TLS: String</text>
+<ellipse cx="880" cy="813.24" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="816.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257.0996">PREF_TEXTFORECAST_FILTER: String</text>
+<ellipse cx="880" cy="829.54" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="832.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="193.6826">PREF_RADAR_SHOW: String</text>
+<ellipse cx="880" cy="845.84" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="849.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="221.4297">PREF_ADMINMAP_SHOW: String</text>
+<ellipse cx="880" cy="862.13" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="865.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="306.4756">PREF_MAP_DISPLAY_MUNICIPALITIES: String</text>
+<ellipse cx="880" cy="878.43" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="881.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="267.21">PREF_MAP_DISPLAY_COUNTIES: String</text>
+<ellipse cx="880" cy="894.73" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="898.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="248.582">PREF_MAP_DISPLAY_STATES: String</text>
+<ellipse cx="880" cy="911.02" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="914.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="276.2061">PREF_MAP_DISPLAY_SEA_AREAS: String</text>
+<ellipse cx="880" cy="927.32" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="930.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="296.707">PREF_MAP_DISPLAY_COAST_AREAS: String</text>
+<ellipse cx="880" cy="943.62" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="946.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="268.8574">PREF_FORCE_NO_MENU_ICONS: String</text>
+<ellipse cx="880" cy="959.91" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="963.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="275.3994">PREF_DISPLAY_WIND_IN_RADAR: String</text>
+<ellipse cx="880" cy="976.21" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="979.5576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="267.627">PREF_AREA_DATABASE_READY: String</text>
+<ellipse cx="880" cy="992.51" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="995.8545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="282.8027">PREF_AREA_DATABASE_VERSION: String</text>
+<ellipse cx="880" cy="1008.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1012.1514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="179.9355">PREF_VIEWMODEL: String</text>
+<ellipse cx="880" cy="1025.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1028.4482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="141.8662">PREF_THEME: String</text>
+<ellipse cx="880" cy="1041.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1044.7451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="239.9551">PREF_ALTERNATIVE_ICONS: String</text>
+<ellipse cx="880" cy="1057.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1061.042" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.1992">PREF_USE_METERED_NETWORKS: String</text>
+<ellipse cx="880" cy="1074" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1077.3389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="202.9932">PREF_USE_WIFI_ONLY: String</text>
+<ellipse cx="880" cy="1090.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1093.6357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="247.5088">PREF_CLEARNOTIFICATIONS: String</text>
+<ellipse cx="880" cy="1106.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1109.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="277.71">PREF_ASKEDFORLOCATIONFLAG: String</text>
+<ellipse cx="880" cy="1122.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1126.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="208.79">PREF_ROTATIONMODE: String</text>
+<ellipse cx="880" cy="1139.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1142.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="176.7842">PREF_LED_COLOR: String</text>
+<ellipse cx="880" cy="1155.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1158.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="263.1768">PREF_WARNINGS_NOTIFY_LED: String</text>
+<ellipse cx="880" cy="1171.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1175.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="204.2441">PREF_HINTCOUNTER1: String</text>
+<ellipse cx="880" cy="1188.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1191.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="204.2441">PREF_HINTCOUNTER2: String</text>
+<ellipse cx="880" cy="1204.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1207.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="235.7236">PREF_LASTMAPDISPLAYED: String</text>
+<ellipse cx="880" cy="1220.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1224.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228.9971">PREF_POLLEN_AMBROSIA: String</text>
+<ellipse cx="880" cy="1237" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1240.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.0488">PREF_POLLEN_BEIFUSS: String</text>
+<ellipse cx="880" cy="1253.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1256.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="216.1592">PREF_POLLEN_ROGGEN: String</text>
+<ellipse cx="880" cy="1269.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1272.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="201.2773">PREF_POLLEN_ESCHE: String</text>
+<ellipse cx="880" cy="1285.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1289.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="195.8838">PREF_POLLEN_BIRKE: String</text>
+<ellipse cx="880" cy="1302.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1305.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="200.0332">PREF_POLLEN_HASEL: String</text>
+<ellipse cx="880" cy="1318.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1321.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="189.6152">PREF_POLLEN_ERLE: String</text>
+<ellipse cx="880" cy="1334.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1338.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="220.8555">PREF_POLLEN_GRAESER: String</text>
+<ellipse cx="880" cy="1351" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1354.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="248.2061">PREF_LAST_PREFETCH_TIME: String</text>
+<ellipse cx="880" cy="1367.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1370.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="225.7363">PREF_UVHI_FETCH_DATA: String</text>
+<ellipse cx="880" cy="1383.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1386.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228.9219">PREF_UVHI_MAINDISPLAY: String</text>
+<ellipse cx="880" cy="1399.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1403.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.8418">PREF_UVHI_CLEAR_SKY: String</text>
+<ellipse cx="880" cy="1416.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1419.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="384.3984">PREF_MAX_LOCATIONS_IN_SHARED_WARNINGS: String</text>
+<ellipse cx="880" cy="1432.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1435.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="308.5742">PREF_USE_BACKGROUND_LOCATION: String</text>
+<ellipse cx="880" cy="1448.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1452.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.0557">PREF_DISPLAY_WIND_IN_CHARTS: String</text>
+<ellipse cx="880" cy="1465.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1468.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="321.3027">PREF_DISPLAY_WIND_IN_CHARTS_MAX: String</text>
+<ellipse cx="880" cy="1481.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1484.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="286.0703">PREF_REPLACE_BY_MUNICIPALITY: String</text>
+<ellipse cx="880" cy="1497.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1501.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="308.3965">PREF_BATTERY_OPTIMIZATION_FLAG: String</text>
+<ellipse cx="880" cy="1514" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1517.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="300.1113">PREF_BOLDWIDGET_VERTICAL_BAR: String</text>
+<ellipse cx="880" cy="1530.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1533.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="250.9199">PREF_AREADATABASE_LOCK: String</text>
+<ellipse cx="880" cy="1546.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1549.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="156.4268">PREF_BATTERY: String</text>
+<ellipse cx="880" cy="1562.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1566.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="185.1172">PREF_DATA_SAVER: String</text>
+<ellipse cx="880" cy="1579.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1582.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="528.8145">PREF_DISPLAY_OVERVIEWCHART_DISPLAY_PRECIPITATION_AMOUNT: String</text>
+<ellipse cx="880" cy="1595.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1598.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="374.3291">PREF_DISPLAY_OVERVIEWCHART_DISPLAY_RH: String</text>
+<ellipse cx="880" cy="1611.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1615.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="420.9707">PREF_DISPLAY_OVERVIEWCHART_FILTER_WARNINGS: String</text>
+<ellipse cx="880" cy="1628.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1631.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="361.4229">PREF_DISPLAY_OVERVIEWCHART_INAPPSIZE: String</text>
+<ellipse cx="880" cy="1644.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1647.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="263.8467">PREF_MAP_HIGH_RESOLUTION: String</text>
+<ellipse cx="880" cy="1660.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1664.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="191.6113">PREF_MAP_PIN_SIZE: String</text>
+<ellipse cx="880" cy="1677" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1680.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="197.709">PREF_WEATHER_URL: String</text>
+<ellipse cx="880" cy="1693.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1696.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="235.3135">PREF_VISUALIZE_DAYTIME: String</text>
+<ellipse cx="880" cy="1709.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1712.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="234.2676">PREF_DISPLAY_DEWPOINT: String</text>
+<ellipse cx="880" cy="1725.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1729.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="275.4268">PREF_WIND_DISTANCE_DISPLAY: String</text>
+<ellipse cx="880" cy="1742.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1745.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246.3398">PREF_WIND_DISTANCE_ARC: String</text>
+<ellipse cx="880" cy="1758.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1761.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="267.668">PREF_WIND_DISTANCE_HOURS: String</text>
+<ellipse cx="880" cy="1774.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1778.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="181.3164">PREF_STATE_SAVE: String</text>
+<ellipse cx="880" cy="1791.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1794.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246.0186">PREF_STATE_SCALEFACTOR: String</text>
+<ellipse cx="880" cy="1807.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1810.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="202.002">PREF_STATE_XFOCUS: String</text>
+<ellipse cx="880" cy="1823.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1826.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="200.9629">PREF_STATE_YFOCUS: String</text>
+<ellipse cx="880" cy="1839.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1843.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="236.0176">PREF_WIDGET_CLOCKSIZE: String</text>
+<ellipse cx="880" cy="1856.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1859.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="273.0342">PREF_STATION_NAME_DEFAULT: String</text>
+<ellipse cx="880" cy="1872.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1875.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="337.9756">PREF_LOCATION_DESCRIPTION_DEFAULT: String</text>
+<ellipse cx="880" cy="1888.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1892.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238.2871">PREF_LATITUDE_DEFAULT: double</text>
+<ellipse cx="880" cy="1905.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1908.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="252.499">PREF_LONGITUDE_DEFAULT: double</text>
+<ellipse cx="880" cy="1921.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1924.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238.2871">PREF_ALTITUDE_DEFAULT: double</text>
+<ellipse cx="880" cy="1937.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1941.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="235.9219">PREF_STATIONTYPE_DEFAULT: int</text>
+<ellipse cx="880" cy="1954" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1957.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="254.0986">PREF_STATION_TIME_DEFAULT: long</text>
+<ellipse cx="880" cy="1970.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1973.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="342.1318">PREF_DISPLAY_STATION_GEO_DEFAULT: boolean</text>
+<ellipse cx="880" cy="1986.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="1989.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="263.4297">PREF_DISPLAY_TYPE_DEFAULT: String</text>
+<ellipse cx="880" cy="2002.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2006.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="272.1387">PREF_DISPLAY_BAR_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2019.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2022.5576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="329.3213">PREF_DISPLAY_SIMPLE_BAR_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2035.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2038.8545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="316.8389">PREF_DISPLAY_PRESSURE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2051.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2055.1514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="312.7168">PREF_DISPLAY_VISIBILITY_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2068.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2071.4482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="304.4248">PREF_DISPLAY_SUNRISE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2084.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2087.7451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="357.2188">PREF_DISPLAY_ENDOFDAY_BAR_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2100.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2104.042" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="316.1621">PREF_DISPLAY_GRADIENT_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2117" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2120.3389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="318.5342">PREF_DISPLAY_WIND_ARC_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2133.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2136.6357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="364.2871">PREF_DISPLAY_WIND_ARC_PERIOD_DEFAULT: String</text>
+<ellipse cx="880" cy="2149.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2152.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="309.6543">PREF_DISPLAY_WIND_TYPE_DEFAULT: String</text>
+<ellipse cx="880" cy="2165.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2169.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="308.6631">PREF_DISPLAY_WIND_UNIT_DEFAULT: String</text>
+<ellipse cx="880" cy="2182.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2185.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="340.457">PREF_DISPLAY_DISTANCE_UNIT_DEFAULT: String</text>
+<ellipse cx="880" cy="2198.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2201.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="443.1465">PREF_DISPLAY_CROP_PRECIPITATIONCHART_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2214.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2218.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="366.9531">PREF_DISPLAY_OVERVIEWCHART_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2231.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2234.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="374.0283">PREF_DISPLAY_OVERVIEWCHART_DAYS_DEFAULT: int</text>
+<ellipse cx="880" cy="2247.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2250.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="450.0508">PREF_DISPLAY_OVERVIEWCHART_ZEROBASE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2263.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2267.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="459.8604">PREF_DISPLAY_OVERVIEWCHART_MINMAXUSE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2280" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2283.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="362.9131">PREF_DISPLAY_OVERVIEWCHART_MIN_DEFAULT: int</text>
+<ellipse cx="880" cy="2296.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2299.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="367.4795">PREF_DISPLAY_OVERVIEWCHART_MAX_DEFAULT: int</text>
+<ellipse cx="880" cy="2312.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2315.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="408.748">PREF_DISPLAY_OVERVIEWCHART_INAPPSIZE_DEFAULT: int</text>
+<ellipse cx="880" cy="2328.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2332.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="287.916">PREF_WIDGET_OPACITY_DEFAULT: String</text>
+<ellipse cx="880" cy="2345.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2348.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="360.6299">PREF_WIDGET_SHOWDWDNOTE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2361.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2364.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="378.1846">PREF_WIDGET_DISPLAYWARNINGS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2377.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2381.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="313.7969">PREF_NOTIFY_WARNINGS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2394" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2397.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="292.2363">PREF_LAST_VERSION_CODE_DEFAULT: int</text>
+<ellipse cx="880" cy="2410.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2413.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="344.333">PREF_SERVE_GADGETBRIDGE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2426.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2429.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="391.4805">PREF_GADGETBRIDGE_PACKAGENAME_DEFAULT: String</text>
+<ellipse cx="880" cy="2442.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2446.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="422.249">PREF_GADGETBRIDGE_FAKE_TIMESTAMP_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2459.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2462.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="244.0293">PREF_LOGGING_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2475.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2478.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="298.874">PREF_LOG_TO_LOGCAT_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2491.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2495.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="289.6318">PREF_FAVORITESDATA_DEFAULT2: String</text>
+<ellipse cx="880" cy="2508.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2511.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="322.6426">PREF_WARNINGS_DISABLE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2524.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2527.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="373.7207">PREF_WARNINGS_NOTIFY_SEVERITY_DEFAULT: String</text>
+<ellipse cx="880" cy="2540.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2544.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="336.2871">PREF_IS_FIRST_APP_LAUNCH_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2557" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2560.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="234.2197">PREF_USEGPS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2573.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2576.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="245.6357">PREF_GPSAUTO_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2589.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2592.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="265.9932">PREF_GPSMANUAL_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2605.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2609.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="269.9238">PREF_DISABLE_TLS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2622.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2625.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="342.1455">PREF_TEXTFORECAST_FILTER_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2638.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2641.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="278.7285">PREF_RADAR_SHOW_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2654.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2658.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="306.4756">PREF_ADMINMAP_SHOW_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2671.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2674.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="391.5215">PREF_MAP_DISPLAY_MUNICIPALITIES_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2687.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2690.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="352.2559">PREF_MAP_DISPLAY_COUNTIES_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2703.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2707.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="333.6279">PREF_MAP_DISPLAY_STATES_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2720" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2723.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="361.252">PREF_MAP_DISPLAY_SEA_AREAS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2736.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2739.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="381.7529">PREF_MAP_DISPLAY_COAST_AREAS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2752.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2755.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="353.9033">PREF_FORCE_NO_MENU_ICONS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2768.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2772.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="360.4453">PREF_DISPLAY_WIND_IN_RADAR_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2785.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2788.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="352.6729">PREF_AREA_DATABASE_READY_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2801.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2804.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="330.1279">PREF_AREA_DATABASE_VERSION_DEFAULT: int</text>
+<ellipse cx="880" cy="2817.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2821.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="250.79">PREF_VIEWMODEL_DEFAULT: String</text>
+<ellipse cx="880" cy="2834.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2837.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="212.7207">PREF_THEME_DEFAULT: String</text>
+<ellipse cx="880" cy="2850.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2853.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="325.001">PREF_ALTERNATIVE_ICONS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2866.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2869.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="368.2451">PREF_USE_METERED_NETWORKS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2882.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2886.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288.0391">PREF_USE_WIFI_ONLY_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2899.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2902.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="325.0352">PREF_ASKEDFORLOCATIONFLAG_DEFAULT: int</text>
+<ellipse cx="880" cy="2915.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2918.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="279.6445">PREF_ROTATIONMODE_DEFAULT: String</text>
+<ellipse cx="880" cy="2931.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2935.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="224.1094">PREF_LED_COLOR_DEFAULT: int</text>
+<ellipse cx="880" cy="2948.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2951.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="348.2227">PREF_WARNINGS_NOTIFY_LED_DEFAULT: boolean</text>
+<ellipse cx="880" cy="2964.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2967.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251.5693">PREF_HINTCOUNTER1_DEFAULT: int</text>
+<ellipse cx="880" cy="2980.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="2984.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251.5693">PREF_HINTCOUNTER2_DEFAULT: int</text>
+<ellipse cx="880" cy="2997" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3000.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.0488">PREF_LASTMAPDISPLAYED_DEFAULT: int</text>
+<ellipse cx="880" cy="3013.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3016.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="314.043">PREF_POLLEN_AMBROSIA_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3029.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3032.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="298.0947">PREF_POLLEN_BEIFUSS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3045.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3049.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="301.2051">PREF_POLLEN_ROGGEN_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3062.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3065.5576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="286.3232">PREF_POLLEN_ESCHE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3078.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3081.8545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="280.9297">PREF_POLLEN_BIRKE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3094.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3098.1514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="285.0791">PREF_POLLEN_HASEL_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3111.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3114.4482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="274.6611">PREF_POLLEN_ERLE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3127.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3130.7451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="305.9014">PREF_POLLEN_GRAESER_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3143.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3147.042" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="296.8164">PREF_PREFETCH_MAPS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3160" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3163.3389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="307.4941">PREF_LAST_PREFETCH_TIME_DEFAULT: long</text>
+<ellipse cx="880" cy="3176.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3179.6357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="310.7822">PREF_UVHI_FETCH_DATA_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3192.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3195.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="313.9678">PREF_UVHI_MAINDISPLAY_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3208.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3212.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="298.8877">PREF_UVHI_CLEAR_SKY_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3225.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3228.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="431.7236">PREF_MAX_LOCATIONS_IN_SHARED_WARNINGS_DEFAULT: int</text>
+<ellipse cx="880" cy="3241.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3244.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="393.6201">PREF_USE_BACKGROUND_LOCATION_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3257.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3261.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="368.1016">PREF_DISPLAY_WIND_IN_CHARTS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3274.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3277.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="392.1572">PREF_DISPLAY_WIND_IN_CHARTS_MAX_DEFAULT: String</text>
+<ellipse cx="880" cy="3290.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3293.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="371.1162">PREF_REPLACE_BY_MUNICIPALITY_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3306.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3310.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="355.7217">PREF_BATTERY_OPTIMIZATION_FLAG_DEFAULT: int</text>
+<ellipse cx="880" cy="3323" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3326.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="385.1572">PREF_BOLDWIDGET_VERTICAL_BAR_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3339.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3342.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="613.8604">PREF_DISPLAY_OVERVIEWCHART_DISPLAY_PRECIPITATION_AMOUNT_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3355.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3358.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="459.375">PREF_DISPLAY_OVERVIEWCHART_DISPLAY_RH_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3371.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3375.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="506.0166">PREF_DISPLAY_OVERVIEWCHART_FILTER_WARNINGS_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3388.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3391.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="348.8926">PREF_MAP_HIGH_RESOLUTION_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3404.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3407.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238.9365">PREF_MAP_PIN_SIZE_DEFAULT: int</text>
+<ellipse cx="880" cy="3420.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3424.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="268.5635">PREF_WEATHER_URL_DEFAULT: String</text>
+<ellipse cx="880" cy="3437" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3440.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="320.3594">PREF_VISUALIZE_DAYTIME_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3453.3" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3456.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="319.3135">PREF_DISPLAY_DEWPOINT_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3469.6" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3472.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="360.4727">PREF_WIND_DISTANCE_DISPLAY_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3485.9" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3489.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="293.665">PREF_WIND_DISTANCE_ARC_DEFAULT: int</text>
+<ellipse cx="880" cy="3502.2" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3505.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="314.9932">PREF_WIND_DISTANCE_HOURS_DEFAULT: int</text>
+<ellipse cx="880" cy="3518.5" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3521.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="266.3623">PREF_STATE_SAVE_DEFAULT: boolean</text>
+<ellipse cx="880" cy="3534.8" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3538.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="306.5439">PREF_STATE_SCALEFACTOR_DEFAULT: float</text>
+<ellipse cx="880" cy="3551.1" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3554.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="262.5273">PREF_STATE_XFOCUS_DEFAULT: float</text>
+<ellipse cx="880" cy="3567.4" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3570.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="261.4883">PREF_STATE_YFOCUS_DEFAULT: float</text>
+<ellipse cx="880" cy="3583.7" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="889" y="3587.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.3428">PREF_WIDGET_CLOCKSIZE_DEFAULT: int</text>
+<line x1="870" x2="1507.9" y1="3594.4" y2="3594.4" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="880" cy="3608" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3611.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="363.7607">getSharedPreferences(Context): SharedPreferences</text>
+<ellipse cx="880" cy="3624.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3627.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="292.0449">resetPreferencesToDefault(Context): void</text>
+<ellipse cx="880" cy="3640.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3643.9482" fill="#000000" font-family="sans-serif" font-size="14" textLength="262.0762">readPreference(String, String): String</text>
+<ellipse cx="880" cy="3656.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3660.2451" fill="#000000" font-family="sans-serif" font-size="14" textLength="291.8945">readPreference(String, Boolean): Boolean</text>
+<ellipse cx="880" cy="3673.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3676.542" fill="#000000" font-family="sans-serif" font-size="14" textLength="215.0176">readPreference(String, int): int</text>
+<ellipse cx="880" cy="3689.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3692.8389" fill="#000000" font-family="sans-serif" font-size="14" textLength="241.418">readPreference(String, float): float</text>
+<ellipse cx="880" cy="3705.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3709.1357" fill="#000000" font-family="sans-serif" font-size="14" textLength="238.9434">readPreference(String, long): long</text>
+<ellipse cx="880" cy="3722.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3725.4326" fill="#000000" font-family="sans-serif" font-size="14" textLength="273.9434">readPreference(String, double): double</text>
+<ellipse cx="880" cy="3738.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3741.7295" fill="#000000" font-family="sans-serif" font-size="14" textLength="307.2959">applyPreference(String, String, String): void</text>
+<ellipse cx="880" cy="3754.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3758.0264" fill="#000000" font-family="sans-serif" font-size="14" textLength="335.6787">applyPreference(boolean, String, boolean): void</text>
+<ellipse cx="880" cy="3771" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3774.3232" fill="#000000" font-family="sans-serif" font-size="14" textLength="260.2373">applyPreference(int, String, int): void</text>
+<ellipse cx="880" cy="3787.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3790.6201" fill="#000000" font-family="sans-serif" font-size="14" textLength="286.6377">applyPreference(float, String, float): void</text>
+<ellipse cx="880" cy="3803.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3806.917" fill="#000000" font-family="sans-serif" font-size="14" textLength="284.1631">applyPreference(long, String, long): void</text>
+<ellipse cx="880" cy="3819.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3823.2139" fill="#000000" font-family="sans-serif" font-size="14" textLength="319.1631">applyPreference(double, String, double): void</text>
+<ellipse cx="880" cy="3836.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3839.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="258.665">displayStationGeo(Context): boolean</text>
+<ellipse cx="880" cy="3852.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3855.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="349.6172">getSetStationLocation(Context): WeatherLocation</text>
+<ellipse cx="880" cy="3868.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3872.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="304.1035">setStation(Context, WeatherLocation): void</text>
+<ellipse cx="880" cy="3885.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3888.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="321.501">setDescriptionAlternate(Context, String): void</text>
+<ellipse cx="880" cy="3901.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3904.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="332.6846">getDefaultWeatherLocation(): WeatherLocation</text>
+<ellipse cx="880" cy="3917.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3920.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="258.6172">resetStationToDefault(Context): void</text>
+<ellipse cx="880" cy="3933.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3937.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="213.3838">getFavorites2(Context): String</text>
+<ellipse cx="880" cy="3950.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3953.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="252.1709">putFavorites2(Context, String): void</text>
+<ellipse cx="880" cy="3966.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3969.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="262.8281">setDisplayType(Context, String): void</text>
+<ellipse cx="880" cy="3982.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="3986.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="202.3643">getDisplayType(Context): int</text>
+<ellipse cx="880" cy="3999.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4002.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="266.6563">serveGadgetBridge(Context): boolean</text>
+<ellipse cx="880" cy="4015.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4018.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="339.8828">getGadgetBridgeLastUpdateTime(Context): long</text>
+<ellipse cx="880" cy="4031.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4035.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="376.8174">setGadgetBridgeLastUpdateTime(Context, long): void</text>
+<ellipse cx="880" cy="4048" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4051.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="320.7012">setViewsLastUpdateTime(Context, long): void</text>
+<ellipse cx="880" cy="4064.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4067.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="359.2764">fakeTimestampForGadgetBridge(Context): boolean</text>
+<ellipse cx="880" cy="4080.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4083.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="280.916">areWarningsDisabled(Context): boolean</text>
+<ellipse cx="880" cy="4096.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4100.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="237.1797">notifyWarnings(Context): boolean</text>
+<ellipse cx="880" cy="4113.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4116.5576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="298.7031">setNotifyWarnings(Context, boolean): void</text>
+<ellipse cx="880" cy="4129.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4132.8545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="309.4697">displayWarningsInWidget(Context): boolean</text>
+<ellipse cx="880" cy="4145.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4149.1514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="371.2871">setDisplayWarningsInWidget(Context, boolean): void</text>
+<ellipse cx="880" cy="4162.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4165.4482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="281.8662">getWarningsNotifySeverity(Context): int</text>
+<ellipse cx="880" cy="4178.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4181.7451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="250.8652">isFirstAppLaunch(Context): boolean</text>
+<ellipse cx="880" cy="4194.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4198.042" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251.1592">setAppLaunchedFlag(Context): void</text>
+<ellipse cx="880" cy="4211" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4214.3389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="265.5283">resetAppLaunchedFlag(Context): void</text>
+<ellipse cx="880" cy="4227.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4230.6357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="261.3447">getLastAppVersionCode(Context): int</text>
+<ellipse cx="880" cy="4243.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4246.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="295.1006">setCurrentAppVersionCode(Context): void</text>
+<ellipse cx="880" cy="4259.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4263.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="237.8838">getUseGPSFlag(Context): boolean</text>
+<ellipse cx="880" cy="4276.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4279.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="276.6436">setUSEGPSFlag(Context, boolean): void</text>
+<ellipse cx="880" cy="4292.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4295.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="210.2051">GPSManual(Context): boolean</text>
+<ellipse cx="880" cy="4308.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4312.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="191.8369">GPSAuto(Context): boolean</text>
+<ellipse cx="880" cy="4325.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4328.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251.7607">setGPSAuto(Context, boolean): void</text>
+<ellipse cx="880" cy="4341.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4344.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="253.6064">saveGPSfixtime(Context, long): void</text>
+<ellipse cx="880" cy="4357.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4361.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="230.5488">getlastGPSfixtime(Context): long</text>
+<ellipse cx="880" cy="4374" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4377.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="295.6953">isGPSFixOutdated(Context, long): boolean</text>
+<ellipse cx="880" cy="4390.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4393.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="285.7422">isLastGPSFixOutdated(Context): boolean</text>
+<ellipse cx="880" cy="4406.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4409.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="226.502">isTLSdisabled(Context): boolean</text>
+<ellipse cx="880" cy="4422.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4426.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="268.249">setDisableTLS(Context, boolean): void</text>
+<ellipse cx="880" cy="4439.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4442.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="245.2256">appReleaseIsUserdebug(): boolean</text>
+<ellipse cx="880" cy="4455.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4458.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="215.6191">getDisplayLayout(Context): int</text>
+<ellipse cx="880" cy="4471.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4475.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="224.5469">getWindDisplayType(String): int</text>
+<ellipse cx="880" cy="4488" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4491.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="232.0186">getWindDisplayUnit(Context): int</text>
+<ellipse cx="880" cy="4504.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4507.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257.7422">getDistanceDisplayUnit(Context): int</text>
+<ellipse cx="880" cy="4520.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4523.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="239.3877">displayWindArc(Context): boolean</text>
+<ellipse cx="880" cy="4536.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4540.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219.0986">getWindArcPeriod(Context): int</text>
+<ellipse cx="880" cy="4553.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4556.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="264.2705">getDisplayWindArc(Context): boolean</text>
+<ellipse cx="880" cy="4569.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4572.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="301.2051">setDisplayWindArc(Context, boolean): void</text>
+<ellipse cx="880" cy="4585.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4589.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="325.5889">isTextForecastFilterEnabled(Context): boolean</text>
+<ellipse cx="880" cy="4602.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4605.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="374.3291">setTextForecastFilterEnabled(Context, boolean): void</text>
+<ellipse cx="880" cy="4618.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4621.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="320.5166">setPrefRadarLastdatapoll(Context, long): void</text>
+<ellipse cx="880" cy="4634.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4638.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.582">getPrefRadarLastdatapoll(Context): long</text>
+<ellipse cx="880" cy="4651" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4654.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.1309">isRadarDataOutdated(Context): boolean</text>
+<ellipse cx="880" cy="4667.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4670.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="277.9082">showRadarByDefault(Context): boolean</text>
+<ellipse cx="880" cy="4683.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4686.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="310.7891">showAdminMapByDefault(Context): boolean</text>
+<ellipse cx="880" cy="4699.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4703.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="301.5811">getDisplayMunicipalities(Context): boolean</text>
+<ellipse cx="880" cy="4716.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4719.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="267.1211">getDisplayCounties(Context): boolean</text>
+<ellipse cx="880" cy="4732.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4735.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="250.0996">getDisplayStates(Context): boolean</text>
+<ellipse cx="880" cy="4748.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4752.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="271.6465">getDisplaySeaAreas(Context): boolean</text>
+<ellipse cx="880" cy="4765.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4768.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="285.2705">getDisplayCoastAreas(Context): boolean</text>
+<ellipse cx="880" cy="4781.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4784.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="232.1621">getAreaTypeArray(Context): int[]</text>
+<ellipse cx="880" cy="4797.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4801.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="260.75">forceNoMenuIcons(Context): boolean</text>
+<ellipse cx="880" cy="4814" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4817.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="353.2061">setForceNoMenuIconsFlag(Context, boolean): void</text>
+<ellipse cx="880" cy="4830.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4833.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="237.8564">getWindDisplayType(Context): int</text>
+<ellipse cx="880" cy="4846.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4849.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="270.8877">displayWindInRadar(Context): boolean</text>
+<ellipse cx="880" cy="4862.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4866.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="285.7559">isAreaDatabaseReady(Context): boolean</text>
+<ellipse cx="880" cy="4879.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4882.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="269.623">setAreaDatabaseReady(Context): void</text>
+<ellipse cx="880" cy="4895.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4898.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="268.3174">getAreaDatabaseVersion(Context): int</text>
+<ellipse cx="880" cy="4911.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4915.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="305.252">setAreaDatabaseVersion(Context, int): void</text>
+<ellipse cx="880" cy="4928.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4931.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="215.5166">getViewModel(Context): String</text>
+<ellipse cx="880" cy="4944.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4947.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="252.4512">setViewModel(Context, String): void</text>
+<ellipse cx="880" cy="4960.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4963.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="287.3213">preferAlternativeIcons(Context): boolean</text>
+<ellipse cx="880" cy="4976.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4980.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="346.8008">setPreferAlternativeIcons(Context, boolean): void</text>
+<ellipse cx="880" cy="4993.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="4996.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="257.9336">getDisplaySunrise(Context): boolean</text>
+<ellipse cx="880" cy="5009.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5012.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="294.8682">setDisplaySunrise(Context, boolean): void</text>
+<ellipse cx="880" cy="5025.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5029.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="264.1475">getThemePreference(Context): String</text>
+<ellipse cx="880" cy="5042.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5045.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="301.082">setThemePreference(Context, String): void</text>
+<ellipse cx="880" cy="5058.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5061.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="279.7334">useMeteredNetworks(Context): boolean</text>
+<ellipse cx="880" cy="5074.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5078.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="214.5527">useWifiOnly(Context): boolean</text>
+<ellipse cx="880" cy="5091" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5094.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="309.2031">getUniqueNotificationIdentifier(Context): int</text>
+<ellipse cx="880" cy="5107.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5110.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="314.6924">fixUniqueNotificationIdentifier(Context): void</text>
+<ellipse cx="880" cy="5123.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5126.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288.5928">cropPrecipitationChart(Context): boolean</text>
+<ellipse cx="880" cy="5139.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5143.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="285.25">displayOverviewChart(Context): boolean</text>
+<ellipse cx="880" cy="5156.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5159.5576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="347.0674">setDisplayOverviewChart(Context, boolean): void</text>
+<ellipse cx="880" cy="5172.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5175.8545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="307.3506">getDisplayOverviewChartDays(Context): int</text>
+<ellipse cx="880" cy="5188.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5192.1514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="344.2852">setDisplayOverviewChartDays(Context, int): void</text>
+<ellipse cx="880" cy="5205.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5208.4482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="284.7031">setAskedLocationFlag(Context, int): void</text>
+<ellipse cx="880" cy="5221.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5224.7451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="270.1426">getAskedForLocationFlag(Context): int</text>
+<ellipse cx="880" cy="5237.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5241.042" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="323.2715">getLastNotificationUpdateTime(Context): long</text>
+<ellipse cx="880" cy="5254" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5257.3389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="360.2061">setLastNotificationUpdateTime(Context, long): void</text>
+<ellipse cx="880" cy="5270.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5273.6357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="238.834">getRotationmode(Context): String</text>
+<ellipse cx="880" cy="5286.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5289.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="288.791">getDeviceRotationString(Context): String</text>
+<ellipse cx="880" cy="5302.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5306.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="221.04">setRotationMode(Activity): void</text>
+<ellipse cx="880" cy="5319.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5322.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="239.6064">loggingEnabled(Context): boolean</text>
+<ellipse cx="880" cy="5335.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5338.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="303.7412">loggingToLogcatEnabled(Context): boolean</text>
+<ellipse cx="880" cy="5351.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5355.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="311.001">setLoggingToLogcat(Context, boolean): void</text>
+<ellipse cx="880" cy="5368.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5371.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="302.1553">OverviewChartBaseZero(Context): boolean</text>
+<ellipse cx="880" cy="5384.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5387.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="314.1045">useOverviewChartMinMax(Context): boolean</text>
+<ellipse cx="880" cy="5400.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5404.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="245.6494">getOverviewChartMin(Context): int</text>
+<ellipse cx="880" cy="5417" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5420.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="249.751">getOverviewChartMax(Context): int</text>
+<ellipse cx="880" cy="5433.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5436.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="286.6855">setOverviewChartMax(Context, int): void</text>
+<ellipse cx="880" cy="5449.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5452.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="267.791">getNotificationChannelID(long): String</text>
+<ellipse cx="880" cy="5465.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5469.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="292.667">getNotificationChannelID(Context): String</text>
+<ellipse cx="880" cy="5482.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5485.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="321.6104">setNewNotificationChannelID(Context): String</text>
+<ellipse cx="880" cy="5498.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5501.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="283.7051">newNotificationChannel(Context): String</text>
+<ellipse cx="880" cy="5514.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5518.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="215.1543">LEDEnabled(Context): boolean</text>
+<ellipse cx="880" cy="5531" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5534.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="212.2695">getLEDColorItem(Context): int</text>
+<ellipse cx="880" cy="5547.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5550.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="249.2041">setLEDColorItem(Context, int): void</text>
+<ellipse cx="880" cy="5563.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5566.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="180.4004">getLEDColor(Context): int</text>
+<ellipse cx="880" cy="5579.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5583.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="210.0547">getHintCounter1(Context): int</text>
+<ellipse cx="880" cy="5596.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5599.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246.9893">setHintCounter1(Context, int): void</text>
+<ellipse cx="880" cy="5612.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5615.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="210.0547">getHintCounter2(Context): int</text>
+<ellipse cx="880" cy="5628.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5632.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246.9893">setHintCounter2(Context, int): void</text>
+<ellipse cx="880" cy="5645.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5648.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="253.7227">getLastDisplayedLayer(Context): int</text>
+<ellipse cx="880" cy="5661.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5664.7607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="290.6572">setLastDisplayedLayer(Context, int): void</text>
+<ellipse cx="880" cy="5677.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5681.0576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="263.7988">getPollenRegion(Context): PollenArea</text>
+<ellipse cx="880" cy="5694" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5697.3545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="300.7334">setPollenRegion(Context, PollenArea): void</text>
+<ellipse cx="880" cy="5710.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5713.6514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="306.1543">getPollenActiveAmbrosia(Context): boolean</text>
+<ellipse cx="880" cy="5726.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5729.9482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="290.4658">getPollenActiveBeifuss(Context): boolean</text>
+<ellipse cx="880" cy="5742.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5746.2451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="293.5215">getPollenActiveRoggen(Context): boolean</text>
+<ellipse cx="880" cy="5759.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5762.542" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="281.292">getPollenActiveEsche(Context): boolean</text>
+<ellipse cx="880" cy="5775.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5778.8389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="275.9395">getPollenActiveBirke(Context): boolean</text>
+<ellipse cx="880" cy="5791.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5795.1357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="278.8721">getPollenActiveHasel(Context): boolean</text>
+<ellipse cx="880" cy="5808.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5811.4326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="267.0732">getPollenActiveErle(Context): boolean</text>
+<ellipse cx="880" cy="5824.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5827.7295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="295.4287">getPollenActiveGraeser(Context): boolean</text>
+<ellipse cx="880" cy="5840.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5844.0264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="242.7168">anyPollenActive(Context): boolean</text>
+<ellipse cx="880" cy="5857" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5860.3232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="256.1494">setPrefetchMapsTime(Context): void</text>
+<ellipse cx="880" cy="5873.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5876.6201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="234.6641">UVHIfetchData(Context): boolean</text>
+<ellipse cx="880" cy="5889.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5892.917" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="294.5879">setUVHIfetchData(Context, boolean): void</text>
+<ellipse cx="880" cy="5905.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5909.2139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="252.2188">UVHImainDisplay(Context): boolean</text>
+<ellipse cx="880" cy="5922.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5925.5107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="312.1426">setUVHImainDisplay(Context, boolean): void</text>
+<ellipse cx="880" cy="5938.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5941.8076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="331.8164">hasWeatherUpdatedFlag(Context, int): boolean</text>
+<ellipse cx="880" cy="5954.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5958.1045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="334.1953">removeWeatherUpdatedFlag(Context, int): void</text>
+<ellipse cx="880" cy="5971.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5974.4014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="302.1211">setWeatherUpdatedFlag(Context, int): void</text>
+<ellipse cx="880" cy="5987.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="5990.6982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="340.71">getMaxLocationsInSharedWarnings(Context): int</text>
+<ellipse cx="880" cy="6003.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6006.9951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="299.2227">useBackgroundLocation(Context): boolean</text>
+<ellipse cx="880" cy="6019.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6023.292" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="360.5205">setUseBackgroundLocation(Context, boolean): void</text>
+<ellipse cx="880" cy="6036.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6039.5889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="275.126">displayWindInCharts(Context): boolean</text>
+<ellipse cx="880" cy="6052.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6055.8857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="271.3184">getWindInChartsMaxKmh(Context): int</text>
+<ellipse cx="880" cy="6068.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6072.1826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="285.4004">replaceByMunicipality(Context): boolean</text>
+<ellipse cx="880" cy="6085.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6088.4795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="287.2051">getBatteryOptimiziatonFlag(Context): int</text>
+<ellipse cx="880" cy="6101.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6104.7764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="324.1396">setBatteryOptimiziatonFlag(Context, int): void</text>
+<ellipse cx="880" cy="6117.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6121.0732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="336.458">displayBoldwidgetVerticalBar(Context): boolean</text>
+<ellipse cx="880" cy="6134" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6137.3701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="232.3945">lockAreaDatabase(Context): void</text>
+<ellipse cx="880" cy="6150.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6153.667" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="250.1406">unlockAreaDatabase(Context): void</text>
+<ellipse cx="880" cy="6166.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6169.9639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="291.334">isAreaDatabaseLocked(Context): boolean</text>
+<ellipse cx="880" cy="6182.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6186.2607" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="441.3281">displayPrecipitationAmountInOverviewChart(Context): boolean</text>
+<ellipse cx="880" cy="6199.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6202.5576" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="318.5068">displayRHInOverviewChart(Context): boolean</text>
+<ellipse cx="880" cy="6215.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6218.8545" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="422.8096">filterWarningsInOverviewChartBySeverity(Context): boolean</text>
+<ellipse cx="880" cy="6231.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6235.1514" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="380.3174">setOverviewChartInAppSizePercent(Context, int): void</text>
+<ellipse cx="880" cy="6248.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6251.4482" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="343.3828">getOverviewChartInAppSizePercent(Context): int</text>
+<ellipse cx="880" cy="6264.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6267.7451" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="302.2168">forceMapHighResolution(Context): boolean</text>
+<ellipse cx="880" cy="6280.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6284.042" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="232.8457">setMapPinSize(Context, int): void</text>
+<ellipse cx="880" cy="6297" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6300.3389" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="195.9111">getMapPinSize(Context): int</text>
+<ellipse cx="880" cy="6313.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6316.6357" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219.8779">getWidgetOpacity(Context): int</text>
+<ellipse cx="880" cy="6329.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6332.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="235.8809">showDWDNote(Context): boolean</text>
+<ellipse cx="880" cy="6345.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6349.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="229.6875">getDisplayBar(Context): boolean</text>
+<ellipse cx="880" cy="6362.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6365.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="266.3896">getDisplayPressure(Context): boolean</text>
+<ellipse cx="880" cy="6378.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6381.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="264.7285">getDisplayVisibility(Context): boolean</text>
+<ellipse cx="880" cy="6394.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6398.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="299.8857">getDisplayEndOfDayBar(Context): boolean</text>
+<ellipse cx="880" cy="6411.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6414.417" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="266.6836">getDisplayGradient(Context): boolean</text>
+<ellipse cx="880" cy="6427.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6430.7139" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="277.4912">getDisplaySimpleBar(Context): boolean</text>
+<ellipse cx="880" cy="6443.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6447.0107" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="280.957">getWarningsDisabled(Context): boolean</text>
+<ellipse cx="880" cy="6460" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6463.3076" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="337.1006">getGadgetBridgePackageName(Context): String</text>
+<ellipse cx="880" cy="6476.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6479.6045" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="219.6113">getWeatherUrl(Context): String</text>
+<ellipse cx="880" cy="6492.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6495.9014" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="256.5459">setWeatherUrl(Context, String): void</text>
+<ellipse cx="880" cy="6508.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6512.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="251.0908">visualizeDaytime(Context): boolean</text>
+<ellipse cx="880" cy="6525.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6528.4951" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="246.9688">displayDewPoint(Context): boolean</text>
+<ellipse cx="880" cy="6541.4" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6544.792" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="277.5732">displayWindDistance(Context): boolean</text>
+<ellipse cx="880" cy="6557.7" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6561.0889" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="236.1611">getWindDistanceArc(Context): int</text>
+<ellipse cx="880" cy="6574" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6577.3857" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="254.1465">getWindDistanceHours(Context): int</text>
+<ellipse cx="880" cy="6590.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6593.6826" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="230.5283">saveMapState(Context): boolean</text>
+<ellipse cx="880" cy="6606.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6609.9795" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="310.0029">setZoomStateBundle(Context, Bundle): void</text>
+<ellipse cx="880" cy="6622.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6626.2764" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="273.0684">getZoomStateBundle(Context): Bundle</text>
+<ellipse cx="880" cy="6639.2" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6642.5732" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="278.2568">getPrefUVHIClearSky(Context): boolean</text>
+<ellipse cx="880" cy="6655.5" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6658.8701" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="319.6416">getPrefUVHIMaindisplayType(Context): String</text>
+<ellipse cx="880" cy="6671.8" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6675.167" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="183.1963">getClockSize(Context): int</text>
+<ellipse cx="880" cy="6688.1" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="889" y="6691.4639" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="220.1309">setClockSize(Context, int): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.ViewModel" data-source-line="422" data-uid="ent0003">
+<a href="WeatherSettings.ViewModel.html" target="_top" title="WeatherSettings.ViewModel.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.ViewModel.html" xlink:show="new" xlink:title="WeatherSettings.ViewModel.html" xlink:type="simple">
+<rect x="6" y="6735" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="59.4551" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="197.2031">WeatherSettings.ViewModel</text>
+<text x="35" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.Theme" data-source-line="423" data-uid="ent0004">
+<a href="WeatherSettings.Theme.html" target="_top" title="WeatherSettings.Theme.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.Theme.html" xlink:show="new" xlink:title="WeatherSettings.Theme.html" xlink:type="simple">
+<rect x="302" y="6735" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="317" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m319.97 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="369.0928" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="169.9277">WeatherSettings.Theme</text>
+<text x="331" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.AskedLocationFlag" data-source-line="424" data-uid="ent0005">
+<a href="WeatherSettings.AskedLocationFlag.html" target="_top" title="WeatherSettings.AskedLocationFlag.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.AskedLocationFlag.html" xlink:show="new" xlink:title="WeatherSettings.AskedLocationFlag.html" xlink:type="simple">
+<rect x="598.5" y="6735" width="284.98" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="613.5" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m616.47 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="627.5" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="252.9844">WeatherSettings.AskedLocationFlag</text>
+<text x="630.9355" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="e" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.DeviceRotation" data-source-line="425" data-uid="ent0006">
+<a href="WeatherSettings.DeviceRotation.html" target="_top" title="WeatherSettings.DeviceRotation.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.DeviceRotation.html" xlink:show="new" xlink:title="WeatherSettings.DeviceRotation.html" xlink:type="simple">
+<rect x="902" y="6735" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="917" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m919.97 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="939.7085" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="228.6963">WeatherSettings.DeviceRotation</text>
+<text x="931" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="f" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.UpdateType" data-source-line="426" data-uid="ent0007">
+<a href="WeatherSettings.UpdateType.html" target="_top" title="WeatherSettings.UpdateType.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.UpdateType.html" xlink:show="new" xlink:title="WeatherSettings.UpdateType.html" xlink:type="simple">
+<rect x="1198" y="6735" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1213" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1216 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1246.7178" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="206.6777">WeatherSettings.UpdateType</text>
+<text x="1227" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="g" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.BatteryFlag" data-source-line="427" data-uid="ent0008">
+<a href="WeatherSettings.BatteryFlag.html" target="_top" title="WeatherSettings.BatteryFlag.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.BatteryFlag.html" xlink:show="new" xlink:title="WeatherSettings.BatteryFlag.html" xlink:type="simple">
+<rect x="1494" y="6735" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1509" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1512 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1544.625" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="202.8633">WeatherSettings.BatteryFlag</text>
+<text x="1523" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="h" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.Updates" data-source-line="428" data-uid="ent0009">
+<a href="WeatherSettings.Updates.html" target="_top" title="WeatherSettings.Updates.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.Updates.html" xlink:show="new" xlink:title="WeatherSettings.Updates.html" xlink:type="simple">
+<rect x="1790" y="6735" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="1805" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m1808 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="1852.2393" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="179.6348">WeatherSettings.Updates</text>
+<text x="1819" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="i" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.UVHI_Type" data-source-line="429" data-uid="ent0010">
+<a href="WeatherSettings.UVHI_Type.html" target="_top" title="WeatherSettings.UVHI_Type.html" xlink:actuate="onRequest" xlink:href="WeatherSettings.UVHI_Type.html" xlink:show="new" xlink:title="WeatherSettings.UVHI_Type.html" xlink:type="simple">
+<rect x="2086" y="6735" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="2101" cy="6754" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m2104 6759.6q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="2139.3286" y="6752.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="197.4561">WeatherSettings.UVHI_Type</text>
+<text x="2115" y="6765.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="j" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.ViewModel" data-uid="lnk11">
+<ellipse cx="866.59" cy="4405.4" rx="8" ry="8" fill="#fff"/>
+<line x1="864.24" x2="868.94" y1="4413.1" y2="4397.8"/>
+<line x1="858.94" x2="874.23" y1="4403.1" y2="4407.8"/>
+<path d="m864.24 4413.1c-286.08 930.73-663.14 2157.4-713.64 2321.7" fill="none"/>
+</g>
+<g id="k" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.Theme" data-uid="lnk12">
+<ellipse cx="867.21" cy="4817.7" rx="8" ry="8" fill="#fff"/>
+<line x1="865.49" x2="868.93" y1="4825.5" y2="4809.9"/>
+<line x1="859.4" x2="875.02" y1="4815.9" y2="4819.4"/>
+<path d="m865.49 4825.5c-187.26 850.29-389.5 1768.6-420.49 1909.4" fill="none"/>
+</g>
+<g id="l" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.AskedLocationFlag" data-uid="lnk13">
+<ellipse cx="867.92" cy="5790.8" rx="8" ry="8" fill="#fff"/>
+<line x1="866.87" x2="868.97" y1="5798.7" y2="5782.8"/>
+<line x1="859.99" x2="875.85" y1="5789.7" y2="5791.8"/>
+<path d="m866.87 5798.7c-63.449 481.04-112.13 850.08-123.49 936.24" fill="none"/>
+</g>
+<g id="m" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.DeviceRotation" data-uid="lnk14">
+<ellipse cx="1043" cy="6707.3" rx="8" ry="8" fill="#fff"/>
+<line x1="1042.6" x2="1043.3" y1="6715.3" y2="6699.3"/>
+<line x1="1035" x2="1051" y1="6707" y2="6707.6"/>
+<path d="m1042.6 6715.3c-0.6408 14.707-0.4608 10.576-0.8439 19.367" fill="none"/>
+</g>
+<g id="n" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.UpdateType" data-uid="lnk15">
+<ellipse cx="1335" cy="6707.3" rx="8" ry="8" fill="#fff"/>
+<line x1="1335.4" x2="1334.7" y1="6715.3" y2="6699.3"/>
+<line x1="1327" x2="1343" y1="6707.6" y2="6707"/>
+<path d="m1335.4 6715.3c0.6408 14.707 0.4608 10.576 0.8439 19.367" fill="none"/>
+</g>
+<g id="o" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.BatteryFlag" data-uid="lnk16">
+<ellipse cx="1510.1" cy="5812.6" rx="8" ry="8" fill="#fff"/>
+<line x1="1511.1" x2="1509" y1="5820.5" y2="5804.6"/>
+<line x1="1502.1" x2="1518" y1="5813.6" y2="5811.5"/>
+<path d="m1511.1 5820.5c61.526 470.66 108.41 829.3 119.53 914.34" fill="none"/>
+</g>
+<g id="p" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.Updates" data-uid="lnk17">
+<ellipse cx="1510.7" cy="4833.1" rx="8" ry="8" fill="#fff"/>
+<line x1="1512.4" x2="1509" y1="4840.9" y2="4825.3"/>
+<line x1="1502.9" x2="1518.5" y1="4834.8" y2="4831.4"/>
+<path d="m1512.4 4840.9c184.24 845.64 381.92 1753 412.58 1893.7" fill="none"/>
+</g>
+<g id="q" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherSettings.UVHI_Type" data-uid="lnk18">
+<ellipse cx="1511.4" cy="4413.5" rx="8" ry="8" fill="#fff"/>
+<line x1="1513.8" x2="1509.1" y1="4421.2" y2="4405.9"/>
+<line x1="1503.8" x2="1519.1" y1="4415.9" y2="4411.2"/>
+<path d="m1513.8 4421.2c283.67 930 655.87 2150.3 705.72 2313.7" fill="none"/>
+</g>
+<g class="footer" data-source-line="446">
+<text x="1179.9106" y="6776.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="1140.3452" y="6787.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

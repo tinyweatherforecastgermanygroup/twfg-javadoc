@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="482px" style="background:transparent;height:482px;width:291px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 291 482" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.TextForecast" data-source-line="13" data-uid="ent0002">
+<a href="TextForecast.html" target="_top" title="TextForecast.html" xlink:actuate="onRequest" xlink:href="TextForecast.html" xlink:show="new" xlink:title="TextForecast.html" xlink:type="simple">
+<rect x="6" y="110" width="278.11" height="347.28" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="128.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 134.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="112.5635" y="127.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="90.9863">TextForecast</text>
+<text x="35" y="140.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="283.11" y1="147.94" y2="147.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="161.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="164.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="203.2598">TIMESTAMP_PATTERN: String</text>
+<ellipse cx="17" cy="177.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="181.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="113.7773">identifier: String</text>
+<ellipse cx="17" cy="194.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="197.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="99.791">webUrl: String</text>
+<ellipse cx="17" cy="210.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="213.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="104.5488">content: String</text>
+<ellipse cx="17" cy="226.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="230.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="78.3193">title: String</text>
+<ellipse cx="17" cy="243.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="246.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="103.373">subtitle: String</text>
+<ellipse cx="17" cy="259.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="262.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="130.6758">issued_text: String</text>
+<ellipse cx="17" cy="275.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="279.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="58.6934">type: int</text>
+<ellipse cx="17" cy="291.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="295.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="84.2324">issued: long</text>
+<ellipse cx="17" cy="308.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="311.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="82.1133">polled: long</text>
+<ellipse cx="17" cy="324.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="327.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="128.5225">outdated: boolean</text>
+<line x1="7" x2="283.11" y1="335.2" y2="335.2" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="348.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="352.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="216.5146">parse(ArrayList&lt;String&gt;): void</text>
+<ellipse cx="17" cy="365.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="368.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="211.4834">setIssued(String, int): boolean</text>
+<ellipse cx="17" cy="381.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="384.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="174.6035">setFallBackIssued(): void</text>
+<ellipse cx="17" cy="397.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="401.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="129.9512">getIssued(): String</text>
+<ellipse cx="17" cy="414.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="417.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="146.5352">getUrlString(): String</text>
+<ellipse cx="17" cy="430.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="433.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="196.3965">getLegacyUrlString(): String</text>
+<ellipse cx="17" cy="446.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="449.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="208.1816">compareTo(TextForecast): int</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="java.lang.Comparable" data-source-line="34" data-uid="ent0003">
+<rect x="28" y="12" width="234.18" height="62.234" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="58.761" cy="30.969" rx="11" ry="11" fill="#B4A7E5" stroke="#181818"/>
+<path d="m54.683 26.734v-2.1563h7.3906v2.1563h-2.4688v8.0781h2.4688v2.1563h-7.3906v-2.1563h2.4687v-8.0781h-2.4687z"/>
+<text x="76.2634" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="85.1689">Comparable</text>
+<text x="95.9866" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" font-style="italic" textLength="45.7227">java.lang</text>
+<rect x="185.19" y="9" width="79.988" height="15.969" fill="#fff" stroke="#181818" stroke-dasharray="2,2"/>
+<text x="186.1934" y="21.1387" fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" textLength="77.9883">TextForecast</text>
+<line x1="29" x2="261.18" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="39" cy="63.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="48" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" textLength="208.1816">compareTo(TextForecast): int</text>
+</g>
+<g id="c" class="link" fill="none" stroke="#181818" data-entity-1="java.lang.Comparable" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.TextForecast" data-uid="lnk4">
+<polygon points="145 74.206 139 92.206 151 92.206"/>
+<path d="m145 92.206v17.574" stroke-dasharray="7,7"/>
+</g>
+<g class="footer" data-source-line="46">
+<text x="139.9106" y="460.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="100.3452" y="471.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

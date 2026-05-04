@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7979px" height="630px" style="background:transparent;height:630px;width:7979px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 7979 630" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.RawWeatherInfo" data-source-line="13" data-uid="ent0002">
+<a href="RawWeatherInfo.html" target="_top" title="RawWeatherInfo.html" xlink:actuate="onRequest" xlink:href="RawWeatherInfo.html" xlink:show="new" xlink:title="RawWeatherInfo.html" xlink:type="simple">
+<rect x="6" y="12" width="7966.6" height="518.55" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="3862" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m3865 36.609q-0.5781 0.2969-1.2187 0.4375-0.6407 0.1562-1.3438 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7031 0 1.3438 0.1562 0.6562 0.1563 1.2187 0.4531v2.7188q-0.625-0.5781-1.2187-0.8438-0.5938-0.2812-1.2188-0.2812-1.3437 0-2.0312 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0312 1.0625 0.625 0 1.2188-0.2656 0.5937-0.2812 1.2187-0.8594v2.7188z"/>
+<text x="3947.5356" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="116.0195">RawWeatherInfo</text>
+<text x="3882.4888" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="7971.6" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="126.9434">RawWeatherInfo()</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="7940.5908">RawWeatherInfo(long, int, WeatherLocation, String, String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[], String[])</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="169.5449">copy(): RawWeatherInfo</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="200.0674">toLongArray(String[]): long[]</text>
+<ellipse cx="17" cy="128.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="233.0508">toDoubleArray(String[]): double[]</text>
+<ellipse cx="17" cy="145.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="287.3555">toDoubleArray(String[], int, int): double[]</text>
+<ellipse cx="17" cy="161.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="172.4707">toIntArray(String[]): int[]</text>
+<ellipse cx="17" cy="177.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="158.0811">getTimeSteps(): long[]</text>
+<ellipse cx="17" cy="193.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="203.4854">getTimeSteps(int, int): long[]</text>
+<ellipse cx="17" cy="210.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="229.5234">getCurrentForecastPosition(): int</text>
+<ellipse cx="17" cy="226.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="229.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="276.1787">getCurrentForecastPositionTime(): long</text>
+<ellipse cx="17" cy="242.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="246.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="126.2393">getTime(int): long</text>
+<ellipse cx="17" cy="259.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="262.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="357.6152">getNextMidnightAfterCurrentForecastPosition(): int</text>
+<ellipse cx="17" cy="275.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="278.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="166.9814">getNext1hPosition(): int</text>
+<ellipse cx="17" cy="291.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="295.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="166.9814">getNext6hPosition(): int</text>
+<ellipse cx="17" cy="308.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="311.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="175.8887">getNext24hPosition(): int</text>
+<ellipse cx="17" cy="324.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="327.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="347.1494">getAverageValueDouble(String[], int, int): Double</text>
+<ellipse cx="17" cy="340.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="343.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="316.7842">getAverageValueInt(String[], int, int): Integer</text>
+<ellipse cx="17" cy="356.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="360.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="250.3389">getSumInt(String[], int, int): Integer</text>
+<ellipse cx="17" cy="373.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="376.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="280.7041">getSumDouble(String[], int, int): Double</text>
+<ellipse cx="17" cy="389.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="392.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="287.417">getMaxIntValue(String[], int, int): Integer</text>
+<ellipse cx="17" cy="405.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="409.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="317.7822">getMaxDoubleValue(String[], int, int): Double</text>
+<ellipse cx="17" cy="422.12" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="425.4639" fill="#000000" font-family="sans-serif" font-size="14" textLength="350.2598">getUVHIValue(boolean[], String[], int, int): Integer</text>
+<ellipse cx="17" cy="438.41" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="441.7607" fill="#000000" font-family="sans-serif" font-size="14" textLength="287.7725">getAverageTemperature(int, int): Double</text>
+<ellipse cx="17" cy="454.71" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="458.0576" fill="#000000" font-family="sans-serif" font-size="14" textLength="254.3037">getMinTemperature(int, int): Double</text>
+<ellipse cx="17" cy="471.01" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="474.3545" fill="#000000" font-family="sans-serif" font-size="14" textLength="258.4053">getMaxTemperature(int, int): Double</text>
+<ellipse cx="17" cy="487.3" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="490.6514" fill="#000000" font-family="sans-serif" font-size="14" textLength="244.4395">getAverageClouds(int, int): Integer</text>
+<ellipse cx="17" cy="503.6" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="506.9482" fill="#000000" font-family="sans-serif" font-size="14" textLength="297.001">addUVHazardIndexData(long[], int[]): void</text>
+<ellipse cx="17" cy="519.9" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="523.2451" fill="#000000" font-family="sans-serif" font-size="14" textLength="337.8525">getIsDaytimeArray(WeatherLocation): boolean[]</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.RawWeatherInfo.Source" data-source-line="44" data-uid="ent0003">
+<a href="RawWeatherInfo.Source.html" target="_top" title="RawWeatherInfo.Source.html" xlink:actuate="onRequest" xlink:href="RawWeatherInfo.Source.html" xlink:show="new" xlink:title="RawWeatherInfo.Source.html" xlink:type="simple">
+<rect x="3850.5" y="567" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="3865.5" cy="585.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m3868.5 591.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="3918.126" y="584.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="168.8613">RawWeatherInfo.Source</text>
+<text x="3879.5" y="597.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.RawWeatherInfo" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.RawWeatherInfo.Source" data-uid="lnk4">
+<ellipse cx="3989.5" cy="539.28" rx="8" ry="8" fill="#fff"/>
+<line x1="3989.5" x2="3989.5" y1="547.28" y2="531.28"/>
+<line x1="3981.5" x2="3997.5" y1="539.28" y2="539.28"/>
+<path d="m3989.5 547.28v19.622" fill="none"/>
+</g>
+<g class="footer" data-source-line="54">
+<text x="3984.4106" y="608.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="3944.8452" y="619.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

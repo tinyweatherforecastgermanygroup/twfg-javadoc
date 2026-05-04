@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="449px" style="background:transparent;height:449px;width:291px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 291 449" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.RawRadarmap" data-source-line="13" data-uid="ent0002">
+<a href="RawRadarmap.html" target="_top" title="RawRadarmap.html" xlink:actuate="onRequest" xlink:href="RawRadarmap.html" xlink:show="new" xlink:title="RawRadarmap.html" xlink:type="simple">
+<rect x="6" y="12" width="278.11" height="412.47" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="106.8623" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="102.3887">RawRadarmap</text>
+<text x="35" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="283.11" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" textLength="120.4287">productID: byte[]</text>
+<ellipse cx="17" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="126.8818">timestamp: byte[]</text>
+<ellipse cx="17" cy="96.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="99.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="108.6777">id10000: byte[]</text>
+<ellipse cx="17" cy="112.48" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="115.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="147.0137">timestampStr: byte[]</text>
+<ellipse cx="17" cy="128.77" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="132.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="82.2979">idBY: byte[]</text>
+<ellipse cx="17" cy="145.07" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="148.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="99.832">filesize: byte[]</text>
+<ellipse cx="17" cy="161.37" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="164.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="82.6055">idVS: byte[]</text>
+<ellipse cx="17" cy="177.66" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="181.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="150.8896">formatVersion: byte[]</text>
+<ellipse cx="17" cy="193.96" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="197.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="86.8711">idSW: byte[]</text>
+<ellipse cx="17" cy="210.26" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="213.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="157.0625">radolanVersion: byte[]</text>
+<ellipse cx="17" cy="226.55" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="229.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="82.3115">idPR: byte[]</text>
+<ellipse cx="17" cy="242.85" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="246.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="114.5293">accuracy: byte[]</text>
+<ellipse cx="17" cy="259.15" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="262.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="87.2949">idINT: byte[]</text>
+<ellipse cx="17" cy="275.45" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="278.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="104.7402">interval: byte[]</text>
+<ellipse cx="17" cy="291.74" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="295.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="83.4326">idGP: byte[]</text>
+<ellipse cx="17" cy="308.04" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="311.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="121.1738">resolution: byte[]</text>
+<ellipse cx="17" cy="324.34" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="327.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="85.1074">idMS: byte[]</text>
+<ellipse cx="17" cy="340.63" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="343.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="189.8613">stationStringLength: byte[]</text>
+<ellipse cx="17" cy="356.93" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="360.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="141.3262">stationString: byte[]</text>
+<ellipse cx="17" cy="373.23" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="376.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="108.2744">etxMark: byte[]</text>
+<ellipse cx="17" cy="389.52" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="392.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="122.3496">radarData: byte[]</text>
+<line x1="7" x2="283.11" y1="400.17" y2="400.17" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="413.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="417.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="200.5254">RawRadarmap(InputStream)</text>
+</a>
+</g>
+<g class="footer" data-source-line="44">
+<text x="139.9106" y="427.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="100.3452" y="438.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

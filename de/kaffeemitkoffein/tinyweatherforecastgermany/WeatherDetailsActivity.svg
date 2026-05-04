@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="996px" height="426px" style="background:transparent;height:426px;width:996px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 996 426" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity" data-source-line="13" data-uid="ent0002">
+<a href="WeatherDetailsActivity.html" target="_top" title="WeatherDetailsActivity.html" xlink:actuate="onRequest" xlink:href="WeatherDetailsActivity.html" xlink:show="new" xlink:title="WeatherDetailsActivity.html" xlink:type="simple">
+<rect x="301.5" y="12" width="377.5" height="314.69" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="362.94" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m365.91 36.609q-0.5781 0.2969-1.2187 0.4375-0.6406 0.1562-1.3438 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7032 0 1.3438 0.1562 0.6562 0.1563 1.2187 0.4531v2.7188q-0.625-0.5781-1.2187-0.8438-0.5938-0.2812-1.2188-0.2812-1.3437 0-2.0312 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0312 1.0625 0.625 0 1.2188-0.2656 0.5937-0.2812 1.2187-0.8594v2.7188z"/>
+<text x="426.0464" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="160.9043">WeatherDetailsActivity</text>
+<text x="383.4419" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="302.5" x2="678" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="312.5" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="321.5" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="228.915">INTENT_EXTRA_POSITION: String</text>
+<ellipse cx="312.5" cy="79.883" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="321.5" y="83.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="146.501">SIS_POSITION: String</text>
+<line x1="302.5" x2="678" y1="90.531" y2="90.531" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="312.5" cy="104.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="107.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="246.8662">onSaveInstanceState(Bundle): void</text>
+<ellipse cx="312.5" cy="120.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="123.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="266.5605">onRestoreInstanceState(Bundle): void</text>
+<polygon points="312.5 131.77 316.5 135.77 312.5 139.77 308.5 135.77" fill="#ff4" stroke="#B38D22"/>
+<text x="321.5" y="140.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="162.7227">onCreate(Bundle): void</text>
+<ellipse cx="312.5" cy="153.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="156.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="271.2227">onCreateOptionsMenu(Menu): boolean</text>
+<ellipse cx="312.5" cy="169.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="172.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="310.3857">onOptionsItemSelected(MenuItem): boolean</text>
+<ellipse cx="312.5" cy="185.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="189.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="146.2549">displayValues(): void</text>
+<ellipse cx="312.5" cy="201.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="205.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="351.4971">setWarnings(WeatherInfo, WeatherLocation): void</text>
+<ellipse cx="312.5" cy="218.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="221.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="283.9102">setPrecipitationChart(WeatherInfo): void</text>
+<ellipse cx="312.5" cy="234.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="237.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="332.3291">setValues(WeatherInfo, WeatherLocation): void</text>
+<ellipse cx="312.5" cy="250.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="254.1982" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="341.4961">setPollenLegendColorBoxes(Context, View): void</text>
+<polygon points="312.5 262.15 316.5 266.15 312.5 270.15 308.5 266.15" fill="#ff4" stroke="#B38D22"/>
+<text x="321.5" y="270.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="123.915">onResume(): void</text>
+<polygon points="312.5 278.45 316.5 282.45 312.5 286.45 308.5 282.45" fill="#ff4" stroke="#B38D22"/>
+<text x="321.5" y="286.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="108.958">onPause(): void</text>
+<polygon points="312.5 294.74 316.5 298.74 312.5 302.74 308.5 298.74" fill="#ff4" stroke="#B38D22"/>
+<text x="321.5" y="303.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="121.9395">onDestroy(): void</text>
+<ellipse cx="312.5" cy="316.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="321.5" y="319.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="171.4863">openLayerMap(int): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity.ListItemType" data-source-line="31" data-uid="ent0003">
+<a href="WeatherDetailsActivity.ListItemType.html" target="_top" title="WeatherDetailsActivity.ListItemType.html" xlink:actuate="onRequest" xlink:href="WeatherDetailsActivity.ListItemType.html" xlink:show="new" xlink:title="WeatherDetailsActivity.ListItemType.html" xlink:type="simple">
+<rect x="6" y="363" width="288.03" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="381.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 387.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="35" y="380.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="256.0332">WeatherDetailsActivity.ListItemType</text>
+<text x="39.96" y="393.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity.SwipeGestureDetector" data-source-line="32" data-uid="ent0004">
+<a href="WeatherDetailsActivity.SwipeGestureDetector.html" target="_top" title="WeatherDetailsActivity.SwipeGestureDetector.html" xlink:actuate="onRequest" xlink:href="WeatherDetailsActivity.SwipeGestureDetector.html" xlink:show="new" xlink:title="WeatherDetailsActivity.SwipeGestureDetector.html" xlink:type="simple">
+<rect x="312" y="363" width="355.57" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="327" cy="381.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m329.97 387.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="341" y="380.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="323.5723">WeatherDetailsActivity.SwipeGestureDetector</text>
+<text x="379.7295" y="393.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="d" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity.DetailsElement" data-source-line="33" data-uid="ent0005">
+<a href="WeatherDetailsActivity.DetailsElement.html" target="_top" title="WeatherDetailsActivity.DetailsElement.html" xlink:actuate="onRequest" xlink:href="WeatherDetailsActivity.DetailsElement.html" xlink:show="new" xlink:title="WeatherDetailsActivity.DetailsElement.html" xlink:type="simple">
+<rect x="686" y="363" width="303.85" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="701" cy="381.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m703.97 387.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="715" y="380.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="271.8516">WeatherDetailsActivity.DetailsElement</text>
+<text x="727.8691" y="393.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="e" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity.ListItemType" data-uid="lnk6">
+<ellipse cx="294.31" cy="291.66" rx="8" ry="8" fill="#fff"/>
+<line x1="287.51" x2="301.11" y1="295.87" y2="287.45"/>
+<line x1="290.1" x2="298.52" y1="284.86" y2="298.46"/>
+<path d="m287.51 295.87c-47.688 29.525-79.765 49.384-108.18 66.974" fill="none"/>
+</g>
+<g id="f" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity.SwipeGestureDetector" data-uid="lnk7">
+<ellipse cx="490" cy="335.06" rx="8" ry="8" fill="#fff"/>
+<line x1="490" x2="490" y1="343.06" y2="327.06"/>
+<line x1="482" x2="498" y1="335.06" y2="335.06"/>
+<path d="m490 343.06v19.735" fill="none"/>
+</g>
+<g id="g" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherDetailsActivity.DetailsElement" data-uid="lnk8">
+<ellipse cx="685.36" cy="288.67" rx="8" ry="8" fill="#fff"/>
+<line x1="692.2" x2="678.51" y1="292.81" y2="284.53"/>
+<line x1="681.22" x2="689.5" y1="295.51" y2="281.82"/>
+<path d="m692.2 292.81c50.549 30.577 85.763 51.877 115.8 70.044" fill="none"/>
+</g>
+<g class="footer" data-source-line="45">
+<text x="492.9106" y="404.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="453.3452" y="415.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

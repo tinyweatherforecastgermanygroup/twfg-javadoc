@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="415px" height="523px" style="background:transparent;height:523px;width:415px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 415 523" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayerMapActivity" data-source-line="13" data-uid="ent0002">
+<a href="WeatherLayerMapActivity.html" target="_top" title="WeatherLayerMapActivity.html" xlink:actuate="onRequest" xlink:href="WeatherLayerMapActivity.html" xlink:show="new" xlink:title="WeatherLayerMapActivity.html" xlink:type="simple">
+<rect x="6" y="12" width="402.76" height="412.47" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="80.071" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m83.04 36.609q-0.5781 0.2969-1.2187 0.4375-0.6406 0.1562-1.3438 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7032 0 1.3438 0.1562 0.6562 0.1563 1.2187 0.4531v2.7188q-0.625-0.5781-1.2187-0.8438-0.5938-0.2812-1.2188-0.2812-1.3437 0-2.0312 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0312 1.0625 0.625 0 1.2188-0.2656 0.5937-0.2812 1.2187-0.8594v2.7188z"/>
+<text x="133.1543" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="180.9473">WeatherLayerMapActivity</text>
+<text x="100.5713" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="407.76" y1="49.938" y2="49.938" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="63.586" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="66.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="95.4502">LAYER: String</text>
+<line x1="7" x2="407.76" y1="74.234" y2="74.234" stroke="#181818" stroke-width=".5"/>
+<polygon points="17 82.883 21 86.883 17 90.883 13 86.883" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="91.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="162.7227">onCreate(Bundle): void</text>
+<ellipse cx="17" cy="104.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="107.5264" fill="#000000" font-family="sans-serif" font-size="14" textLength="246.8662">onSaveInstanceState(Bundle): void</text>
+<polygon points="17 115.48 21 119.48 17 123.48 13 119.48" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="123.8232" fill="#000000" font-family="sans-serif" font-size="14" textLength="123.915">onResume(): void</text>
+<polygon points="17 131.77 21 135.77 17 139.77 13 135.77" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="140.1201" fill="#000000" font-family="sans-serif" font-size="14" textLength="108.958">onPause(): void</text>
+<polygon points="17 148.07 21 152.07 17 156.07 13 152.07" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="156.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="98.9844">onStop(): void</text>
+<polygon points="17 164.37 21 168.37 17 172.37 13 168.37" fill="#ff4" stroke="#B38D22"/>
+<text x="26" y="172.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="121.9395">onDestroy(): void</text>
+<ellipse cx="17" cy="185.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="189.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="271.2227">onCreateOptionsMenu(Menu): boolean</text>
+<ellipse cx="17" cy="201.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="205.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="177.2148">findLayerPosition(int): int</text>
+<ellipse cx="17" cy="218.26" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="221.6045" fill="#000000" font-family="sans-serif" font-size="14" textLength="149.0371">changeMap(int): void</text>
+<ellipse cx="17" cy="234.55" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="237.9014" fill="#000000" font-family="sans-serif" font-size="14" textLength="310.3857">onOptionsItemSelected(MenuItem): boolean</text>
+<ellipse cx="17" cy="250.85" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="254.1982" fill="#000000" font-family="sans-serif" font-size="14" textLength="247.8438">removeSpecialChars(String): String</text>
+<ellipse cx="17" cy="267.15" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="270.4951" fill="#000000" font-family="sans-serif" font-size="14" textLength="184.0576">setTimeSpinnerList(): void</text>
+<ellipse cx="17" cy="283.45" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="286.792" fill="#000000" font-family="sans-serif" font-size="14" textLength="191.6387">setPollenSpinnerList(): void</text>
+<ellipse cx="17" cy="299.74" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="303.0889" fill="#000000" font-family="sans-serif" font-size="14" textLength="321.4121">getBaseSpinnerPosition(): SpinnerPositionPair</text>
+<ellipse cx="17" cy="316.04" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="319.3857" fill="#000000" font-family="sans-serif" font-size="14" textLength="189.3555">setCloudSpinnerList(): void</text>
+<ellipse cx="17" cy="332.34" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="335.6826" fill="#000000" font-family="sans-serif" font-size="14" textLength="333.1768">setTodaySensedTemeraturesSpinnerList(): void</text>
+<ellipse cx="17" cy="348.63" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="351.9795" fill="#000000" font-family="sans-serif" font-size="14" textLength="376.7559">setTodaySensedTemperatureTimesSpinnerList(): void</text>
+<ellipse cx="17" cy="364.93" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="368.2764" fill="#000000" font-family="sans-serif" font-size="14" textLength="294.5195">setMinMaxTemperatureSpinnerList(): void</text>
+<ellipse cx="17" cy="381.23" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="384.5732" fill="#000000" font-family="sans-serif" font-size="14" textLength="148.2031">attachSpinner(): void</text>
+<ellipse cx="17" cy="397.52" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="400.8701" fill="#000000" font-family="sans-serif" font-size="14" textLength="128.9736">displayMap(): void</text>
+<ellipse cx="17" cy="413.82" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="417.167" fill="#000000" font-family="sans-serif" font-size="14" textLength="234.8623">drawLegend(WeatherLayer): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayerMapActivity.SpinnerPositionPair" data-source-line="37" data-uid="ent0003">
+<a href="WeatherLayerMapActivity.SpinnerPositionPair.html" target="_top" title="WeatherLayerMapActivity.SpinnerPositionPair.html" xlink:actuate="onRequest" xlink:href="WeatherLayerMapActivity.SpinnerPositionPair.html" xlink:show="new" xlink:title="WeatherLayerMapActivity.SpinnerPositionPair.html" xlink:type="simple">
+<rect x="31" y="460" width="352.85" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="46" cy="478.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m48.969 484.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="60" y="477.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="320.8516">WeatherLayerMapActivity.SpinnerPositionPair</text>
+<text x="97.3691" y="490.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayerMapActivity" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.WeatherLayerMapActivity.SpinnerPositionPair" data-uid="lnk4">
+<ellipse cx="207.5" cy="432.02" rx="8" ry="8" fill="#fff"/>
+<line x1="207.5" x2="207.5" y1="440.02" y2="424.02"/>
+<line x1="199.5" x2="215.5" y1="432.02" y2="432.02"/>
+<path d="m207.5 440.02v19.569" fill="none"/>
+</g>
+<g class="footer" data-source-line="47">
+<text x="202.4106" y="501.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="162.8452" y="512.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="327px" height="312px" style="background:transparent;height:312px;width:327px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 327 312" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaDatabaseCreator" data-source-line="13" data-uid="ent0002">
+<a href="Areas.AreaDatabaseCreator.html" target="_top" title="Areas.AreaDatabaseCreator.html" xlink:actuate="onRequest" xlink:href="Areas.AreaDatabaseCreator.html" xlink:show="new" xlink:title="Areas.AreaDatabaseCreator.html" xlink:type="simple">
+<rect x="6" y="86" width="314.9" height="200.61" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="37.554" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m40.523 110.61q-0.5781 0.2969-1.2187 0.4375-0.6406 0.1562-1.3438 0.1562-2.5 0-3.8281-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3281-1.6562 3.8281-1.6562 0.7032 0 1.3438 0.1562 0.6562 0.1563 1.2187 0.4531v2.7188q-0.625-0.5781-1.2187-0.8438-0.5938-0.2812-1.2188-0.2812-1.3437 0-2.0312 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0312 1.0625 0.625 0 1.2188-0.2656 0.5937-0.2812 1.2187-0.8594v2.7188z"/>
+<text x="80.2246" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="196.1299">Areas.AreaDatabaseCreator</text>
+<text x="55.2329" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="319.9" y1="123.94" y2="123.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="137.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="140.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="141.2715">DATABASE_SIZE: int</text>
+<line x1="7" x2="319.9" y1="148.23" y2="148.23" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="161.88" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="165.2295" fill="#000000" font-family="sans-serif" font-size="14" textLength="288.9004">AreaDatabaseCreator(Context, Executor)</text>
+<ellipse cx="17" cy="178.18" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="181.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="221.6348">getAreaDataVersion(String): int</text>
+<ellipse cx="17" cy="194.48" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="197.8232" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="234.9443">getAreaDataVersion(Context): int</text>
+<ellipse cx="17" cy="210.77" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="214.1201" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="263.6348">areAreasUpToDate(Context): boolean</text>
+<ellipse cx="17" cy="227.07" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="230.417" fill="#000000" font-family="sans-serif" font-size="14" textLength="189.1436">setProgressSteps(int): void</text>
+<ellipse cx="17" cy="243.37" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="246.7139" fill="#000000" font-family="sans-serif" font-size="14" textLength="94.4658">create(): void</text>
+<ellipse cx="17" cy="259.66" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="263.0107" fill="#000000" font-family="sans-serif" font-size="14" textLength="215.4414">showProgress(int, String): void</text>
+<ellipse cx="17" cy="275.96" rx="3" ry="3" fill="#84BE84" stroke="#038048"/>
+<text x="26" y="279.3076" fill="#000000" font-family="sans-serif" font-size="14" textLength="125.5283">onFinished(): void</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-source-line="25" data-uid="ent0003">
+<a href="Areas.html" target="_top" title="Areas.html" xlink:actuate="onRequest" xlink:href="Areas.html" xlink:show="new" xlink:title="Areas.html" xlink:type="simple">
+<rect x="24.5" y="12" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="39.5" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m42.469 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="156.647" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="39.8193">Areas</text>
+<text x="53.5" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Areas.AreaDatabaseCreator" data-uid="lnk4">
+<ellipse cx="163.5" cy="58.211" rx="8" ry="8" fill="#fff"/>
+<line x1="163.5" x2="163.5" y1="66.211" y2="50.211"/>
+<line x1="155.5" x2="171.5" y1="58.211" y2="58.211"/>
+<path d="m163.5 66.211v19.57" fill="none"/>
+</g>
+<g class="footer" data-source-line="35">
+<text x="158.4106" y="290.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="118.8452" y="301.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="206px" style="background:transparent;height:206px;width:291px" contentStyleType="text/css" data-diagram-type="CLASS" preserveAspectRatio="none" version="1.1" viewBox="0 0 291 206" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify">
+<g id="a" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.DistanceDisplayUnit" data-source-line="13" data-uid="ent0002">
+<a href="Weather.DistanceDisplayUnit.html" target="_top" title="Weather.DistanceDisplayUnit.html" xlink:actuate="onRequest" xlink:href="Weather.DistanceDisplayUnit.html" xlink:show="new" xlink:title="Weather.DistanceDisplayUnit.html" xlink:type="simple">
+<rect x="6" y="86" width="278.11" height="94.828" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="104.97" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 110.61q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="55.2886" y="103.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="205.5361">Weather.DistanceDisplayUnit</text>
+<text x="35" y="116.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+<line x1="7" x2="283.11" y1="123.94" y2="123.94" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="17" cy="137.59" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="140.9326" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="80.5273">METRIC: int</text>
+<ellipse cx="17" cy="153.88" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="157.2295" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="80.1719">NAUTIC: int</text>
+<ellipse cx="17" cy="170.18" rx="3" ry="3" fill="none" stroke="#038048"/>
+<text x="26" y="173.5264" fill="#000000" font-family="sans-serif" font-size="14" text-decoration="underline" textLength="92.1484">IMPERIAL: int</text>
+</a>
+</g>
+<g id="b" class="entity" data-entity="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-source-line="19" data-uid="ent0003">
+<a href="Weather.html" target="_top" title="Weather.html" xlink:actuate="onRequest" xlink:href="Weather.html" xlink:show="new" xlink:title="Weather.html" xlink:type="simple">
+<rect x="6" y="12" width="278.11" height="37.938" rx="2.5" ry="2.5" fill="#F1F1F1" stroke="#181818" stroke-width=".5"/>
+<ellipse cx="21" cy="30.969" rx="11" ry="11" fill="#ADD1B2" stroke="#181818"/>
+<path d="m23.969 36.609q-0.5782 0.2969-1.2188 0.4375-0.6406 0.1562-1.3437 0.1562-2.5 0-3.8282-1.6406-1.3125-1.6562-1.3125-4.7812t1.3125-4.7813q1.3282-1.6562 3.8282-1.6562 0.7031 0 1.3437 0.1562 0.6563 0.1563 1.2188 0.4531v2.7188q-0.625-0.5781-1.2188-0.8438-0.5937-0.2812-1.2187-0.2812-1.3438 0-2.0313 1.0781-0.6875 1.0625-0.6875 3.1563 0 2.0937 0.6875 3.1718 0.6875 1.0625 2.0313 1.0625 0.625 0 1.2187-0.2656 0.5938-0.2812 1.2188-0.8594v2.7188z"/>
+<text x="128.1733" y="29.9951" fill="#000000" font-family="sans-serif" font-size="14" textLength="59.7666">Weather</text>
+<text x="35" y="42.5791" fill="#000000" font-family="sans-serif" font-size="10" textLength="246.1133">de.kaffeemitkoffein.tinyweatherforecastgermany</text>
+</a>
+</g>
+<g id="c" class="link" stroke="#181818" data-entity-1="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather" data-entity-2="de.kaffeemitkoffein.tinyweatherforecastgermany.Weather.DistanceDisplayUnit" data-uid="lnk4">
+<ellipse cx="145" cy="58.433" rx="8" ry="8" fill="#fff"/>
+<line x1="145" x2="145" y1="66.433" y2="50.433"/>
+<line x1="137" x2="153" y1="58.433" y2="58.433"/>
+<path d="m145 66.433v19.311" fill="none"/>
+</g>
+<g class="footer" data-source-line="29">
+<text x="139.9106" y="184.2822" fill="#888888" font-family="sans-serif" font-size="10" textLength="3.1787"></text>
+<a href="https://github.com/talsma-ict/umldoclet" target="_top" title="https://github.com/talsma-ict/umldoclet" xlink:actuate="onRequest" xlink:href="https://github.com/talsma-ict/umldoclet" xlink:show="new" xlink:title="https://github.com/talsma-ict/umldoclet" xlink:type="simple">
+<text x="100.3452" y="195.9229" fill="#888888" font-family="sans-serif" font-size="10" textLength="82.3096">UMLDoclet 2.2.4</text>
+</a>
+</g>
+</svg>
